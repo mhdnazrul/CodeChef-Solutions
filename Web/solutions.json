@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "problemName": "Valid Stack Operations",
+        "problemId": "VALIDSTK",
+        "questionUrl": "https://www.codechef.com/problems/VALIDSTK",
+        "solutionUrl": "./Solutions/Valid_Stack_Operations.cpp"
+    }
+]

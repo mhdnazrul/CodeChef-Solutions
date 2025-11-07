@@ -1,20 +1,18 @@
-// https://vjudge.net/contest/756123#problem/A
-// nazrulislam_7
+// problem link:https://www.codechef.com/problems/VALIDSTK
+// Author: nazrulislam_7
 #include <bits/stdc++.h>
 using namespace std;
-#define FAST_IO               \
- ios::sync_with_stdio(false); \
- cin.tie(nullptr);
 using ll = long long;
-using vi = vector<int>;
-using vll = vector<ll>;
-const ll mod = 1e9 + 7;
-
+#define nl '\n'
+#define all(vec) (vec).begin(), (vec).end()
+#define rall(vec) (vec).rbegin(), (vec).rend()
+template<class T> void readV(vector<T>& v) { for(auto &x : v) cin >> x; }
+template<class T> void printV(const vector<T>& v) { for(auto x : v) cout << x << ' '; cout << '\n'; }
 void solve()
 {
  int n, cnt = 0;
  cin >> n;
- vi v(n);
+ vector<int> v(n);
  for (int &i : v)
   cin >> i;
 
@@ -36,12 +34,13 @@ void solve()
  cout << "Valid\n";
 }
 
-int main()
-{
- FAST_IO;
- int T;
- cin >> T;
- while (T--)
-  solve();
- return 0;
+int32_t main() {
+    ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
+    int test_cases = 1;
+    cin >> test_cases;
+    for(int tc = 1; tc <= test_cases; tc++){
+    //  cout << "Case #" << tc << ": ";
+        solve();
+    }
+    return 0;
 }
