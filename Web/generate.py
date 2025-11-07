@@ -43,12 +43,11 @@ def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
 def generate_readme(solutions: List[Dict[str, Any]]):
     print(f"Generating {README_FILE}...")
    
-    content = f"""#
- CodeChef Solution Archive
-Welcome to my automated CodeChef solution archive. This site is automatically updated from my GitHub repo using GitHub Actions.
-**Find me on:**
-[CodeChef Solution Archive](https://mhdnazrul.github.io/CodeChef-Solutions/) | [GitHub](https://github.com/mhdnazrul) | [CodeChef]([আপনার CodeChef প্রোফাইল লিঙ্ক])
----
+    content = f"""##  CodeChef Solution Archive [link](https://mhdnazrul.github.io/CodeChef-Solutions/) 
+### 📢 Find me on:
+- [CodeChef Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/) 
+- [GitHub](https://github.com/mhdnazrul) | [CodeChef](https://www.codechef.com/users/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
+
 ## 📊 Statistics
 * **Total Problems Solved:** {len(solutions)}
 ---

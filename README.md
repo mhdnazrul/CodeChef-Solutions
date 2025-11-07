@@ -1,9 +1,8 @@
-#
- CodeChef Solution Archive
-Welcome to my automated CodeChef solution archive. This site is automatically updated from my GitHub repo using GitHub Actions.
-**Find me on:**
-[CodeChef Solution Archive](https://mhdnazrul.github.io/CodeChef-Solutions/) | [GitHub](https://github.com/mhdnazrul) | [CodeChef]([আপনার CodeChef প্রোফাইল লিঙ্ক])
----
+##  CodeChef Solution Archive [link](https://mhdnazrul.github.io/CodeChef-Solutions/) 
+### 📢 Find me on:
+- [CodeChef Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/) 
+- [GitHub](https://github.com/mhdnazrul) | [CodeChef](https://www.codechef.com/users/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
+
 ## 📊 Statistics
 * **Total Problems Solved:** 1
 ---
