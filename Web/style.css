@@ -38,7 +38,7 @@ main {
     justify-content: center;
 }
 .stat-box {
-    flex-basis: 300px;
+    flex-basis: 200px;
     background: #fff;
     padding: 20px;
     border-radius: 8px;
