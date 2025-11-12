@@ -1,1 +1,272 @@
-[]
+[
+    {
+        "problemName": "Air Conditioner Temperature",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP",
+        "solutionUrl": "./Solutions/Air Conditioner Temperature.cpp"
+    },
+    {
+        "problemName": "Basketball Score",
+        "problemId": "https://www.codechef.com/START212D/problems/P1BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P1BAR",
+        "solutionUrl": "./Solutions/Basketball_Score.cpp"
+    },
+    {
+        "problemName": "Bath in Winters",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
+        "solutionUrl": "./Solutions/Bath in Winters.cpp"
+    },
+    {
+        "problemName": "Binary Flip",
+        "problemId": "https://www.codechef.com/START212D/problems/P4BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P4BAR",
+        "solutionUrl": "./Solutions/Binary_Flip.cpp"
+    },
+    {
+        "problemName": "Bus Seat Numbering",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
+        "solutionUrl": "./Solutions/Bus Seat Numbering.cpp"
+    },
+    {
+        "problemName": "CRED Coins",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS",
+        "solutionUrl": "./Solutions/CRED Coins.cpp"
+    },
+    {
+        "problemName": "Car Choice",
+        "problemId": "https://www.codechef.com/problems/CARCHOICE",
+        "questionUrl": "https://www.codechef.com/problems/CARCHOICE",
+        "solutionUrl": "./Solutions/Car_Choice.cpp"
+    },
+    {
+        "problemName": "Car or Bike",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
+        "solutionUrl": "./Solutions/Car or Bike.cpp"
+    },
+    {
+        "problemName": "Chef and Battery",
+        "problemId": "https://www.codechef.com/problems/FIFTYPE",
+        "questionUrl": "https://www.codechef.com/problems/FIFTYPE",
+        "solutionUrl": "./Solutions/Chef_and_Battery.cpp"
+    },
+    {
+        "problemName": "Chef and Candies",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
+        "solutionUrl": "./Solutions/Chef and Candies.cpp"
+    },
+    {
+        "problemName": "Chef and NextGen",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
+        "solutionUrl": "./Solutions/Chef and NextGen.cpp"
+    },
+    {
+        "problemName": "Chef in his Office",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
+        "solutionUrl": "./Solutions/Chef in his Office.cpp"
+    },
+    {
+        "problemName": "Chef on Vacation",
+        "problemId": "https://www.codechef.com/problems/CHEFVACATION",
+        "questionUrl": "https://www.codechef.com/problems/CHEFVACATION",
+        "solutionUrl": "./Solutions/Chef_on_Vacation.cpp"
+    },
+    {
+        "problemName": "Chefland Games",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES",
+        "solutionUrl": "./Solutions/Chefland Games.cpp"
+    },
+    {
+        "problemName": "Count the Notebooks",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK",
+        "solutionUrl": "./Solutions/Count the Notebooks.cpp"
+    },
+    {
+        "problemName": "Discus Throw",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
+        "solutionUrl": "./Solutions/Discus Throw.cpp"
+    },
+    {
+        "problemName": "Distinct Fun",
+        "problemId": "https://www.codechef.com/START212D/problems/P7BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P7BAR",
+        "solutionUrl": "./Solutions/Distinct_Fun.cpp"
+    },
+    {
+        "problemName": "Elections in Chefland",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN",
+        "solutionUrl": "./Solutions/Elections in Chefland.cpp"
+    },
+    {
+        "problemName": "Exams",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF",
+        "solutionUrl": "./Solutions/Exams.cpp"
+    },
+    {
+        "problemName": "Exit Door",
+        "problemId": "https://www.codechef.com/START212D/problems/P3BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P3BAR",
+        "solutionUrl": "./Solutions/Exit_Door.cpp"
+    },
+    {
+        "problemName": "Expense List",
+        "problemId": "https://www.codechef.com/problems/EXPENSES",
+        "questionUrl": "https://www.codechef.com/problems/EXPENSES",
+        "solutionUrl": "./Solutions/Expense_List.cpp"
+    },
+    {
+        "problemName": "Expert Setter",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
+        "solutionUrl": "./Solutions/Expert Setter.cpp"
+    },
+    {
+        "problemName": "Flip the cards",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
+        "solutionUrl": "./Solutions/Flip the cards.cpp"
+    },
+    {
+        "problemName": "Good Program",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
+        "solutionUrl": "./Solutions/Good Program.cpp"
+    },
+    {
+        "problemName": "Good Weather",
+        "problemId": "https://www.codechef.com/problems/GOODWEAT",
+        "questionUrl": "https://www.codechef.com/problems/GOODWEAT",
+        "solutionUrl": "./Solutions/Good_Weather.cpp"
+    },
+    {
+        "problemName": "Greater Average",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM",
+        "solutionUrl": "./Solutions/Greater-Average.cpp"
+    },
+    {
+        "problemName": "Gross Salary",
+        "problemId": "https://www.codechef.com/problems/FLOW011",
+        "questionUrl": "https://www.codechef.com/problems/FLOW011",
+        "solutionUrl": "./Solutions/Gross_Salary.cpp"
+    },
+    {
+        "problemName": "Hackerman",
+        "problemId": "https://www.codechef.com/problems/PRIMEDICE",
+        "questionUrl": "https://www.codechef.com/problems/PRIMEDICE",
+        "solutionUrl": "./Solutions/Hackerman.cpp"
+    },
+    {
+        "problemName": "Is the Score Consistent",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
+        "solutionUrl": "./Solutions/Is the Score Consistent.cpp"
+    },
+    {
+        "problemName": "Janmansh and Assignments",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
+        "solutionUrl": "./Solutions/Janmansh and Assignments.cpp"
+    },
+    {
+        "problemName": "Jenga Night",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA",
+        "solutionUrl": "./Solutions/Jenga Night.cpp"
+    },
+    {
+        "problemName": "Kitchen Timetable",
+        "problemId": "https://www.codechef.com/problems/KTTABLE",
+        "questionUrl": "https://www.codechef.com/problems/KTTABLE",
+        "solutionUrl": "./Solutions/Kitchen_Timetable.cpp"
+    },
+    {
+        "problemName": "Maximise the Tastiness",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
+        "solutionUrl": "./Solutions/Maximise the Tastiness.cpp"
+    },
+    {
+        "problemName": "Moody Chef",
+        "problemId": "https://www.codechef.com/problems/MOOCHEF",
+        "questionUrl": "https://www.codechef.com/problems/MOOCHEF",
+        "solutionUrl": "./Solutions/Moody_Chef.cpp"
+    },
+    {
+        "problemName": "Mutated Minions",
+        "problemId": "https://www.codechef.com/problems/CHN15A",
+        "questionUrl": "https://www.codechef.com/problems/CHN15A",
+        "solutionUrl": "./Solutions/Mutated_Minions.cpp"
+    },
+    {
+        "problemName": "Police and Thief",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF",
+        "solutionUrl": "./Solutions/Police and Thief.cpp"
+    },
+    {
+        "problemName": "Recent contest problems",
+        "problemId": "https://www.codechef.com/problems/RECENTCONT",
+        "questionUrl": "https://www.codechef.com/problems/RECENTCONT",
+        "solutionUrl": "./Solutions/Recent_contest_problems.cpp"
+    },
+    {
+        "problemName": "Rectangled",
+        "problemId": "https://www.codechef.com/problems/RCTGLD",
+        "questionUrl": "https://www.codechef.com/problems/RCTGLD",
+        "solutionUrl": "./Solutions/Rectangled.cpp"
+    },
+    {
+        "problemName": "Signal",
+        "problemId": "https://www.codechef.com/START212C/problems/P2BAR",
+        "questionUrl": "https://www.codechef.com/START212C/problems/P2BAR",
+        "solutionUrl": "./Solutions/Signal.cpp"
+    },
+    {
+        "problemName": "Single use Attack",
+        "problemId": "https://www.codechef.com/problems/SINGLEUSE",
+        "questionUrl": "https://www.codechef.com/problems/SINGLEUSE",
+        "solutionUrl": "./Solutions/Single_use_Attack.cpp"
+    },
+    {
+        "problemName": "Speciality",
+        "problemId": "https://www.codechef.com/problems/SPECIALITY",
+        "questionUrl": "https://www.codechef.com/problems/SPECIALITY",
+        "solutionUrl": "./Solutions/Speciality.cpp"
+    },
+    {
+        "problemName": "The Lead Game",
+        "problemId": "https://www.codechef.com/problems/TLG",
+        "questionUrl": "https://www.codechef.com/problems/TLG",
+        "solutionUrl": "./Solutions/The_Lead_Game.cpp"
+    },
+    {
+        "problemName": "Too many Floors",
+        "problemId": "https://www.codechef.com/problems/FLOORS",
+        "questionUrl": "https://www.codechef.com/problems/FLOORS",
+        "solutionUrl": "./Solutions/Too_many_Floors.cpp"
+    },
+    {
+        "problemName": "Valid Stack Operations",
+        "problemId": "https://www.codechef.com/problems/VALIDSTK",
+        "questionUrl": "https://www.codechef.com/problems/VALIDSTK",
+        "solutionUrl": "./Solutions/Valid_Stack_Operations.cpp"
+    },
+    {
+        "problemName": "Watching Movies at 2x",
+        "problemId": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X",
+        "solutionUrl": "./Solutions/Watching Movies at 2x.cpp"
+    }
+]
