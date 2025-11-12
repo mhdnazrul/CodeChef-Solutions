@@ -13,12 +13,10 @@ OUTPUT_JSON_FILE = os.path.join(SCRIPT_DIR, 'solutions.json')
 README_FILE = os.path.join(ROOT_DIR, 'README.md')
 
 CODECHEF_REGEX = re.compile(
-    r'(https?://www\.codechef\.com/'
-    r'(?:'
-    r'[^/]+/problems/([A-Z0-9_]+)'
-    r'|problems/([A-Z0-9_]+)'
-    r'))'
+    r'(https?://(?:www\.)?codechef\.com/[^\s)]+)',
+    re.IGNORECASE
 )
+
 
 def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
     try:
