@@ -3,7 +3,7 @@
         "problemName": "Air Conditioner Temperature",
         "problemId": "ACTEMP",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP",
-        "solutionUrl": "./Solutions/Air Conditioner Temperature.cpp"
+        "solutionUrl": "./Solutions/Air%20Conditioner%20Temperature.cpp"
     },
     {
         "problemName": "Basketball Score",
@@ -15,7 +15,7 @@
         "problemName": "Bath in Winters",
         "problemId": "BATH",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
-        "solutionUrl": "./Solutions/Bath in Winters.cpp"
+        "solutionUrl": "./Solutions/Bath%20in%20Winters.cpp"
     },
     {
         "problemName": "Binary Flip",
@@ -27,13 +27,13 @@
         "problemName": "Bus Seat Numbering",
         "problemId": "SEATNUMBER",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
-        "solutionUrl": "./Solutions/Bus Seat Numbering.cpp"
+        "solutionUrl": "./Solutions/Bus%20Seat%20Numbering.cpp"
     },
     {
         "problemName": "CRED Coins",
         "problemId": "CREDCOINS",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS",
-        "solutionUrl": "./Solutions/CRED Coins.cpp"
+        "solutionUrl": "./Solutions/CRED%20Coins.cpp"
     },
     {
         "problemName": "Car Choice",
@@ -45,7 +45,7 @@
         "problemName": "Car or Bike",
         "problemId": "TRAVELFAST",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
-        "solutionUrl": "./Solutions/Car or Bike.cpp"
+        "solutionUrl": "./Solutions/Car%20or%20Bike.cpp"
     },
     {
         "problemName": "Chef and Battery",
@@ -57,19 +57,19 @@
         "problemName": "Chef and Candies",
         "problemId": "CHEFCAND",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
-        "solutionUrl": "./Solutions/Chef and Candies.cpp"
+        "solutionUrl": "./Solutions/Chef%20and%20Candies.cpp"
     },
     {
         "problemName": "Chef and NextGen",
         "problemId": "HELIUM3",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
-        "solutionUrl": "./Solutions/Chef and NextGen.cpp"
+        "solutionUrl": "./Solutions/Chef%20and%20NextGen.cpp"
     },
     {
         "problemName": "Chef in his Office",
         "problemId": "OFFICE",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
-        "solutionUrl": "./Solutions/Chef in his Office.cpp"
+        "solutionUrl": "./Solutions/Chef%20in%20his%20Office.cpp"
     },
     {
         "problemName": "Chef on Vacation",
@@ -81,19 +81,19 @@
         "problemName": "Chefland Games",
         "problemId": "CHEFGAMES",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES",
-        "solutionUrl": "./Solutions/Chefland Games.cpp"
+        "solutionUrl": "./Solutions/Chefland%20Games.cpp"
     },
     {
         "problemName": "Count the Notebooks",
         "problemId": "NOTEBOOK",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK",
-        "solutionUrl": "./Solutions/Count the Notebooks.cpp"
+        "solutionUrl": "./Solutions/Count%20the%20Notebooks.cpp"
     },
     {
         "problemName": "Discus Throw",
         "problemId": "DISCUS",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
-        "solutionUrl": "./Solutions/Discus Throw.cpp"
+        "solutionUrl": "./Solutions/Discus%20Throw.cpp"
     },
     {
         "problemName": "Distinct Fun",
@@ -105,7 +105,7 @@
         "problemName": "Elections in Chefland",
         "problemId": "ELECTN",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN",
-        "solutionUrl": "./Solutions/Elections in Chefland.cpp"
+        "solutionUrl": "./Solutions/Elections%20in%20Chefland.cpp"
     },
     {
         "problemName": "Exams",
@@ -129,19 +129,19 @@
         "problemName": "Expert Setter",
         "problemId": "EXPERT",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
-        "solutionUrl": "./Solutions/Expert Setter.cpp"
+        "solutionUrl": "./Solutions/Expert%20Setter.cpp"
     },
     {
         "problemName": "Flip the cards",
         "problemId": "EXPERT",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
-        "solutionUrl": "./Solutions/Flip the cards.cpp"
+        "solutionUrl": "./Solutions/Flip%20the%20cards.cpp"
     },
     {
         "problemName": "Good Program",
         "problemId": "NIBBLE",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
-        "solutionUrl": "./Solutions/Good Program.cpp"
+        "solutionUrl": "./Solutions/Good%20Program.cpp"
     },
     {
         "problemName": "Good Weather",
@@ -171,19 +171,19 @@
         "problemName": "Is the Score Consistent",
         "problemId": "TRUESCORE",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
-        "solutionUrl": "./Solutions/Is the Score Consistent.cpp"
+        "solutionUrl": "./Solutions/Is%20the%20Score%20Consistent.cpp"
     },
     {
         "problemName": "Janmansh and Assignments",
         "problemId": "JASSIGNMENTS",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
-        "solutionUrl": "./Solutions/Janmansh and Assignments.cpp"
+        "solutionUrl": "./Solutions/Janmansh%20and%20Assignments.cpp"
     },
     {
         "problemName": "Jenga Night",
         "problemId": "JENGA",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA",
-        "solutionUrl": "./Solutions/Jenga Night.cpp"
+        "solutionUrl": "./Solutions/Jenga%20Night.cpp"
     },
     {
         "problemName": "Kitchen Timetable",
@@ -195,7 +195,7 @@
         "problemName": "Maximise the Tastiness",
         "problemId": "MAXTASTE",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
-        "solutionUrl": "./Solutions/Maximise the Tastiness.cpp"
+        "solutionUrl": "./Solutions/Maximise%20the%20Tastiness.cpp"
     },
     {
         "problemName": "Moody Chef",
@@ -213,7 +213,7 @@
         "problemName": "Police and Thief",
         "problemId": "POLTHIEF",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF",
-        "solutionUrl": "./Solutions/Police and Thief.cpp"
+        "solutionUrl": "./Solutions/Police%20and%20Thief.cpp"
     },
     {
         "problemName": "Recent contest problems",
@@ -267,6 +267,6 @@
         "problemName": "Watching Movies at 2x",
         "problemId": "MOVIE2X",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X",
-        "solutionUrl": "./Solutions/Watching Movies at 2x.cpp"
+        "solutionUrl": "./Solutions/Watching%20Movies%20at%202x.cpp"
     }
 ]
