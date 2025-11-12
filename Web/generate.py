@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import urllib.parse
 from typing import Dict, Any, Optional, List
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -12,24 +13,19 @@ FOLDERS_TO_SCAN = [
 OUTPUT_JSON_FILE = os.path.join(SCRIPT_DIR, 'solutions.json')
 README_FILE = os.path.join(ROOT_DIR, 'README.md')
 
-# Updated regex to detect all types of CodeChef links
 CODECHEF_REGEX = re.compile(
     r'https?://(?:www\.)?codechef\.com/(?:[^/\s]+/)*problems/([A-Za-z0-9_]+)',
     re.IGNORECASE
 )
 
 def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
-    """
-    Detects any CodeChef problem link inside a given file.
-    Returns a dictionary with the full URL and problem ID if found.
-    """
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 match = CODECHEF_REGEX.search(line)
                 if match:
-                    url = match.group(0)        # Full URL
-                    problem_id = match.group(1) # Problem ID
+                    url = match.group(0)
+                    problem_id = match.group(1)
                     return {"url": url, "id": problem_id}
             print(f"Warning: Could not find ANY valid CodeChef link in: {file_path}")
             return None
@@ -38,8 +34,6 @@ def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
         return None
 
 def generate_readme(solutions: List[Dict[str, Any]]):
-    print(f"Generating {README_FILE}...")
-   
     content = f"""##  CodeChef Solution Archive [link](https://mhdnazrul.github.io/CodeChef-Solutions/) 
 ### 📢 Find me on:
 - [CodeChef Solution Archive Website](https://mhdnazrul.github.io/CodeChef-Solutions/) 
@@ -50,7 +44,6 @@ def generate_readme(solutions: List[Dict[str, Any]]):
 ---
 ## 📋 Solution Index
 """
-   
     content += "| Problem ID | Problem Name | Question | Solution |\n"
     content += "| :----- | :------ | :-----: | :-----: |\n"
    
@@ -59,7 +52,6 @@ def generate_readme(solutions: List[Dict[str, Any]]):
         problem_name = sol.get('problemName', 'N/A')
         question_url = sol.get('questionUrl', '#')
         solution_url = sol.get('solutionUrl', '#')
-       
         content += f"| {problem_id} | {problem_name} | [Question]({question_url}) | [Solution]({solution_url}) |\n"
 
     try:
@@ -71,7 +63,6 @@ def generate_readme(solutions: List[Dict[str, Any]]):
 
 def main():
     all_solutions = []
-   
     print(f"Scanning folders: {', '.join(FOLDERS_TO_SCAN)}...")
    
     for folder in FOLDERS_TO_SCAN:
@@ -80,17 +71,14 @@ def main():
                 if file.endswith('.cpp'):
                     file_path = os.path.join(root, file)
                     link_info = parse_problem_link(file_path)
-                   
                     if link_info:
                         problem_id = link_info['id']
                         url = link_info['url']
-                       
                         file_name_only = os.path.splitext(file)[0]
                         problem_name = file_name_only.replace('_', ' ').replace('-', ' ')
-                       
                         solution_path = os.path.relpath(file_path, ROOT_DIR)
                         web_path = solution_path.replace(os.sep, '/')
-                       
+                        web_path = urllib.parse.quote(web_path)
                         solution_entry = {
                             "problemName": problem_name,
                             "problemId": problem_id,
