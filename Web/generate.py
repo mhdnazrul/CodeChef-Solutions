@@ -12,28 +12,27 @@ FOLDERS_TO_SCAN = [
 OUTPUT_JSON_FILE = os.path.join(SCRIPT_DIR, 'solutions.json')
 README_FILE = os.path.join(ROOT_DIR, 'README.md')
 
+# Updated regex to detect all types of CodeChef links
 CODECHEF_REGEX = re.compile(
-    r'(https?://(?:www\.)?codechef\.com/[^\s)]+)',
+    r'https?://(?:www\.)?codechef\.com/(?:[^/\s]+/)*problems/([A-Za-z0-9_]+)',
     re.IGNORECASE
 )
 
-
 def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
+    """
+    Detects any CodeChef problem link inside a given file.
+    Returns a dictionary with the full URL and problem ID if found.
+    """
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 match = CODECHEF_REGEX.search(line)
                 if match:
-                    url = match.group(0)   # full URL
-                    problem_id = match.group(1)  # problem ID
+                    url = match.group(0)        # Full URL
+                    problem_id = match.group(1) # Problem ID
                     return {"url": url, "id": problem_id}
             print(f"Warning: Could not find ANY valid CodeChef link in: {file_path}")
             return None
-    except Exception as e:
-        print(f"Error reading file {file_path}: {e}")
-        return None
-
-           
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
         return None
@@ -53,7 +52,7 @@ def generate_readme(solutions: List[Dict[str, Any]]):
 """
    
     content += "| Problem ID | Problem Name | Question | Solution |\n"
-    content += "| :---- | :---- | :----: | :----: |\n"
+    content += "| :----- | :------ | :-----: | :-----: |\n"
    
     for sol in solutions:
         problem_id = sol.get('problemId', 'N/A')
