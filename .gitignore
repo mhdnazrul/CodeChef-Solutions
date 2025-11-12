@@ -1,0 +1,43 @@
+C++ Executable and object files
+git add . && git commit -m "Add Solution" && git pull --rebase && git push
+
+*.exe
+*.o
+*.out
+*.cph
+*.prob
+
+=======================================================
+
+VS Code and IDE folders
+
+.vscode/
+.idea/
+
+=======================================================
+
+Backup or temporary folders
+
+cph/
+temp/
+Others/
+others/
+cp_temp/
+test/
+build/
+
+=======================================================
+
+OS-specific files
+
+.DS_Store
+Thumbs.db
+
+=======================================================
+
+C++ generated debug/log files
+
+=======================================================
+
+*.log
+*.stackdump
