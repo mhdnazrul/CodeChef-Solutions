@@ -1,5 +1,35 @@
 [
     {
+        "problemName": "Basketball Score",
+        "problemId": "P1BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P1BAR",
+        "solutionUrl": "./Solutions/Basketball_Score.cpp"
+    },
+    {
+        "problemName": "Binary Flip",
+        "problemId": "P4BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P4BAR",
+        "solutionUrl": "./Solutions/Binary_Flip.cpp"
+    },
+    {
+        "problemName": "Distinct Fun",
+        "problemId": "P7BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P7BAR",
+        "solutionUrl": "./Solutions/Distinct_Fun.cpp"
+    },
+    {
+        "problemName": "Exit Door",
+        "problemId": "P3BAR",
+        "questionUrl": "https://www.codechef.com/START212D/problems/P3BAR",
+        "solutionUrl": "./Solutions/Exit_Door.cpp"
+    },
+    {
+        "problemName": "Signal",
+        "problemId": "P2BAR",
+        "questionUrl": "https://www.codechef.com/START212C/problems/P2BAR",
+        "solutionUrl": "./Solutions/Signal.cpp"
+    },
+    {
         "problemName": "Valid Stack Operations",
         "problemId": "VALIDSTK",
         "questionUrl": "https://www.codechef.com/problems/VALIDSTK",
