@@ -24,15 +24,15 @@ def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
             for line in f:
                 match = CODECHEF_REGEX.search(line)
                 if match:
-                    url = match.group(1)
-                   
-                    problem_id = match.group(2) or match.group(3)
-                   
-                    if problem_id:
-                        return {"url": url, "id": problem_id}
-                               
+                    url = match.group(0)   # full URL
+                    problem_id = match.group(1)  # problem ID
+                    return {"url": url, "id": problem_id}
             print(f"Warning: Could not find ANY valid CodeChef link in: {file_path}")
             return None
+    except Exception as e:
+        print(f"Error reading file {file_path}: {e}")
+        return None
+
            
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
