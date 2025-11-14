@@ -4,7 +4,7 @@
 - [GitHub](https://github.com/mhdnazrul) | [CodeChef](https://www.codechef.com/users/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 
 ## 📊 Statistics
-* **Total Problems Solved:** 45
+* **Total Problems Solved:** 46
 ---
 ## 📋 Solution Index
 | Problem ID | Problem Name | Question | Solution |
@@ -41,6 +41,7 @@
 | JASSIGNMENTS | Janmansh and Assignments | [Question](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS) | [Solution](./Solutions/Janmansh%20and%20Assignments.cpp) |
 | JENGA | Jenga Night | [Question](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA) | [Solution](./Solutions/Jenga%20Night.cpp) |
 | KTTABLE | Kitchen Timetable | [Question](https://www.codechef.com/problems/KTTABLE) | [Solution](./Solutions/Kitchen_Timetable.cpp) |
+| TRANSFORM | Mario and Transformation | [Question](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRANSFORM) | [Solution](./Solutions/Mario_and_Transformation.cpp) |
 | MAXTASTE | Maximise the Tastiness | [Question](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE) | [Solution](./Solutions/Maximise%20the%20Tastiness.cpp) |
 | MOOCHEF | Moody Chef | [Question](https://www.codechef.com/problems/MOOCHEF) | [Solution](./Solutions/Moody_Chef.cpp) |
 | CHN15A | Mutated Minions | [Question](https://www.codechef.com/problems/CHN15A) | [Solution](./Solutions/Mutated_Minions.cpp) |
