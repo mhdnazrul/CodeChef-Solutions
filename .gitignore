@@ -1,6 +1,14 @@
-C++ Executable and object files
-git add . && git commit -m "Add Solution" && git pull --rebase && git push
+# One-line safe push command (use after adding solutions)
+# git add Solutions/ && git commit -m "Add new solutions" && git pull origin main && git push origin main
 
+# Backup or temporary folders
+cph/
+temp/
+Others/
+others/
+cp_temp/
+test/
+build/
 *.exe
 *.o
 *.out
