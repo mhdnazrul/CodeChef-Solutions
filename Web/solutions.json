@@ -192,6 +192,12 @@
         "solutionUrl": "./Solutions/Kitchen_Timetable.cpp"
     },
     {
+        "problemName": "Mario and Transformation",
+        "problemId": "TRANSFORM",
+        "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRANSFORM",
+        "solutionUrl": "./Solutions/Mario_and_Transformation.cpp"
+    },
+    {
         "problemName": "Maximise the Tastiness",
         "problemId": "MAXTASTE",
         "questionUrl": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
