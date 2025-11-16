@@ -1,1569 +1,1569 @@
 [
   {
-    "id": "M",
+    "id": "MOOCHEF",
     "name": "Moody Chef",
-    "q_link": "https://www.codechef.com/problems/M",
+    "q_link": "https://www.codechef.com/problems/MOOCHEF",
     "sol_path": "Solutions/Moody_Chef.cpp",
     "filename": "Moody_Chef.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Watermelon",
     "name": "A Watermelon",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Watermelon",
     "sol_path": "Solutions/A_Watermelon.cpp",
     "filename": "A_Watermelon.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Notelock",
     "name": "A Notelock",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Notelock",
     "sol_path": "Solutions/A_Notelock.cpp",
     "filename": "A_Notelock.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Calculating_Function",
     "name": "A Calculating Function",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Calculating_Function",
     "sol_path": "Solutions/A_Calculating_Function.cpp",
     "filename": "A_Calculating_Function.cpp"
   },
   {
-    "id": "N",
+    "id": "NIBBLE",
     "name": "Good Program",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/N",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
     "sol_path": "Solutions/Good_Program.cpp",
     "filename": "Good_Program.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Anton_and_Danik",
     "name": "A Anton and Danik",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Anton_and_Danik",
     "sol_path": "Solutions/A_Anton_and_Danik.cpp",
     "filename": "A_Anton_and_Danik.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Four_Coprimes",
     "name": "A Four Coprimes",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Four_Coprimes",
     "sol_path": "Solutions/A_Four_Coprimes.cpp",
     "filename": "A_Four_Coprimes.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Tricky_Sum",
     "name": "A Tricky Sum",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Tricky_Sum",
     "sol_path": "Solutions/A_Tricky_Sum.cpp",
     "filename": "A_Tricky_Sum.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Equal_Occurrences",
     "name": "A Equal Occurrences",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Equal_Occurrences",
     "sol_path": "Solutions/A_Equal_Occurrences.cpp",
     "filename": "A_Equal_Occurrences.cpp"
   },
   {
-    "id": "C",
+    "id": "CHEFVACATION",
     "name": "Chef on Vacation",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/CHEFVACATION",
     "sol_path": "Solutions/Chef_on_Vacation.cpp",
     "filename": "Chef_on_Vacation.cpp"
   },
   {
-    "id": "P",
+    "id": "PRIMEDICE",
     "name": "Hackerman",
-    "q_link": "https://www.codechef.com/problems/P",
+    "q_link": "https://www.codechef.com/problems/PRIMEDICE",
     "sol_path": "Solutions/Hackerman.cpp",
     "filename": "Hackerman.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Following_the_String",
     "name": "B Following the String",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Following_the_String",
     "sol_path": "Solutions/B_Following_the_String.cpp",
     "filename": "B_Following_the_String.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Halloumi_Boxes",
     "name": "A Halloumi Boxes",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Halloumi_Boxes",
     "sol_path": "Solutions/A_Halloumi_Boxes.cpp",
     "filename": "A_Halloumi_Boxes.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Theatre_Square",
     "name": "A Theatre Square",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Theatre_Square",
     "sol_path": "Solutions/A_Theatre_Square.cpp",
     "filename": "A_Theatre_Square.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Sum_of_Round_Numbers",
     "name": "A Sum of Round Numbers",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Sum_of_Round_Numbers",
     "sol_path": "Solutions/A_Sum_of_Round_Numbers.cpp",
     "filename": "A_Sum_of_Round_Numbers.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Bit",
     "name": "A Bit",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Bit",
     "sol_path": "Solutions/A_Bit.cpp",
     "filename": "A_Bit.cpp"
   },
   {
-    "id": "B",
+    "id": "BATH",
     "name": "Bath in Winters",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/B",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
     "sol_path": "Solutions/Bath_in_Winters.cpp",
     "filename": "Bath_in_Winters.cpp"
   },
   {
-    "id": "C",
+    "id": "CREDCOINS",
     "name": "CRED Coins",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/C",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS",
     "sol_path": "Solutions/CRED_Coins.cpp",
     "filename": "CRED_Coins.cpp"
   },
   {
-    "id": "A",
+    "id": "A_TrippiTroppi",
     "name": "A TrippiTroppi",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_TrippiTroppi",
     "sol_path": "Solutions/A_TrippiTroppi.cpp",
     "filename": "A_TrippiTroppi.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Ultra_Fast_Mathematician",
     "name": "A Ultra Fast Mathematician",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Ultra_Fast_Mathematician",
     "sol_path": "Solutions/A_Ultra_Fast_Mathematician.cpp",
     "filename": "A_Ultra_Fast_Mathematician.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Range_Operation",
     "name": "C Range Operation",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Range_Operation",
     "sol_path": "Solutions/C_Range_Operation.cpp",
     "filename": "C_Range_Operation.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Mahmoud_and_Ehab_and_the_even_odd_game",
     "name": "A Mahmoud and Ehab and the even odd game",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Mahmoud_and_Ehab_and_the_even_odd_game",
     "sol_path": "Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp",
     "filename": "A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Circle_of_Apple_Trees",
     "name": "A Circle of Apple Trees",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Circle_of_Apple_Trees",
     "sol_path": "Solutions/A_Circle_of_Apple_Trees.cpp",
     "filename": "A_Circle_of_Apple_Trees.cpp"
   },
   {
-    "id": "M",
+    "id": "Minimum_Pizzas",
     "name": "Minimum Pizzas",
-    "q_link": "https://www.codechef.com/problems/M",
+    "q_link": "https://www.codechef.com/problems/Minimum_Pizzas",
     "sol_path": "Solutions/Minimum_Pizzas.cpp",
     "filename": "Minimum_Pizzas.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Beautiful_Average",
     "name": "A Beautiful Average",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Beautiful_Average",
     "sol_path": "Solutions/A_Beautiful_Average.cpp",
     "filename": "A_Beautiful_Average.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Magnets",
     "name": "A Magnets",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Magnets",
     "sol_path": "Solutions/A_Magnets.cpp",
     "filename": "A_Magnets.cpp"
   },
   {
-    "id": "W",
+    "id": "Water_Filling",
     "name": "Water Filling",
-    "q_link": "https://www.codechef.com/problems/W",
+    "q_link": "https://www.codechef.com/problems/Water_Filling",
     "sol_path": "Solutions/Water_Filling.cpp",
     "filename": "Water_Filling.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Lucky_Division",
     "name": "A Lucky Division",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Lucky_Division",
     "sol_path": "Solutions/A_Lucky_Division.cpp",
     "filename": "A_Lucky_Division.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Twins",
     "name": "A Twins",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Twins",
     "sol_path": "Solutions/A_Twins.cpp",
     "filename": "A_Twins.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Boy_or_Girl",
     "name": "A Boy or Girl",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Boy_or_Girl",
     "sol_path": "Solutions/A_Boy_or_Girl.cpp",
     "filename": "A_Boy_or_Girl.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Elephant",
     "name": "A Elephant",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Elephant",
     "sol_path": "Solutions/A_Elephant.cpp",
     "filename": "A_Elephant.cpp"
   },
   {
-    "id": "A",
+    "id": "A_George_and_Accommodation",
     "name": "A George and Accommodation",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_George_and_Accommodation",
     "sol_path": "Solutions/A_George_and_Accommodation.cpp",
     "filename": "A_George_and_Accommodation.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Bitwise_Reversion",
     "name": "B Bitwise Reversion",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Bitwise_Reversion",
     "sol_path": "Solutions/B_Bitwise_Reversion.cpp",
     "filename": "B_Bitwise_Reversion.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Merging_the_Sets",
     "name": "B Merging the Sets",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Merging_the_Sets",
     "sol_path": "Solutions/B_Merging_the_Sets.cpp",
     "filename": "B_Merging_the_Sets.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Recycling_Center",
     "name": "A Recycling Center",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Recycling_Center",
     "sol_path": "Solutions/A_Recycling_Center.cpp",
     "filename": "A_Recycling_Center.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Down_with_Brackets",
     "name": "B Down with Brackets",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Down_with_Brackets",
     "sol_path": "Solutions/B_Down_with_Brackets.cpp",
     "filename": "B_Down_with_Brackets.cpp"
   },
   {
-    "id": "C",
+    "id": "C_1_Skibidus_and_Fanum_Tax_easy_version",
     "name": "C 1 Skibidus and Fanum Tax easy version",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_1_Skibidus_and_Fanum_Tax_easy_version",
     "sol_path": "Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp",
     "filename": "C_1_Skibidus_and_Fanum_Tax_easy_version.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Round_Trip",
     "name": "A Round Trip",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Round_Trip",
     "sol_path": "Solutions/A_Round_Trip.cpp",
     "filename": "A_Round_Trip.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Beautiful_String",
     "name": "B Beautiful String",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Beautiful_String",
     "sol_path": "Solutions/B_Beautiful_String.cpp",
     "filename": "B_Beautiful_String.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Long_Comparison",
     "name": "A Long Comparison",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Long_Comparison",
     "sol_path": "Solutions/A_Long_Comparison.cpp",
     "filename": "A_Long_Comparison.cpp"
   },
   {
-    "id": "D",
+    "id": "D_Flower_Boy",
     "name": "D Flower Boy",
-    "q_link": "https://www.codechef.com/problems/D",
+    "q_link": "https://www.codechef.com/problems/D_Flower_Boy",
     "sol_path": "Solutions/D_Flower_Boy.cpp",
     "filename": "D_Flower_Boy.cpp"
   },
   {
-    "id": "C",
+    "id": "CHEFCAND",
     "name": "Chef and Candies",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/C",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
     "sol_path": "Solutions/Chef_and_Candies.cpp",
     "filename": "Chef_and_Candies.cpp"
   },
   {
-    "id": "A",
+    "id": "A_All_Lengths_Subtraction",
     "name": "A All Lengths Subtraction",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_All_Lengths_Subtraction",
     "sol_path": "Solutions/A_All_Lengths_Subtraction.cpp",
     "filename": "A_All_Lengths_Subtraction.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Word_Capitalization",
     "name": "A Word Capitalization",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Word_Capitalization",
     "sol_path": "Solutions/A_Word_Capitalization.cpp",
     "filename": "A_Word_Capitalization.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Rebellion",
     "name": "B Rebellion",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Rebellion",
     "sol_path": "Solutions/B_Rebellion.cpp",
     "filename": "B_Rebellion.cpp"
   },
   {
-    "id": "P1",
+    "id": "P1BAR",
     "name": "Basketball Score",
-    "q_link": "https://www.codechef.com/START212D/problems/P1",
+    "q_link": "https://www.codechef.com/START212D/problems/P1BAR",
     "sol_path": "Solutions/Basketball_Score.cpp",
     "filename": "Basketball_Score.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Anton_and_Danik",
     "name": "B Anton and Danik",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Anton_and_Danik",
     "sol_path": "Solutions/B_Anton_and_Danik.cpp",
     "filename": "B_Anton_and_Danik.cpp"
   },
   {
-    "id": "P",
+    "id": "POLTHIEF",
     "name": "Police and Thief",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/P",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF",
     "sol_path": "Solutions/Police_and_Thief.cpp",
     "filename": "Police_and_Thief.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Pangram",
     "name": "A Pangram",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Pangram",
     "sol_path": "Solutions/A_Pangram.cpp",
     "filename": "A_Pangram.cpp"
   },
   {
-    "id": "G",
+    "id": "GOODWEAT",
     "name": "Good Weather",
-    "q_link": "https://www.codechef.com/problems/G",
+    "q_link": "https://www.codechef.com/problems/GOODWEAT",
     "sol_path": "Solutions/Good_Weather.cpp",
     "filename": "Good_Weather.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Soldier_and_Bananas",
     "name": "A Soldier and Bananas",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Soldier_and_Bananas",
     "sol_path": "Solutions/A_Soldier_and_Bananas.cpp",
     "filename": "A_Soldier_and_Bananas.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Next_Round",
     "name": "A Next Round",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Next_Round",
     "sol_path": "Solutions/A_Next_Round.cpp",
     "filename": "A_Next_Round.cpp"
   },
   {
-    "id": "C",
+    "id": "CARCHOICE",
     "name": "Car Choice",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/CARCHOICE",
     "sol_path": "Solutions/Car_Choice.cpp",
     "filename": "Car_Choice.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Shortest_Increasing_Path",
     "name": "A Shortest Increasing Path",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Shortest_Increasing_Path",
     "sol_path": "Solutions/A_Shortest_Increasing_Path.cpp",
     "filename": "A_Shortest_Increasing_Path.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Sum",
     "name": "A Sum",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Sum",
     "sol_path": "Solutions/A_Sum.cpp",
     "filename": "A_Sum.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Maximum_of_Maximums_of_Minimums",
     "name": "B Maximum of Maximums of Minimums",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Maximum_of_Maximums_of_Minimums",
     "sol_path": "Solutions/B_Maximum_of_Maximums_of_Minimums.cpp",
     "filename": "B_Maximum_of_Maximums_of_Minimums.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Burenka_Plays_with_Fractions",
     "name": "A Burenka Plays with Fractions",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Burenka_Plays_with_Fractions",
     "sol_path": "Solutions/A_Burenka_Plays_with_Fractions.cpp",
     "filename": "A_Burenka_Plays_with_Fractions.cpp"
   },
   {
-    "id": "H",
+    "id": "HELIUM3",
     "name": "Chef and NextGen",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/H",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
     "sol_path": "Solutions/Chef_and_NextGen.cpp",
     "filename": "Chef_and_NextGen.cpp"
   },
   {
-    "id": "S",
+    "id": "SINGLEUSE",
     "name": "Single use Attack",
-    "q_link": "https://www.codechef.com/problems/S",
+    "q_link": "https://www.codechef.com/problems/SINGLEUSE",
     "sol_path": "Solutions/Single_use_Attack.cpp",
     "filename": "Single_use_Attack.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Monocarp_s_String",
     "name": "C Monocarp s String",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Monocarp_s_String",
     "sol_path": "Solutions/C_Monocarp_s_String.cpp",
     "filename": "C_Monocarp_s_String.cpp"
   },
   {
-    "id": "D",
+    "id": "Draw_a_Square",
     "name": "Draw a Square",
-    "q_link": "https://www.codechef.com/problems/D",
+    "q_link": "https://www.codechef.com/problems/Draw_a_Square",
     "sol_path": "Solutions/Draw_a_Square.cpp",
     "filename": "Draw_a_Square.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Queue_at_the_School_c",
     "name": "B Queue at the School c",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Queue_at_the_School_c",
     "sol_path": "Solutions/B_Queue_at_the_School_c.cpp",
     "filename": "B_Queue_at_the_School_c.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Sereja_and_Dima",
     "name": "A Sereja and Dima",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Sereja_and_Dima",
     "sol_path": "Solutions/A_Sereja_and_Dima.cpp",
     "filename": "A_Sereja_and_Dima.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Skibidus_and_Amog_u",
     "name": "A Skibidus and Amog u",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Skibidus_and_Amog_u",
     "sol_path": "Solutions/A_Skibidus_and_Amog_u.cpp",
     "filename": "A_Skibidus_and_Amog_u.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Drinks",
     "name": "B Drinks",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Drinks",
     "sol_path": "Solutions/B_Drinks.cpp",
     "filename": "B_Drinks.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Beautiful_XOR",
     "name": "C Beautiful XOR",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Beautiful_XOR",
     "sol_path": "Solutions/C_Beautiful_XOR.cpp",
     "filename": "C_Beautiful_XOR.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Interesting_Sum",
     "name": "B Interesting Sum",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Interesting_Sum",
     "sol_path": "Solutions/B_Interesting_Sum.cpp",
     "filename": "B_Interesting_Sum.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Taxi",
     "name": "B Taxi",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Taxi",
     "sol_path": "Solutions/B_Taxi.cpp",
     "filename": "B_Taxi.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Stones_on_the_Table",
     "name": "A Stones on the Table",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Stones_on_the_Table",
     "sol_path": "Solutions/A_Stones_on_the_Table.cpp",
     "filename": "A_Stones_on_the_Table.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Strings_of_Power",
     "name": "B Strings of Power",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Strings_of_Power",
     "sol_path": "Solutions/B_Strings_of_Power.cpp",
     "filename": "B_Strings_of_Power.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Sum_of_2050",
     "name": "A Sum of 2050",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Sum_of_2050",
     "sol_path": "Solutions/A_Sum_of_2050.cpp",
     "filename": "A_Sum_of_2050.cpp"
   },
   {
-    "id": "S",
+    "id": "Sasta_Shark_Tank",
     "name": "Sasta Shark Tank",
-    "q_link": "https://www.codechef.com/problems/S",
+    "q_link": "https://www.codechef.com/problems/Sasta_Shark_Tank",
     "sol_path": "Solutions/Sasta_Shark_Tank.cpp",
     "filename": "Sasta_Shark_Tank.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Card_Game",
     "name": "B Card Game",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Card_Game",
     "sol_path": "Solutions/B_Card_Game.cpp",
     "filename": "B_Card_Game.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Word",
     "name": "A Word",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Word",
     "sol_path": "Solutions/A_Word.cpp",
     "filename": "A_Word.cpp"
   },
   {
-    "id": "P4",
+    "id": "P4BAR",
     "name": "Binary Flip",
-    "q_link": "https://www.codechef.com/START212D/problems/P4",
+    "q_link": "https://www.codechef.com/START212D/problems/P4BAR",
     "sol_path": "Solutions/Binary_Flip.cpp",
     "filename": "Binary_Flip.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Maple_and_Multiplication",
     "name": "A Maple and Multiplication",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Maple_and_Multiplication",
     "sol_path": "Solutions/A_Maple_and_Multiplication.cpp",
     "filename": "A_Maple_and_Multiplication.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Sequence_Game",
     "name": "A Sequence Game",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Sequence_Game",
     "sol_path": "Solutions/A_Sequence_Game.cpp",
     "filename": "A_Sequence_Game.cpp"
   },
   {
-    "id": "M",
+    "id": "MOVIE2X",
     "name": "Watching Movies at 2x",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/M",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X",
     "sol_path": "Solutions/Watching_Movies_at_2x.cpp",
     "filename": "Watching_Movies_at_2x.cpp"
   },
   {
-    "id": "E",
+    "id": "EXAMCHEF",
     "name": "Exams",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/E",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF",
     "sol_path": "Solutions/Exams.cpp",
     "filename": "Exams.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Mix_Mex_Max",
     "name": "A Mix Mex Max",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Mix_Mex_Max",
     "sol_path": "Solutions/A_Mix_Mex_Max.cpp",
     "filename": "A_Mix_Mex_Max.cpp"
   },
   {
-    "id": "E",
+    "id": "EXPENSES",
     "name": "Expense List",
-    "q_link": "https://www.codechef.com/problems/E",
+    "q_link": "https://www.codechef.com/problems/EXPENSES",
     "sol_path": "Solutions/Expense_List.cpp",
     "filename": "Expense_List.cpp"
   },
   {
-    "id": "A",
+    "id": "A_MEX_Partition",
     "name": "A MEX Partition",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_MEX_Partition",
     "sol_path": "Solutions/A_MEX_Partition.cpp",
     "filename": "A_MEX_Partition.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Three_Decks",
     "name": "A Three Decks",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Three_Decks",
     "sol_path": "Solutions/A_Three_Decks.cpp",
     "filename": "A_Three_Decks.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Anton_and_Polyhedrons",
     "name": "A Anton and Polyhedrons",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Anton_and_Polyhedrons",
     "sol_path": "Solutions/A_Anton_and_Polyhedrons.cpp",
     "filename": "A_Anton_and_Polyhedrons.cpp"
   },
   {
-    "id": "T",
+    "id": "TLG",
     "name": "The Lead Game",
-    "q_link": "https://www.codechef.com/problems/T",
+    "q_link": "https://www.codechef.com/problems/TLG",
     "sol_path": "Solutions/The_Lead_Game.cpp",
     "filename": "The_Lead_Game.cpp"
   },
   {
-    "id": "A",
+    "id": "A_IQ_test",
     "name": "A IQ test",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_IQ_test",
     "sol_path": "Solutions/A_IQ_test.cpp",
     "filename": "A_IQ_test.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Vanya_and_Lanterns",
     "name": "B Vanya and Lanterns",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Vanya_and_Lanterns",
     "sol_path": "Solutions/B_Vanya_and_Lanterns.cpp",
     "filename": "B_Vanya_and_Lanterns.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Tram",
     "name": "A Tram",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Tram",
     "sol_path": "Solutions/A_Tram.cpp",
     "filename": "A_Tram.cpp"
   },
   {
-    "id": "E",
+    "id": "EXPERT",
     "name": "Expert Setter",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/E",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
     "sol_path": "Solutions/Expert_Setter.cpp",
     "filename": "Expert_Setter.cpp"
   },
   {
-    "id": "A",
+    "id": "A_2_Encode_and_Decode_Hard_Version",
     "name": "A 2 Encode and Decode Hard Version",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_2_Encode_and_Decode_Hard_Version",
     "sol_path": "Solutions/A_2_Encode_and_Decode_Hard_Version.cpp",
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
   },
   {
-    "id": "M",
+    "id": "MAXTASTE",
     "name": "Maximise the Tastiness",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/M",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
     "sol_path": "Solutions/Maximise_the_Tastiness.cpp",
     "filename": "Maximise_the_Tastiness.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Candies_for_Nephews",
     "name": "A Candies for Nephews",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Candies_for_Nephews",
     "sol_path": "Solutions/A_Candies_for_Nephews.cpp",
     "filename": "A_Candies_for_Nephews.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Vanya_and_Fence",
     "name": "A Vanya and Fence",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Vanya_and_Fence",
     "sol_path": "Solutions/A_Vanya_and_Fence.cpp",
     "filename": "A_Vanya_and_Fence.cpp"
   },
   {
-    "id": "Unknown",
+    "id": "100_A_B",
     "name": "100 A B",
-    "q_link": "#",
+    "q_link": "https://www.codechef.com/problems/100_A_B",
     "sol_path": "Solutions/100_A_B.cpp",
     "filename": "100_A_B.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Short_Sort",
     "name": "A Short Sort",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Short_Sort",
     "sol_path": "Solutions/A_Short_Sort.cpp",
     "filename": "A_Short_Sort.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Maximum_Cost_Permutation",
     "name": "B Maximum Cost Permutation",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Maximum_Cost_Permutation",
     "sol_path": "Solutions/B_Maximum_Cost_Permutation.cpp",
     "filename": "B_Maximum_Cost_Permutation.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Anton_and_Letters",
     "name": "A Anton and Letters",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Anton_and_Letters",
     "sol_path": "Solutions/A_Anton_and_Letters.cpp",
     "filename": "A_Anton_and_Letters.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Prepend_and_Append",
     "name": "C Prepend and Append",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Prepend_and_Append",
     "sol_path": "Solutions/C_Prepend_and_Append.cpp",
     "filename": "C_Prepend_and_Append.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Unconventional_Pairs",
     "name": "B Unconventional Pairs",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Unconventional_Pairs",
     "sol_path": "Solutions/B_Unconventional_Pairs.cpp",
     "filename": "B_Unconventional_Pairs.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Expensive_Number",
     "name": "B Expensive Number",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Expensive_Number",
     "sol_path": "Solutions/B_Expensive_Number.cpp",
     "filename": "B_Expensive_Number.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Beautiful_Matrix",
     "name": "A Beautiful Matrix",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Beautiful_Matrix",
     "sol_path": "Solutions/A_Beautiful_Matrix.cpp",
     "filename": "A_Beautiful_Matrix.cpp"
   },
   {
-    "id": "C",
+    "id": "C_MEX_rose",
     "name": "C MEX rose",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_MEX_rose",
     "sol_path": "Solutions/C_MEX_rose.cpp",
     "filename": "C_MEX_rose.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Bobritto_Bandito",
     "name": "B Bobritto Bandito",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Bobritto_Bandito",
     "sol_path": "Solutions/B_Bobritto_Bandito.cpp",
     "filename": "B_Bobritto_Bandito.cpp"
   },
   {
-    "id": "B",
+    "id": "B_St_Chroma",
     "name": "B St Chroma",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_St_Chroma",
     "sol_path": "Solutions/B_St_Chroma.cpp",
     "filename": "B_St_Chroma.cpp"
   },
   {
-    "id": "S",
+    "id": "Sugarcane_Juice_Business",
     "name": "Sugarcane Juice Business",
-    "q_link": "https://www.codechef.com/problems/S",
+    "q_link": "https://www.codechef.com/problems/Sugarcane_Juice_Business",
     "sol_path": "Solutions/Sugarcane_Juice_Business.cpp",
     "filename": "Sugarcane_Juice_Business.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Arrival_of_the_General",
     "name": "A Arrival of the General",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Arrival_of_the_General",
     "sol_path": "Solutions/A_Arrival_of_the_General.cpp",
     "filename": "A_Arrival_of_the_General.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Translation",
     "name": "A Translation",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Translation",
     "sol_path": "Solutions/A_Translation.cpp",
     "filename": "A_Translation.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Sorted_Identity",
     "name": "A Sorted Identity",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Sorted_Identity",
     "sol_path": "Solutions/A_Sorted_Identity.cpp",
     "filename": "A_Sorted_Identity.cpp"
   },
   {
-    "id": "P7",
+    "id": "P7BAR",
     "name": "Distinct Fun",
-    "q_link": "https://www.codechef.com/START212D/problems/P7",
+    "q_link": "https://www.codechef.com/START212D/problems/P7BAR",
     "sol_path": "Solutions/Distinct_Fun.cpp",
     "filename": "Distinct_Fun.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Even_Odds",
     "name": "A Even Odds",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Even_Odds",
     "sol_path": "Solutions/A_Even_Odds.cpp",
     "filename": "A_Even_Odds.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Dragons",
     "name": "A Dragons",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Dragons",
     "sol_path": "Solutions/A_Dragons.cpp",
     "filename": "A_Dragons.cpp"
   },
   {
-    "id": "T",
+    "id": "Test_Score",
     "name": "Test Score",
-    "q_link": "https://www.codechef.com/problems/T",
+    "q_link": "https://www.codechef.com/problems/Test_Score",
     "sol_path": "Solutions/Test_Score.cpp",
     "filename": "Test_Score.cpp"
   },
   {
-    "id": "C",
+    "id": "CHEFGAMES",
     "name": "Chefland Games",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/C",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES",
     "sol_path": "Solutions/Chefland_Games.cpp",
     "filename": "Chefland_Games.cpp"
   },
   {
-    "id": "A",
+    "id": "A_AppendAppendAppend",
     "name": "A AppendAppendAppend",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_AppendAppendAppend",
     "sol_path": "Solutions/A_AppendAppendAppend.cpp",
     "filename": "A_AppendAppendAppend.cpp"
   },
   {
-    "id": "A",
+    "id": "A_HQ_9",
     "name": "A HQ 9",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_HQ_9",
     "sol_path": "Solutions/A_HQ_9.cpp",
     "filename": "A_HQ_9.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Odd_Divisor",
     "name": "A Odd Divisor",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Odd_Divisor",
     "sol_path": "Solutions/A_Odd_Divisor.cpp",
     "filename": "A_Odd_Divisor.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Maximum_Even_Sum",
     "name": "C Maximum Even Sum",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Maximum_Even_Sum",
     "sol_path": "Solutions/C_Maximum_Even_Sum.cpp",
     "filename": "C_Maximum_Even_Sum.cpp"
   },
   {
-    "id": "M",
+    "id": "Mahasena",
     "name": "Mahasena",
-    "q_link": "https://www.codechef.com/problems/M",
+    "q_link": "https://www.codechef.com/problems/Mahasena",
     "sol_path": "Solutions/Mahasena.cpp",
     "filename": "Mahasena.cpp"
   },
   {
-    "id": "F",
+    "id": "FLOORS",
     "name": "Too many Floors",
-    "q_link": "https://www.codechef.com/problems/F",
+    "q_link": "https://www.codechef.com/problems/FLOORS",
     "sol_path": "Solutions/Too_many_Floors.cpp",
     "filename": "Too_many_Floors.cpp"
   },
   {
-    "id": "A",
+    "id": "A_El_fucho",
     "name": "A El fucho",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_El_fucho",
     "sol_path": "Solutions/A_El_fucho.cpp",
     "filename": "A_El_fucho.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Again_Twenty_Five",
     "name": "A Again Twenty Five",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Again_Twenty_Five",
     "sol_path": "Solutions/A_Again_Twenty_Five.cpp",
     "filename": "A_Again_Twenty_Five.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Distinct_Elements",
     "name": "B Distinct Elements",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Distinct_Elements",
     "sol_path": "Solutions/B_Distinct_Elements.cpp",
     "filename": "B_Distinct_Elements.cpp"
   },
   {
-    "id": "P2",
+    "id": "P2BAR",
     "name": "Signal",
-    "q_link": "https://www.codechef.com/START212C/problems/P2",
+    "q_link": "https://www.codechef.com/START212C/problems/P2BAR",
     "sol_path": "Solutions/Signal.cpp",
     "filename": "Signal.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Redstone",
     "name": "A Redstone",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Redstone",
     "sol_path": "Solutions/A_Redstone.cpp",
     "filename": "A_Redstone.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Ideal_Generator",
     "name": "A Ideal Generator",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Ideal_Generator",
     "sol_path": "Solutions/A_Ideal_Generator.cpp",
     "filename": "A_Ideal_Generator.cpp"
   },
   {
-    "id": "R",
+    "id": "RCTGLD",
     "name": "Rectangled",
-    "q_link": "https://www.codechef.com/problems/R",
+    "q_link": "https://www.codechef.com/problems/RCTGLD",
     "sol_path": "Solutions/Rectangled.cpp",
     "filename": "Rectangled.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Be_Positive",
     "name": "A Be Positive",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Be_Positive",
     "sol_path": "Solutions/A_Be_Positive.cpp",
     "filename": "A_Be_Positive.cpp"
   },
   {
-    "id": "A",
+    "id": "A_In_Search_of_an_Easy_Problem",
     "name": "A In Search of an Easy Problem",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_In_Search_of_an_Easy_Problem",
     "sol_path": "Solutions/A_In_Search_of_an_Easy_Problem.cpp",
     "filename": "A_In_Search_of_an_Easy_Problem.cpp"
   },
   {
-    "id": "K",
+    "id": "KTTABLE",
     "name": "Kitchen Timetable",
-    "q_link": "https://www.codechef.com/problems/K",
+    "q_link": "https://www.codechef.com/problems/KTTABLE",
     "sol_path": "Solutions/Kitchen_Timetable.cpp",
     "filename": "Kitchen_Timetable.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Games",
     "name": "A Games",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Games",
     "sol_path": "Solutions/A_Games.cpp",
     "filename": "A_Games.cpp"
   },
   {
-    "id": "G",
+    "id": "GCD_Sum",
     "name": "GCD Sum",
-    "q_link": "https://www.codechef.com/problems/G",
+    "q_link": "https://www.codechef.com/problems/GCD_Sum",
     "sol_path": "Solutions/GCD_Sum.cpp",
     "filename": "GCD_Sum.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Beautiful_Year",
     "name": "A Beautiful Year",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Beautiful_Year",
     "sol_path": "Solutions/A_Beautiful_Year.cpp",
     "filename": "A_Beautiful_Year.cpp"
   },
   {
-    "id": "S",
+    "id": "SPECIALITY",
     "name": "Speciality",
-    "q_link": "https://www.codechef.com/problems/S",
+    "q_link": "https://www.codechef.com/problems/SPECIALITY",
     "sol_path": "Solutions/Speciality.cpp",
     "filename": "Speciality.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Dr_TC",
     "name": "A Dr TC",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Dr_TC",
     "sol_path": "Solutions/A_Dr_TC.cpp",
     "filename": "A_Dr_TC.cpp"
   },
   {
-    "id": "V",
+    "id": "VALIDSTK",
     "name": "Valid Stack Operations",
-    "q_link": "https://www.codechef.com/problems/V",
+    "q_link": "https://www.codechef.com/problems/VALIDSTK",
     "sol_path": "Solutions/Valid_Stack_Operations.cpp",
     "filename": "Valid_Stack_Operations.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Digits_Sum",
     "name": "A Digits Sum",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Digits_Sum",
     "sol_path": "Solutions/A_Digits_Sum.cpp",
     "filename": "A_Digits_Sum.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Alice_and_Bob",
     "name": "A Alice and Bob",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Alice_and_Bob",
     "sol_path": "Solutions/A_Alice_and_Bob.cpp",
     "filename": "A_Alice_and_Bob.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Dubstep",
     "name": "A Dubstep",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Dubstep",
     "sol_path": "Solutions/A_Dubstep.cpp",
     "filename": "A_Dubstep.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Gravity_Flip",
     "name": "A Gravity Flip",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Gravity_Flip",
     "sol_path": "Solutions/A_Gravity_Flip.cpp",
     "filename": "A_Gravity_Flip.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Submission_is_All_You_Need",
     "name": "A Submission is All You Need",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Submission_is_All_You_Need",
     "sol_path": "Solutions/A_Submission_is_All_You_Need.cpp",
     "filename": "A_Submission_is_All_You_Need.cpp"
   },
   {
-    "id": "A",
+    "id": "A_String_Task",
     "name": "A String Task",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_String_Task",
     "sol_path": "Solutions/A_String_Task.cpp",
     "filename": "A_String_Task.cpp"
   },
   {
-    "id": "D",
+    "id": "D_Yet_Another_Array_Problem",
     "name": "D Yet Another Array Problem",
-    "q_link": "https://www.codechef.com/problems/D",
+    "q_link": "https://www.codechef.com/problems/D_Yet_Another_Array_Problem",
     "sol_path": "Solutions/D_Yet_Another_Array_Problem.cpp",
     "filename": "D_Yet_Another_Array_Problem.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Souvlaki_VS_Kalamaki",
     "name": "A Souvlaki VS Kalamaki",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Souvlaki_VS_Kalamaki",
     "sol_path": "Solutions/A_Souvlaki_VS_Kalamaki.cpp",
     "filename": "A_Souvlaki_VS_Kalamaki.cpp"
   },
   {
-    "id": "R",
+    "id": "Reverse_The_Number",
     "name": "Reverse The Number",
-    "q_link": "https://www.codechef.com/problems/R",
+    "q_link": "https://www.codechef.com/problems/Reverse_The_Number",
     "sol_path": "Solutions/Reverse_The_Number.cpp",
     "filename": "Reverse_The_Number.cpp"
   },
   {
-    "id": "Q",
+    "id": "Qualify_the_round",
     "name": "Qualify the round",
-    "q_link": "https://www.codechef.com/problems/Q",
+    "q_link": "https://www.codechef.com/problems/Qualify_the_round",
     "sol_path": "Solutions/Qualify_the_round.cpp",
     "filename": "Qualify_the_round.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Reverse_XOR",
     "name": "C Reverse XOR",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Reverse_XOR",
     "sol_path": "Solutions/C_Reverse_XOR.cpp",
     "filename": "C_Reverse_XOR.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Array_Reodering",
     "name": "B Array Reodering",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Array_Reodering",
     "sol_path": "Solutions/B_Array_Reodering.cpp",
     "filename": "B_Array_Reodering.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Even_Modulo_Pair",
     "name": "B Even Modulo Pair",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Even_Modulo_Pair",
     "sol_path": "Solutions/B_Even_Modulo_Pair.cpp",
     "filename": "B_Even_Modulo_Pair.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Square",
     "name": "A Square",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Square",
     "sol_path": "Solutions/A_Square.cpp",
     "filename": "A_Square.cpp"
   },
   {
-    "id": "S",
+    "id": "SEATNUMBER",
     "name": "Bus Seat Numbering",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/S",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
     "sol_path": "Solutions/Bus_Seat_Numbering.cpp",
     "filename": "Bus_Seat_Numbering.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Divisibility_Problem",
     "name": "A Divisibility Problem",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Divisibility_Problem",
     "sol_path": "Solutions/A_Divisibility_Problem.cpp",
     "filename": "A_Divisibility_Problem.cpp"
   },
   {
-    "id": "A",
+    "id": "ACTEMP",
     "name": "Air Conditioner Temperature",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/A",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP",
     "sol_path": "Solutions/Air_Conditioner_Temperature.cpp",
     "filename": "Air_Conditioner_Temperature.cpp"
   },
   {
-    "id": "F",
+    "id": "FIFTYPE",
     "name": "Chef and Battery",
-    "q_link": "https://www.codechef.com/problems/F",
+    "q_link": "https://www.codechef.com/problems/FIFTYPE",
     "sol_path": "Solutions/Chef_and_Battery.cpp",
     "filename": "Chef_and_Battery.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Petya_and_Strings",
     "name": "A Petya and Strings",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Petya_and_Strings",
     "sol_path": "Solutions/A_Petya_and_Strings.cpp",
     "filename": "A_Petya_and_Strings.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Range_Minimum_Query",
     "name": "A Range Minimum Query",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Range_Minimum_Query",
     "sol_path": "Solutions/A_Range_Minimum_Query.cpp",
     "filename": "A_Range_Minimum_Query.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Cake_Collection",
     "name": "B Cake Collection",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Cake_Collection",
     "sol_path": "Solutions/B_Cake_Collection.cpp",
     "filename": "B_Cake_Collection.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Wrong_Subtraction",
     "name": "A Wrong Subtraction",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Wrong_Subtraction",
     "sol_path": "Solutions/A_Wrong_Subtraction.cpp",
     "filename": "A_Wrong_Subtraction.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Codeforces_Checking",
     "name": "A Codeforces Checking",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Codeforces_Checking",
     "sol_path": "Solutions/A_Codeforces_Checking.cpp",
     "filename": "A_Codeforces_Checking.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Good_Kid",
     "name": "B Good Kid",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Good_Kid",
     "sol_path": "Solutions/B_Good_Kid.cpp",
     "filename": "B_Good_Kid.cpp"
   },
   {
-    "id": "A",
+    "id": "A_cAPS_lOCK",
     "name": "A cAPS lOCK",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_cAPS_lOCK",
     "sol_path": "Solutions/A_cAPS_lOCK.cpp",
     "filename": "A_cAPS_lOCK.cpp"
   },
   {
-    "id": "L",
+    "id": "Lady_Bug",
     "name": "Lady Bug",
-    "q_link": "https://www.codechef.com/problems/L",
+    "q_link": "https://www.codechef.com/problems/Lady_Bug",
     "sol_path": "Solutions/Lady_Bug.cpp",
     "filename": "Lady_Bug.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Drifting_Away",
     "name": "B Drifting Away",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Drifting_Away",
     "sol_path": "Solutions/B_Drifting_Away.cpp",
     "filename": "B_Drifting_Away.cpp"
   },
   {
-    "id": "F",
+    "id": "FLOW011",
     "name": "Gross Salary",
-    "q_link": "https://www.codechef.com/problems/F",
+    "q_link": "https://www.codechef.com/problems/FLOW011",
     "sol_path": "Solutions/Gross_Salary.cpp",
     "filename": "Gross_Salary.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Collatz_Conjecture",
     "name": "A Collatz Conjecture",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Collatz_Conjecture",
     "sol_path": "Solutions/A_Collatz_Conjecture.cpp",
     "filename": "A_Collatz_Conjecture.cpp"
   },
   {
-    "id": "S",
+    "id": "Subscriptions",
     "name": "Subscriptions",
-    "q_link": "https://www.codechef.com/problems/S",
+    "q_link": "https://www.codechef.com/problems/Subscriptions",
     "sol_path": "Solutions/Subscriptions.cpp",
     "filename": "Subscriptions.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Lucky",
     "name": "A Lucky",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Lucky",
     "sol_path": "Solutions/A_Lucky.cpp",
     "filename": "A_Lucky.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Cherry_Bomb",
     "name": "C Cherry Bomb",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Cherry_Bomb",
     "sol_path": "Solutions/C_Cherry_Bomb.cpp",
     "filename": "C_Cherry_Bomb.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Powers_Of_Two",
     "name": "C Powers Of Two",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Powers_Of_Two",
     "sol_path": "Solutions/C_Powers_Of_Two.cpp",
     "filename": "C_Powers_Of_Two.cpp"
   },
   {
-    "id": "R",
+    "id": "RECENTCONT",
     "name": "Recent contest problems",
-    "q_link": "https://www.codechef.com/problems/R",
+    "q_link": "https://www.codechef.com/problems/RECENTCONT",
     "sol_path": "Solutions/Recent_contest_problems.cpp",
     "filename": "Recent_contest_problems.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Showering",
     "name": "C Showering",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Showering",
     "sol_path": "Solutions/C_Showering.cpp",
     "filename": "C_Showering.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Way_Too_Long_Words",
     "name": "A Way Too Long Words",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Way_Too_Long_Words",
     "sol_path": "Solutions/A_Way_Too_Long_Words.cpp",
     "filename": "A_Way_Too_Long_Words.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Isamatdin_and_His_Magic_Wand",
     "name": "C Isamatdin and His Magic Wand",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Isamatdin_and_His_Magic_Wand",
     "sol_path": "Solutions/C_Isamatdin_and_His_Magic_Wand.cpp",
     "filename": "C_Isamatdin_and_His_Magic_Wand.cpp"
   },
   {
-    "id": "T",
+    "id": "TRANSFORM",
     "name": "Mario and Transformation",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRANSFORM",
     "sol_path": "Solutions/Mario_and_Transformation.cpp",
     "filename": "Mario_and_Transformation.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Your_Name",
     "name": "B Your Name",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Your_Name",
     "sol_path": "Solutions/B_Your_Name.cpp",
     "filename": "B_Your_Name.cpp"
   },
   {
-    "id": "D",
+    "id": "DISCUS",
     "name": "Discus Throw",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/D",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
     "sol_path": "Solutions/Discus_Throw.cpp",
     "filename": "Discus_Throw.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Vanya_and_Cubes",
     "name": "A Vanya and Cubes",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Vanya_and_Cubes",
     "sol_path": "Solutions/A_Vanya_and_Cubes.cpp",
     "filename": "A_Vanya_and_Cubes.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Simple_Repetition",
     "name": "C Simple Repetition",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Simple_Repetition",
     "sol_path": "Solutions/C_Simple_Repetition.cpp",
     "filename": "C_Simple_Repetition.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Regular_Bracket_Sequence",
     "name": "B Regular Bracket Sequence",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Regular_Bracket_Sequence",
     "sol_path": "Solutions/B_Regular_Bracket_Sequence.cpp",
     "filename": "B_Regular_Bracket_Sequence.cpp"
   },
   {
-    "id": "N",
+    "id": "Nearest_Exit",
     "name": "Nearest Exit",
-    "q_link": "https://www.codechef.com/problems/N",
+    "q_link": "https://www.codechef.com/problems/Nearest_Exit",
     "sol_path": "Solutions/Nearest_Exit.cpp",
     "filename": "Nearest_Exit.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Two_Brackets",
     "name": "C Two Brackets",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Two_Brackets",
     "sol_path": "Solutions/C_Two_Brackets.cpp",
     "filename": "C_Two_Brackets.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Hit_the_Lottery",
     "name": "A Hit the Lottery",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Hit_the_Lottery",
     "sol_path": "Solutions/A_Hit_the_Lottery.cpp",
     "filename": "A_Hit_the_Lottery.cpp"
   },
   {
-    "id": "K",
+    "id": "Kamilka_and_the_Sheep",
     "name": "Kamilka and the Sheep",
-    "q_link": "https://www.codechef.com/problems/K",
+    "q_link": "https://www.codechef.com/problems/Kamilka_and_the_Sheep",
     "sol_path": "Solutions/Kamilka_and_the_Sheep.cpp",
     "filename": "Kamilka_and_the_Sheep.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Pathless",
     "name": "B Pathless",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Pathless",
     "sol_path": "Solutions/B_Pathless.cpp",
     "filename": "B_Pathless.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Candies_and_Two_Sisters",
     "name": "A Candies and Two Sisters",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Candies_and_Two_Sisters",
     "sol_path": "Solutions/A_Candies_and_Two_Sisters.cpp",
     "filename": "A_Candies_and_Two_Sisters.cpp"
   },
   {
-    "id": "E",
+    "id": "EXPERT",
     "name": "Flip the cards",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/E",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
     "sol_path": "Solutions/Flip_the_cards.cpp",
     "filename": "Flip_the_cards.cpp"
   },
   {
-    "id": "A",
+    "id": "AVGPROBLEM",
     "name": "Greater Average",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/A",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM",
     "sol_path": "Solutions/Greater_Average.cpp",
     "filename": "Greater_Average.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Insomnia_cure",
     "name": "A Insomnia cure",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Insomnia_cure",
     "sol_path": "Solutions/A_Insomnia_cure.cpp",
     "filename": "A_Insomnia_cure.cpp"
   },
   {
-    "id": "C",
+    "id": "C_Registration_system",
     "name": "C Registration system",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/C_Registration_system",
     "sol_path": "Solutions/C_Registration_system.cpp",
     "filename": "C_Registration_system.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Kefa_and_First_Steps",
     "name": "A Kefa and First Steps",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Kefa_and_First_Steps",
     "sol_path": "Solutions/A_Kefa_and_First_Steps.cpp",
     "filename": "A_Kefa_and_First_Steps.cpp"
   },
   {
-    "id": "T",
+    "id": "TRAVELFAST",
     "name": "Car or Bike",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
     "sol_path": "Solutions/Car_or_Bike.cpp",
     "filename": "Car_or_Bike.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Bear_and_Big_Brother",
     "name": "A Bear and Big Brother",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Bear_and_Big_Brother",
     "sol_path": "Solutions/A_Bear_and_Big_Brother.cpp",
     "filename": "A_Bear_and_Big_Brother.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Shift_Sort",
     "name": "A Shift Sort",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Shift_Sort",
     "sol_path": "Solutions/A_Shift_Sort.cpp",
     "filename": "A_Shift_Sort.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Domino_piling",
     "name": "A Domino piling",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Domino_piling",
     "sol_path": "Solutions/A_Domino_piling.cpp",
     "filename": "A_Domino_piling.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Is_your_horseshoe_on_the_other_hoof",
     "name": "A Is your horseshoe on the other hoof",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Is_your_horseshoe_on_the_other_hoof",
     "sol_path": "Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp",
     "filename": "A_Is_your_horseshoe_on_the_other_hoof.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Presents",
     "name": "A Presents",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Presents",
     "sol_path": "Solutions/A_Presents.cpp",
     "filename": "A_Presents.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Team",
     "name": "A Team",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Team",
     "sol_path": "Solutions/A_Team.cpp",
     "filename": "A_Team.cpp"
   },
   {
-    "id": "A",
+    "id": "A_1_Encode_and_Decode_Easy_Version",
     "name": "A 1 Encode and Decode Easy Version",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_1_Encode_and_Decode_Easy_Version",
     "sol_path": "Solutions/A_1_Encode_and_Decode_Easy_Version.cpp",
     "filename": "A_1_Encode_and_Decode_Easy_Version.cpp"
   },
   {
-    "id": "B",
+    "id": "B_Following_Directions",
     "name": "B Following Directions",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_Following_Directions",
     "sol_path": "Solutions/B_Following_Directions.cpp",
     "filename": "B_Following_Directions.cpp"
   },
   {
-    "id": "A",
+    "id": "A_A_B_Again",
     "name": "A A B Again",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_A_B_Again",
     "sol_path": "Solutions/A_A_B_Again.cpp",
     "filename": "A_A_B_Again.cpp"
   },
   {
-    "id": "C",
+    "id": "CHN15A",
     "name": "Mutated Minions",
-    "q_link": "https://www.codechef.com/problems/C",
+    "q_link": "https://www.codechef.com/problems/CHN15A",
     "sol_path": "Solutions/Mutated_Minions.cpp",
     "filename": "Mutated_Minions.cpp"
   },
   {
-    "id": "T",
+    "id": "The_Third_Side",
     "name": "The Third Side",
-    "q_link": "https://www.codechef.com/problems/T",
+    "q_link": "https://www.codechef.com/problems/The_Third_Side",
     "sol_path": "Solutions/The_Third_Side.cpp",
     "filename": "The_Third_Side.cpp"
   },
   {
-    "id": "N",
+    "id": "NOTEBOOK",
     "name": "Count the Notebooks",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/N",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK",
     "sol_path": "Solutions/Count_the_Notebooks.cpp",
     "filename": "Count_the_Notebooks.cpp"
   },
   {
-    "id": "P3",
+    "id": "P3BAR",
     "name": "Exit Door",
-    "q_link": "https://www.codechef.com/START212D/problems/P3",
+    "q_link": "https://www.codechef.com/START212D/problems/P3BAR",
     "sol_path": "Solutions/Exit_Door.cpp",
     "filename": "Exit_Door.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Vlad_and_the_Best_of_Five",
     "name": "A Vlad and the Best of Five",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Vlad_and_the_Best_of_Five",
     "sol_path": "Solutions/A_Vlad_and_the_Best_of_Five.cpp",
     "filename": "A_Vlad_and_the_Best_of_Five.cpp"
   },
   {
-    "id": "T",
+    "id": "TRUESCORE",
     "name": "Is the Score Consistent",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
     "sol_path": "Solutions/Is_the_Score_Consistent.cpp",
     "filename": "Is_the_Score_Consistent.cpp"
   },
   {
-    "id": "J",
+    "id": "JASSIGNMENTS",
     "name": "Janmansh and Assignments",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/J",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
     "sol_path": "Solutions/Janmansh_and_Assignments.cpp",
     "filename": "Janmansh_and_Assignments.cpp"
   },
   {
-    "id": "J",
+    "id": "JENGA",
     "name": "Jenga Night",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/J",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA",
     "sol_path": "Solutions/Jenga_Night.cpp",
     "filename": "Jenga_Night.cpp"
   },
   {
-    "id": "S",
+    "id": "Sale_Season",
     "name": "Sale Season",
-    "q_link": "https://www.codechef.com/problems/S",
+    "q_link": "https://www.codechef.com/problems/Sale_Season",
     "sol_path": "Solutions/Sale_Season.cpp",
     "filename": "Sale_Season.cpp"
   },
   {
-    "id": "E",
+    "id": "ELECTN",
     "name": "Elections in Chefland",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/E",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN",
     "sol_path": "Solutions/Elections_in_Chefland.cpp",
     "filename": "Elections_in_Chefland.cpp"
   },
   {
-    "id": "O",
+    "id": "OFFICE",
     "name": "Chef in his Office",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/O",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
     "sol_path": "Solutions/Chef_in_his_Office.cpp",
     "filename": "Chef_in_his_Office.cpp"
   },
   {
-    "id": "D",
+    "id": "D_A_and_B",
     "name": "D A and B",
-    "q_link": "https://www.codechef.com/problems/D",
+    "q_link": "https://www.codechef.com/problems/D_A_and_B",
     "sol_path": "Solutions/D_A_and_B.cpp",
     "filename": "D_A_and_B.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Football",
     "name": "A Football",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Football",
     "sol_path": "Solutions/A_Football.cpp",
     "filename": "A_Football.cpp"
   },
   {
-    "id": "B",
+    "id": "B_T_primes",
     "name": "B T primes",
-    "q_link": "https://www.codechef.com/problems/B",
+    "q_link": "https://www.codechef.com/problems/B_T_primes",
     "sol_path": "Solutions/B_T_primes.cpp",
     "filename": "B_T_primes.cpp"
   },
   {
-    "id": "P",
+    "id": "Problems_in_your_to_do_list",
     "name": "Problems in your to do list",
-    "q_link": "https://www.codechef.com/problems/P",
+    "q_link": "https://www.codechef.com/problems/Problems_in_your_to_do_list",
     "sol_path": "Solutions/Problems_in_your_to_do_list.cpp",
     "filename": "Problems_in_your_to_do_list.cpp"
   },
   {
-    "id": "A",
+    "id": "A_I_Wanna_Be_the_Guy",
     "name": "A I Wanna Be the Guy",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_I_Wanna_Be_the_Guy",
     "sol_path": "Solutions/A_I_Wanna_Be_the_Guy.cpp",
     "filename": "A_I_Wanna_Be_the_Guy.cpp"
   },
   {
-    "id": "P",
+    "id": "Profitable_Interest_Rate",
     "name": "Profitable Interest Rate",
-    "q_link": "https://www.codechef.com/problems/P",
+    "q_link": "https://www.codechef.com/problems/Profitable_Interest_Rate",
     "sol_path": "Solutions/Profitable_Interest_Rate.cpp",
     "filename": "Profitable_Interest_Rate.cpp"
   },
   {
-    "id": "M",
+    "id": "Monopoly",
     "name": "Monopoly",
-    "q_link": "https://www.codechef.com/problems/M",
+    "q_link": "https://www.codechef.com/problems/Monopoly",
     "sol_path": "Solutions/Monopoly.cpp",
     "filename": "Monopoly.cpp"
   },
   {
-    "id": "A",
+    "id": "A_ABC_String",
     "name": "A ABC String",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_ABC_String",
     "sol_path": "Solutions/A_ABC_String.cpp",
     "filename": "A_ABC_String.cpp"
   },
   {
-    "id": "H",
+    "id": "Helpful_Maths",
     "name": "Helpful Maths",
-    "q_link": "https://www.codechef.com/problems/H",
+    "q_link": "https://www.codechef.com/problems/Helpful_Maths",
     "sol_path": "Solutions/Helpful_Maths.cpp",
     "filename": "Helpful_Maths.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Chat_room",
     "name": "A Chat room",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Chat_room",
     "sol_path": "Solutions/A_Chat_room.cpp",
     "filename": "A_Chat_room.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Nearly_Lucky_Number",
     "name": "A Nearly Lucky Number",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Nearly_Lucky_Number",
     "sol_path": "Solutions/A_Nearly_Lucky_Number.cpp",
     "filename": "A_Nearly_Lucky_Number.cpp"
   },
   {
-    "id": "T",
+    "id": "The_Three_Topics",
     "name": "The Three Topics",
-    "q_link": "https://www.codechef.com/problems/T",
+    "q_link": "https://www.codechef.com/problems/The_Three_Topics",
     "sol_path": "Solutions/The_Three_Topics.cpp",
     "filename": "The_Three_Topics.cpp"
   },
   {
-    "id": "A",
+    "id": "A_Fox_And_Snake",
     "name": "A Fox And Snake",
-    "q_link": "https://www.codechef.com/problems/A",
+    "q_link": "https://www.codechef.com/problems/A_Fox_And_Snake",
     "sol_path": "Solutions/A_Fox_And_Snake.cpp",
     "filename": "A_Fox_And_Snake.cpp"
   },
   {
-    "id": "G",
+    "id": "G_Mukhammadali_and_the_Smooth_Array",
     "name": "G Mukhammadali and the Smooth Array",
-    "q_link": "https://www.codechef.com/problems/G",
+    "q_link": "https://www.codechef.com/problems/G_Mukhammadali_and_the_Smooth_Array",
     "sol_path": "Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp",
     "filename": "G_Mukhammadali_and_the_Smooth_Array.cpp"
   }
