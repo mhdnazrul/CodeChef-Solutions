@@ -2,7 +2,6 @@ import os
 import json
 import re
 import urllib.parse
-from typing import Dict, Any, Optional, List
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
@@ -18,7 +17,24 @@ CODECHEF_REGEX = re.compile(
     re.IGNORECASE
 )
 
-def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
+REPO_URL = "https://github.com/mhdnazrul/CodeChef-Solutions"
+
+# Mock difficulty by contest type
+CONTEST_DIFFICULTY = {
+    'starter': 800, 'starters': 800,
+    'lunch': 1000, 'ltime': 1000,
+    'cook': 1200, 'cookoff': 1200,
+    'chef': 1400  # Default monthly
+}
+
+# Basic tags mapping (expand as needed)
+PROBLEM_TAGS = {
+    'flow': ['graphs', 'dfs'],
+    'dp': ['dp'],
+    # Add more patterns
+}
+
+def parse_problem_link(file_path: str) -> dict:
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
@@ -27,37 +43,114 @@ def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
                     url = match.group(0)
                     problem_id = match.group(1)
                     return {"url": url, "id": problem_id}
-            print(f"Warning: Could not find ANY valid CodeChef link in: {file_path}")
+            print(f"Warning: Could not find valid CodeChef link in: {file_path}")
             return None
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
         return None
 
-def generate_readme(solutions: List[Dict[str, Any]]):
-    content = f"""##  CodeChef Solution Archive [link](https://mhdnazrul.github.io/CodeChef-Solutions/) 
-### 📢 Find me on:
-- [CodeChef Solution Archive Website](https://mhdnazrul.github.io/CodeChef-Solutions/) 
-- [GitHub](https://github.com/mhdnazrul) | [CodeChef](https://www.codechef.com/users/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
+def extract_contest(problem_id: str) -> str:
+    # Mock contest from ID (e.g., first letters: START01A -> 'starter')
+    if re.match(r'^[SL][A-Z]{3}\d+[A-Z]', problem_id, re.I):
+        return 'starter'
+    elif re.match(r'^[CL][A-Z]{3}\d+[A-Z]', problem_id, re.I):
+        return 'lunch'
+    elif re.match(r'^[COOK]\d+[A-Z]', problem_id, re.I):
+        return 'cook'
+    return 'chef'  # Default
+
+def get_mock_tags(problem_id: str) -> list:
+    for key, tags in PROBLEM_TAGS.items():
+        if key in problem_id.lower():
+            return tags
+    return ['implementation']
+
+def generate_readme(solutions: list):
+    stats = {"total": len(solutions), "by_contest": {}, "by_difficulty": {}}
+    for sol in solutions:
+        contest = sol.get('contest', 'unknown')
+        rating = sol.get('rating', 0)
+        stats["by_contest"][contest] = stats["by_contest"].get(contest, 0) + 1
+        if rating > 0:
+            stats["by_difficulty"][rating] = stats["by_difficulty"].get(rating, 0) + 1
+
+    md = f"""
+<h1 align="center">CodeChef Solution Archive</h1>
+
+<p align="center">
+    <a href="https://{os.getenv('GITHUB_REPOSITORY_OWNER', 'mhdnazrul')}.github.io/{os.getenv('GITHUB_REPOSITORY', 'CodeChef-Solutions').split('/')[-1]}/">
+        <img src="https://img.shields.io/badge/View_Website-Click_Here-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
+    <img src="https://img.shields.io/badge/Total%20Solved-{stats['total']}-00b894?style=for-the-badge&logo=codechef" alt="Total">
+</p>
+
+<p align="center">
+    <b>🚀 Find me on: </b>
+    <a href="https://github.com/mhdnazrul">GitHub</a> | 
+    <a href="https://www.codechef.com/users/nazrulislam_7">CodeChef</a> | 
+    <a href="https://www.facebook.com/mhdnazrulislam.me/">Facebook</a>
+</p>
+
+---
 
 ## 📊 Statistics
-* **Total Problems Solved:** {len(solutions)}
----
-## 📋 Solution Index
+
+**Total Problems Solved:** {stats['total']}
+
+<details>
+<summary><b>Click to view breakdown by Contest</b></summary>
+
+| Contest | Count |
+| :--- | :--- |
 """
-    content += "| Problem ID | Problem Name | Question | Solution |\n"
-    content += "| :----- | :------ | :-----: | :-----: |\n"
-   
-    for sol in solutions:
-        problem_id = sol.get('problemId', 'N/A')
-        problem_name = sol.get('problemName', 'N/A')
-        question_url = sol.get('questionUrl', '#')
-        solution_url = sol.get('solutionUrl', '#')
-        content += f"| {problem_id} | {problem_name} | [Question]({question_url}) | [Solution]({solution_url}) |\n"
+    for c in sorted(stats['by_contest'].keys()):
+        md += f"| {c} | {stats['by_contest'][c]} |\n"
+        
+    md += """
+</details>
+
+<details>
+<summary><b>Click to view breakdown by Difficulty</b></summary>
+
+| Difficulty | Count |
+| :--- | :--- |
+"""
+    for r in sorted(stats['by_difficulty'].keys()):
+        md += f"| {r} | {stats['by_difficulty'][r]} |\n"
+        
+    md += """
+</details>
+
+---
+
+<h2 align="center">📋 Solution Index</h2>
+
+| Problem ID | Problem Name | Difficulty ⇅ | Tags | Question | Solution |
+| :---: | :--- | :---: | :--- | :---: | :---: |
+"""
+
+    sorted_sols = sorted(solutions, key=lambda x: ( -x.get('rating', 0), x['problemId'] ))
+    for sol in sorted_sols:
+        tags_display = ", ".join([f"`{t}`" for t in sol.get('tags', [])[:2]])
+        if len(sol.get('tags', [])) > 2: tags_display += ", ..."
+        rating_display = sol.get('rating', '-') 
+        sol_full_link = f"{REPO_URL}/blob/main/{sol.get('sol_path', '')}"
+        row = f"| {sol.get('problemId', 'N/A')} | {sol.get('problemName', 'N/A')} | {rating_display} | {tags_display} | [View]({sol.get('questionUrl', '#')}) | [Code]({sol_full_link}) |\n"
+        md += row
+
+    md += """
+<br>
+<p align="center"><i>Auto-generated by <a href="Web/generate.py">generate.py</a></i></p>
+"""
 
     try:
         with open(README_FILE, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"Successfully generated '{README_FILE}'")
+            f.write(md)
+        print(f"✅ Generated '{README_FILE}'")
     except Exception as e:
         print(f"Error writing {README_FILE}: {e}")
 
@@ -75,15 +168,23 @@ def main():
                         problem_id = link_info['id']
                         url = link_info['url']
                         file_name_only = os.path.splitext(file)[0]
-                        problem_name = file_name_only.replace('_', ' ').replace('-', ' ')
-                        solution_path = os.path.relpath(file_path, ROOT_DIR)
-                        web_path = solution_path.replace(os.sep, '/')
-                        web_path = urllib.parse.quote(web_path)
+                        problem_name = re.sub(rf'^{re.escape(problem_id)}[ _-]+', '', file_name_only, flags=re.I).strip().replace('_', ' ').title()
+                        solution_path = os.path.relpath(file_path, ROOT_DIR).replace(os.sep, '/')
+                        contest = extract_contest(problem_id)
+                        rating = CONTEST_DIFFICULTY.get(contest.lower(), 1400)
+                        tags = get_mock_tags(problem_id)
                         solution_entry = {
-                            "problemName": problem_name,
+                            "id": problem_id,
+                            "name": problem_name or problem_id,
+                            "rating": rating,
+                            "tags": tags,
+                            "contest": contest.title(),
+                            "q_link": url,
+                            "sol_path": solution_path,
                             "problemId": problem_id,
+                            "problemName": problem_name or problem_id,
                             "questionUrl": url,
-                            "solutionUrl": f"./{web_path}"
+                            "solutionUrl": f"{REPO_URL}/blob/main/{urllib.parse.quote(solution_path)}"
                         }
                         all_solutions.append(solution_entry)
 
@@ -91,8 +192,8 @@ def main():
    
     try:
         with open(OUTPUT_JSON_FILE, 'w', encoding='utf-8') as f:
-            json.dump(all_solutions, f, indent=4)
-        print(f"\nSuccessfully generated '{OUTPUT_JSON_FILE}' with {len(all_solutions)} solutions.")
+            json.dump(all_solutions, f, indent=2)
+        print(f"\n✅ Generated '{OUTPUT_JSON_FILE}' with {len(all_solutions)} solutions.")
     except Exception as e:
         print(f"Error writing JSON file: {e}")
 
