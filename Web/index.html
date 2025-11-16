@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Nazrul Islam's CodeChef Archive with interactive stats, filters, and sortable table.">
     <title>CodeChef Archive - Nazrul Islam</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -15,75 +13,57 @@
         <header>
             <div class="header-content">
                 <div class="profile-info">
-                    <h1>CC Archive</h1>
+                    <h1>CodeChef Archive</h1>
                     <p class="subtitle">By <strong>Nazrul Islam</strong></p>
                     <div class="social-mini">
-                        <a href="https://github.com/mhdnazrul" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="fab fa-github" aria-hidden="true"></i></a>
-                        <a href="https://www.codechef.com/users/nazrulislam_7" target="_blank" rel="noopener noreferrer" aria-label="CodeChef Profile"><i class="fas fa-fire" aria-hidden="true"></i></a>
+                        <a href="https://github.com/mhdnazrul" target="_blank"><i class="fab fa-github"></i></a>
+                        <a href="https://www.codechef.com/users/nazrulislam_7" target="_blank"><i class="fas fa-code"></i></a>
                     </div>
                 </div>
                 <div class="stats-wrapper">
                     <div class="stat-box">
-                        <span class="stat-label">Solved</span>
+                        <span class="stat-label">Total Solved</span>
                         <span class="stat-val" id="total-solved">...</span>
                     </div>
                     <div class="stat-box">
-                        <span class="stat-label">Avg Difficulty</span>
-                        <span class="stat-val" id="avg-rating">-</span>
+                        <span class="stat-label">Platform</span>
+                        <span class="stat-val" style="color: #5D4037;">CodeChef</span>
                     </div>
-                    <div class="stat-box">
-                        <span class="stat-label">Max Difficulty</span>
-                        <span class="stat-val" id="max-rating">-</span>
-                    </div>
-                </div>
-                <div class="chart-mini">
-                    <canvas id="contestChart"></canvas>
                 </div>
             </div>
         </header>
+
         <div class="sticky-wrapper">
             <div class="controls-area">
                 <div class="search-box">
-                    <label for="searchInput" class="sr-only">Search Problem ID or Name</label>
-                    <i class="fas fa-search" aria-hidden="true"></i>
-                    <input type="text" id="searchInput" placeholder="Search Problem ID or Name..." aria-label="Search Problem ID or Name">
-                </div>
-                <div class="filter-box">
-                    <label for="contestFilter" class="sr-only">Filter by Contest</label>
-                    <select id="contestFilter" aria-label="Filter by Contest">
-                        <option value="all">All Contests</option>
-                        <option value="starter">Starters</option>
-                        <option value="lunch">LunchTime</option>
-                        <option value="cook">Cook-Off</option>
-                        <option value="ltime">LunchTime</option>
-                    </select>
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search Problem ID or Name...">
                 </div>
             </div>
         </div>
-        <div class="table-container" style="overflow-x: auto;">
+
+        <div class="table-container">
             <table>
                 <thead>
                     <tr>
-                        <th scope="col" class="sortable" data-sort-key="id" data-sort-dir="asc" onclick="sortTable('id')" aria-sort="none">ID <i class="fas fa-sort" aria-hidden="true"></i></th>
-                        <th scope="col" class="sortable" data-sort-key="name" data-sort-dir="asc" onclick="sortTable('name')" aria-sort="none">Problem Name <i class="fas fa-sort" aria-hidden="true"></i></th>
-                        <th scope="col" class="sortable" data-sort-key="rating" data-sort-dir="asc" onclick="sortTable('rating')" aria-sort="none">Difficulty <i class="fas fa-sort" aria-hidden="true"></i></th>
-                        <th scope="col">Tags</th>
-                        <th scope="col" class="center-align">Links</th>
+                        <th class="sortable" onclick="sortTable('id')" style="width: 15%;">ID <i class="fas fa-sort"></i></th>
+                        <th class="sortable" onclick="sortTable('name')" style="width: 50%;">Problem Name <i class="fas fa-sort"></i></th>
+                        <th class="center-align" style="width: 35%;">Links</th>
                     </tr>
                 </thead>
-                <tbody id="table-body">
-                </tbody>
+                <tbody id="table-body"></tbody>
             </table>
             <div id="no-results" style="display:none; text-align:center; padding:20px;">No problems found.</div>
         </div>
+
         <footer>
             <p>&copy; 2025 <strong>Nazrul Islam</strong>. Auto-generated Archive.</p>
             <div class="footer-links">
-                <a href="https://github.com/mhdnazrul" target="_blank" rel="noopener noreferrer">GitHub</a> •
-                <a href="https://www.codechef.com/users/nazrulislam_7" target="_blank" rel="noopener noreferrer">CodeChef</a> •
-                <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank" rel="noopener noreferrer">Codeforces</a> •
-                <a href="https://www.linkedin.com/in/nazrulislam7/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-                <a href="https://www.facebook.com/mhdnazrulislam.me/" target="_blank" rel="noopener noreferrer">Facebook</a>
+                <a href="https://github.com/mhdnazrul" target="_blank">GitHub</a> •
+                <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank">Codeforces</a> •
+                <a href="https://www.codechef.com/users/nazrulislam_7" target="_blank">CodeChef</a> •
+                <a href="https://www.linkedin.com/in/nazrulislam7/" target="_blank">LinkedIn</a> •
+                <a href="https://www.facebook.com/mhdnazrulislam.me/" target="_blank">Facebook</a> 
             </div>
         </footer>
     </div>

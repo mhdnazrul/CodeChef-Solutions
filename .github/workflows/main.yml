@@ -2,11 +2,14 @@ name: Build and Deploy CodeChef Archive
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:  # Manual trigger option
+    branches:
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build-and-deploy:
@@ -16,26 +19,47 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests  # If needed; old script has none
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run Python script to generate JSON and README
+      - name: Run Generator Script
         run: python Web/generate.py
 
-      - name: Commit and push changes to main
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Auto-update: Generated solutions.json and README.md"
+          commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
           add_options: '--force'
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Prepare Website Files
+        run: |
+          mkdir temp_site
+          cp -r Web/* temp_site/
+          cp -r Solutions temp_site/ || true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./Web
-          force_orphan: true  
+          path: 'temp_site/'
+          name: 'github-pages'
+
+  deploy:
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: 'github-pages'
