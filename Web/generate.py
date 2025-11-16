@@ -41,31 +41,29 @@ def process_files():
             for file in files:
                 if not any(file.endswith(ext) for ext in EXTENSIONS): continue
                
-                file_path = os.path.join(root, file)
-               
+                original_path = os.path.join(root, file)
                 new_filename = sanitize_filename(file)
                 new_path = os.path.join(root, new_filename)
                
-                if file_path != new_path:
+                if original_path != new_path:
                     try:
-                        os.rename(file_path, new_path)
+                        os.rename(original_path, new_path)
                         file = new_filename
-                        file_path = new_path
+                        original_path = new_path
                     except OSError as e:
                         print(f"⚠️ Rename error: {e}")
                         continue
                
-                file_key = file.lower()
-                if file_key in seen_files:
-                    print(f"🗑️ Duplicate removed: {new_path}")
+                rel_key = os.path.relpath(original_path, os.getcwd()).lower()
+                if rel_key in seen_files:
                     try:
-                        os.remove(new_path)
+                        os.remove(original_path)
+                        print(f"🗑️ Duplicate removed: {original_path}")
                         continue
-                    except OSError:
-                        pass
-                seen_files.add(file_key)
+                    except OSError: pass
+                seen_files.add(rel_key)
                
-                link_info = parse_problem_link(file_path)
+                link_info = parse_problem_link(original_path)
                
                 problem_id = "Unknown"
                 q_link = "#"
@@ -80,7 +78,7 @@ def process_files():
                         q_link = f"https://www.codechef.com/problems/{problem_id}"
                 problem_name = os.path.splitext(file)[0].replace('_', ' ').replace('-', ' ')
                
-                rel_path = os.path.relpath(file_path, start=os.getcwd()).replace("\\", "/")
+                rel_path = os.path.relpath(original_path, os.getcwd()).replace("\\", "/")
                
                 problems_data.append({
                     "id": problem_id,
