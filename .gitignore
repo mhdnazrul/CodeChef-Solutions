@@ -1,6 +1,10 @@
 # One-line safe push command (use after adding solutions)
 # git add Solutions/ && git commit -m "Add new solutions" && git pull origin main && git push origin main
 
+
+# git add . && git commit -m "Add new solutions" && git pull --rebase origin main && git push origin main
+
+
 # Backup or temporary folders
 cph/
 temp/
