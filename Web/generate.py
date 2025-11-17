@@ -3,13 +3,11 @@ import json
 import re
 import urllib.parse
 
-# কনফিগারেশন
 DIRECTORIES = ["Solutions"]
 WEB_DIR = "Web"
 EXTENSIONS = {".cpp", ".c", ".py", ".java", ".js", ".kt", ".cs"}
 REPO_URL = "https://github.com/mhdnazrul/CodeChef-Solutions"
 
-# FIX: Regex ঠিক করা হয়েছে যাতে TEST, FLOW007, A1B2 সব ধরনের আইডি সাপোর্ট করে
 CODECHEF_REGEX = re.compile(
     r'https?://(?:www\.)?codechef\.com/(?:[^/\s]+/)*problems/([A-Za-z0-9_]+)',
     re.IGNORECASE
@@ -20,10 +18,9 @@ stats = {"total": 0}
 seen_files = set()
 
 def parse_problem_link(file_path):
-    """ফাইল থেকে CodeChef লিঙ্ক খুঁজে বের করে"""
     try:
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-            content = f.read(2000) # প্রথম ২০০০ ক্যারেক্টার চেক করবে
+            content = f.read(2000) 
             match = CODECHEF_REGEX.search(content)
             if match:
                 return {"url": match.group(0), "id": match.group(1)}
@@ -32,7 +29,6 @@ def parse_problem_link(file_path):
     return None
 
 def sanitize_filename(filename):
-    """ফাইলের নাম ক্লিন করে"""
     name, ext = os.path.splitext(filename)
     new_name = re.sub(r'[^a-zA-Z0-9_]', '_', name)
     new_name = re.sub(r'_+', '_', new_name).strip('_')
@@ -78,7 +74,6 @@ def process_files():
                     problem_id = link_info['id']
                     q_link = link_info['url']
                 else:
-                    # FIX: Regex ঠিক করা হয়েছে
                     name_match = re.match(r'^([A-Za-z0-9_]+)', file, re.IGNORECASE)
                     if name_match:
                         problem_id = name_match.group(1)
@@ -124,7 +119,7 @@ def generate_readme():
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
-    <a href="https://github.com/mhdnazrul">GitHub</a> | <a href="https://www.codechef.com/users/nazrulislam_7">CodeChef</a>
+    <a href="https://github.com/mhdnazrul">GitHub</a> | <a href="https://www.codechef.com/users/nazrulislam_7">CodeChef</a> | <a href="https://codeforces.com/profile/nazrulislam_7">Codeforces</a> | <a href="https://www.linkedin.com/in/nazrulislam7/">Linkedin</a>
 </p>
 
 ---
