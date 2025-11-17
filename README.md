@@ -10,7 +10,7 @@
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
-    <a href="https://github.com/mhdnazrul">GitHub</a> | <a href="https://www.codechef.com/users/nazrulislam_7">CodeChef</a>
+    <a href="https://github.com/mhdnazrul">GitHub</a> | <a href="https://www.codechef.com/users/nazrulislam_7">CodeChef</a> | <a href="https://codeforces.com/profile/nazrulislam_7">Codeforces</a> | <a href="https://www.linkedin.com/in/nazrulislam7/">Linkedin</a>
 </p>
 
 ---
