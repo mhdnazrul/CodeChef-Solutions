@@ -294,6 +294,13 @@
     "filename": "Decoration_Discount.cpp"
   },
   {
+    "id": "FCTRL2",
+    "name": "Small factorials",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2",
+    "sol_path": "Solutions/Small_factorials.cpp",
+    "filename": "Small_factorials.cpp"
+  },
+  {
     "id": "Dominant_Army",
     "name": "Dominant Army",
     "q_link": "https://www.codechef.com/problems/Dominant_Army",
@@ -306,6 +313,13 @@
     "q_link": "https://www.codechef.com/problems/Chef_and_Chocolates",
     "sol_path": "Solutions/Chef_and_Chocolates.cpp",
     "filename": "Chef_and_Chocolates.cpp"
+  },
+  {
+    "id": "BULLET",
+    "name": "Mario and Bullet",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET",
+    "sol_path": "Solutions/Mario_and_Bullet.cpp",
+    "filename": "Mario_and_Bullet.cpp"
   },
   {
     "id": "Ageing",

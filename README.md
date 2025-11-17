@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-183-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-185-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 183
+**Total Problems Solved:** 185
 
 ---
 
@@ -128,6 +128,7 @@
 | Make_Cat | Make Cat | [View](https://www.codechef.com/problems/Make_Cat) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Cat.cpp) |
 | MAKESUB | Make Subarray | [View](https://www.codechef.com/START207D/problems/MAKESUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Subarray.cpp) |
 | Mana_Points | Mana Points | [View](https://www.codechef.com/problems/Mana_Points) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mana_Points.cpp) |
+| BULLET | Mario and Bullet | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mario_and_Bullet.cpp) |
 | Masterchef_finals | Masterchef finals | [View](https://www.codechef.com/problems/Masterchef_finals) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Masterchef_finals.cpp) |
 | MAXTASTE | Maximise the Tastiness | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximise_the_Tastiness.cpp) |
 | Maximum_Submissions | Maximum Submissions | [View](https://www.codechef.com/problems/Maximum_Submissions) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximum_Submissions.cpp) |
@@ -179,6 +180,7 @@
 | SINGLEUSE | Single use Attack | [View](https://www.codechef.com/problems/SINGLEUSE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_use_Attack.cpp) |
 | Six_Friends | Six Friends | [View](https://www.codechef.com/problems/Six_Friends) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Six_Friends.cpp) |
 | Sleep_deprivation | Sleep deprivation | [View](https://www.codechef.com/problems/Sleep_deprivation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sleep_deprivation.cpp) |
+| FCTRL2 | Small factorials | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_factorials.cpp) |
 | SPECIALITY | Speciality | [View](https://www.codechef.com/problems/SPECIALITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speciality.cpp) |
 | Spice_Level | Spice Level | [View](https://www.codechef.com/problems/Spice_Level) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Spice_Level.cpp) |
 | Subscriptions | Subscriptions | [View](https://www.codechef.com/problems/Subscriptions) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Subscriptions.cpp) |
