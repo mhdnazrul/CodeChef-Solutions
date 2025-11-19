@@ -1,5 +1,12 @@
 [
   {
+    "id": "NO4S",
+    "name": "No 4 Please",
+    "q_link": "https://www.codechef.com/START213C/problems/NO4S",
+    "sol_path": "Solutions/No_4_Please.cpp",
+    "filename": "No_4_Please.cpp"
+  },
+  {
     "id": "MOOCHEF",
     "name": "Moody Chef",
     "q_link": "https://www.codechef.com/problems/MOOCHEF",
@@ -26,6 +33,13 @@
     "q_link": "https://www.codechef.com/problems/Four_Tickets",
     "sol_path": "Solutions/Four_Tickets.cpp",
     "filename": "Four_Tickets.cpp"
+  },
+  {
+    "id": "EXMLF1",
+    "name": "EXML Race",
+    "q_link": "https://www.codechef.com/START213C/problems/EXMLF1",
+    "sol_path": "Solutions/EXML_Race.cpp",
+    "filename": "EXML_Race.cpp"
   },
   {
     "id": "Counting_Words",
@@ -537,6 +551,13 @@
     "q_link": "https://www.codechef.com/problems/Right_There",
     "sol_path": "Solutions/Right_There.cpp",
     "filename": "Right_There.cpp"
+  },
+  {
+    "id": "SEPX",
+    "name": "Separation",
+    "q_link": "https://www.codechef.com/START213C/problems/SEPX",
+    "sol_path": "Solutions/Separation.cpp",
+    "filename": "Separation.cpp"
   },
   {
     "id": "Reach_the_Target",

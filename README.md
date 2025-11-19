@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-185-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-188-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 185
+**Total Problems Solved:** 188
 
 ---
 
@@ -86,6 +86,7 @@
 | Donation_Drive | Donation Drive | [View](https://www.codechef.com/problems/Donation_Drive) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Donation_Drive.cpp) |
 | Donation_Rewards | Donation Rewards | [View](https://www.codechef.com/problems/Donation_Rewards) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Donation_Rewards.cpp) |
 | Double_Rent | Double Rent | [View](https://www.codechef.com/problems/Double_Rent) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Double_Rent.cpp) |
+| EXMLF1 | EXML Race | [View](https://www.codechef.com/START213C/problems/EXMLF1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/EXML_Race.cpp) |
 | ELECTN | Elections in Chefland | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Elections_in_Chefland.cpp) |
 | Enormous_Input_Test | Enormous Input Test | [View](https://www.codechef.com/problems/Enormous_Input_Test) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Enormous_Input_Test.cpp) |
 | Exams | Exams | [View](https://www.codechef.com/problems/Exams) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exams.cpp) |
@@ -145,6 +146,7 @@
 | CHN15A | Mutated Minions | [View](https://www.codechef.com/problems/CHN15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mutated_Minions.cpp) |
 | Nearest_Exit | Nearest Exit | [View](https://www.codechef.com/problems/Nearest_Exit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Nearest_Exit.cpp) |
 | Netflix | Netflix | [View](https://www.codechef.com/problems/Netflix) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Netflix.cpp) |
+| NO4S | No 4 Please | [View](https://www.codechef.com/START213C/problems/NO4S) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/No_4_Please.cpp) |
 | NOTECNT | Notebook Counting | [View](https://www.codechef.com/START210D/problems/NOTECNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Notebook_Counting.cpp) |
 | Number_Mirror | Number Mirror | [View](https://www.codechef.com/problems/Number_Mirror) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Number_Mirror.cpp) |
 | October_Marathon | October Marathon | [View](https://www.codechef.com/problems/October_Marathon) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/October_Marathon.cpp) |
@@ -177,6 +179,7 @@
 | Saving_Taxes | Saving Taxes | [View](https://www.codechef.com/problems/Saving_Taxes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Saving_Taxes.cpp) |
 | Search_an_element_in_an_array | Search an element in an array | [View](https://www.codechef.com/problems/Search_an_element_in_an_array) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Search_an_element_in_an_array.cpp) |
 | Second_Max_of_Three_Numbers | Second Max of Three Numbers | [View](https://www.codechef.com/problems/Second_Max_of_Three_Numbers) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Max_of_Three_Numbers.cpp) |
+| SEPX | Separation | [View](https://www.codechef.com/START213C/problems/SEPX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Separation.cpp) |
 | SINGLEUSE | Single use Attack | [View](https://www.codechef.com/problems/SINGLEUSE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_use_Attack.cpp) |
 | Six_Friends | Six Friends | [View](https://www.codechef.com/problems/Six_Friends) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Six_Friends.cpp) |
 | Sleep_deprivation | Sleep deprivation | [View](https://www.codechef.com/problems/Sleep_deprivation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sleep_deprivation.cpp) |
