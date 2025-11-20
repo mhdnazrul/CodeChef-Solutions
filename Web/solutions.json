@@ -112,6 +112,13 @@
     "filename": "Passes_for_Fair.cpp"
   },
   {
+    "id": "WCC",
+    "name": "World Chess Championship",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/WCC",
+    "sol_path": "Solutions/World_Chess_Championship.cpp",
+    "filename": "World_Chess_Championship.cpp"
+  },
+  {
     "id": "BATH",
     "name": "Bath in Winters",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
@@ -180,6 +187,13 @@
     "q_link": "https://www.codechef.com/problems/Water_Filling",
     "sol_path": "Solutions/Water_Filling.cpp",
     "filename": "Water_Filling.cpp"
+  },
+  {
+    "id": "ADDONE",
+    "name": "Add One",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE",
+    "sol_path": "Solutions/Add_One.cpp",
+    "filename": "Add_One.cpp"
   },
   {
     "id": "Instagram",
@@ -285,6 +299,13 @@
     "q_link": "https://www.codechef.com/problems/Double_Rent",
     "sol_path": "Solutions/Double_Rent.cpp",
     "filename": "Double_Rent.cpp"
+  },
+  {
+    "id": "TITLECASE",
+    "name": "Convert String to Title Case",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE",
+    "sol_path": "Solutions/Convert_String_to_Title_Case.cpp",
+    "filename": "Convert_String_to_Title_Case.cpp"
   },
   {
     "id": "HELIUM3",
