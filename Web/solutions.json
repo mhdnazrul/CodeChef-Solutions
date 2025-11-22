@@ -602,6 +602,13 @@
     "filename": "Just_One_More_Episode.cpp"
   },
   {
+    "id": "HAPPYSTR",
+    "name": "Chef and Happy String",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR",
+    "sol_path": "Solutions/Chef_and_Happy_String.cpp",
+    "filename": "Chef_and_Happy_String.cpp"
+  },
+  {
     "id": "Sugarcane_Juice_Business",
     "name": "Sugarcane Juice Business",
     "q_link": "https://www.codechef.com/problems/Sugarcane_Juice_Business",

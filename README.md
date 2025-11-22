@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-191-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-192-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 191
+**Total Problems Solved:** 192
 
 ---
 
@@ -59,6 +59,7 @@
 | Chef_and_Chocolates | Chef and Chocolates | [View](https://www.codechef.com/problems/Chef_and_Chocolates) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Chocolates.cpp) |
 | Chef_and_Donation | Chef and Donation | [View](https://www.codechef.com/problems/Chef_and_Donation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Donation.cpp) |
 | Chef_and_Gym | Chef and Gym | [View](https://www.codechef.com/problems/Chef_and_Gym) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Gym.cpp) |
+| HAPPYSTR | Chef and Happy String | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Happy_String.cpp) |
 | Chef_and_Masks | Chef and Masks | [View](https://www.codechef.com/problems/Chef_and_Masks) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Masks.cpp) |
 | HELIUM3 | Chef and NextGen | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_NextGen.cpp) |
 | Chef_and_Wire_Frames | Chef and Wire Frames | [View](https://www.codechef.com/problems/Chef_and_Wire_Frames) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Wire_Frames.cpp) |
