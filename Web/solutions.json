@@ -1085,6 +1085,13 @@
     "filename": "Waiting_Time.cpp"
   },
   {
+    "id": "MISSP",
+    "name": "Chef and Dolls",
+    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/MISSP",
+    "sol_path": "Solutions/Chef_and_Dolls.cpp",
+    "filename": "Chef_and_Dolls.cpp"
+  },
+  {
     "id": "FLIPCARDS",
     "name": "Flip the cards",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS",

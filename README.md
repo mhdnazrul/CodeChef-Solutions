@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-192-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-193-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 192
+**Total Problems Solved:** 193
 
 ---
 
@@ -57,6 +57,7 @@
 | CHEFCAND | Chef and Candies | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Candies.cpp) |
 | Chef_and_Chapters | Chef and Chapters | [View](https://www.codechef.com/problems/Chef_and_Chapters) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Chapters.cpp) |
 | Chef_and_Chocolates | Chef and Chocolates | [View](https://www.codechef.com/problems/Chef_and_Chocolates) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Chocolates.cpp) |
+| MISSP | Chef and Dolls | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/MISSP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Dolls.cpp) |
 | Chef_and_Donation | Chef and Donation | [View](https://www.codechef.com/problems/Chef_and_Donation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Donation.cpp) |
 | Chef_and_Gym | Chef and Gym | [View](https://www.codechef.com/problems/Chef_and_Gym) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Gym.cpp) |
 | HAPPYSTR | Chef and Happy String | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Happy_String.cpp) |
