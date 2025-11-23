@@ -966,6 +966,13 @@
     "filename": "Couple_Game.cpp"
   },
   {
+    "id": "DISCOUNTT",
+    "name": "Take discount or Not",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT",
+    "sol_path": "Solutions/Take_discount_or_Not.cpp",
+    "filename": "Take_discount_or_Not.cpp"
+  },
+  {
     "id": "Lucky_Seven",
     "name": "Lucky Seven",
     "q_link": "https://www.codechef.com/problems/Lucky_Seven",

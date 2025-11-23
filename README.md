@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-193-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-194-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 193
+**Total Problems Solved:** 194
 
 ---
 
@@ -195,6 +195,7 @@
 | Sum_it | Sum it | [View](https://www.codechef.com/problems/Sum_it) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_it.cpp) |
 | Sum_of_Digits | Sum of Digits | [View](https://www.codechef.com/problems/Sum_of_Digits) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_of_Digits.cpp) |
 | TV_Discount | TV Discount | [View](https://www.codechef.com/problems/TV_Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/TV_Discount.cpp) |
+| DISCOUNTT | Take discount or Not | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Take_discount_or_Not.cpp) |
 | Test_Score | Test Score | [View](https://www.codechef.com/problems/Test_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Test_Score.cpp) |
 | The_Cheaper_Cab | The Cheaper Cab | [View](https://www.codechef.com/problems/The_Cheaper_Cab) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Cheaper_Cab.cpp) |
 | The_Gift | The Gift | [View](https://www.codechef.com/problems/The_Gift) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Gift.cpp) |
