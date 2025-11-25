@@ -721,6 +721,13 @@
     "filename": "DNA_Storage.cpp"
   },
   {
+    "id": "KITCHENCOST",
+    "name": "Cost of Groceries",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/KITCHENCOST",
+    "sol_path": "Solutions/Cost_of_Groceries.cpp",
+    "filename": "Cost_of_Groceries.cpp"
+  },
+  {
     "id": "Time_Complexity",
     "name": "Time Complexity",
     "q_link": "https://www.codechef.com/problems/Time_Complexity",

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-195-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-196-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 195
+**Total Problems Solved:** 196
 
 ---
 
@@ -73,6 +73,7 @@
 | Clear_Day | Clear Day | [View](https://www.codechef.com/problems/Clear_Day) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Clear_Day.cpp) |
 | Codechef_Airlines | Codechef Airlines | [View](https://www.codechef.com/problems/Codechef_Airlines) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Codechef_Airlines.cpp) |
 | TITLECASE | Convert String to Title Case | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Convert_String_to_Title_Case.cpp) |
+| KITCHENCOST | Cost of Groceries | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/KITCHENCOST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cost_of_Groceries.cpp) |
 | NOTEBOOK | Count the Notebooks | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Count_the_Notebooks.cpp) |
 | Counting_Words | Counting Words | [View](https://www.codechef.com/problems/Counting_Words) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Counting_Words.cpp) |
 | Couple_Game | Couple Game | [View](https://www.codechef.com/problems/Couple_Game) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Couple_Game.cpp) |
