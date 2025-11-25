@@ -728,6 +728,13 @@
     "filename": "Time_Complexity.cpp"
   },
   {
+    "id": "CFRTEST",
+    "name": "Devu and friendship testing",
+    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST",
+    "sol_path": "Solutions/Devu_and_friendship_testing.cpp",
+    "filename": "Devu_and_friendship_testing.cpp"
+  },
+  {
     "id": "404_Not_Found",
     "name": "404 Not Found",
     "q_link": "https://www.codechef.com/problems/404_Not_Found",

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-194-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-195-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 194
+**Total Problems Solved:** 195
 
 ---
 
@@ -83,6 +83,7 @@
 | DNASTORAGE | DNA Storage | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/DNA_Storage.cpp) |
 | Decoration_Discount | Decoration Discount | [View](https://www.codechef.com/problems/Decoration_Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decoration_Discount.cpp) |
 | Determine_the_Score | Determine the Score | [View](https://www.codechef.com/problems/Determine_the_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Determine_the_Score.cpp) |
+| CFRTEST | Devu and friendship testing | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Devu_and_friendship_testing.cpp) |
 | DIFFCONSEC | Different Consecutive Characters | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DIFFCONSEC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Different_Consecutive_Characters.cpp) |
 | Discount | Discount | [View](https://www.codechef.com/problems/Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Discount.cpp) |
 | DISCUS | Discus Throw | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Discus_Throw.cpp) |
