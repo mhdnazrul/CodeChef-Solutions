@@ -392,6 +392,13 @@
     "filename": "True_and_False_Paper.cpp"
   },
   {
+    "id": "P1HOME",
+    "name": "Dice Play",
+    "q_link": "https://www.codechef.com/problems/P1HOME",
+    "sol_path": "Solutions/Dice_Play.cpp",
+    "filename": "Dice_Play.cpp"
+  },
+  {
     "id": "Sasta_Shark_Tank",
     "name": "Sasta Shark Tank",
     "q_link": "https://www.codechef.com/problems/Sasta_Shark_Tank",
@@ -467,6 +474,13 @@
     "q_link": "https://www.codechef.com/problems/Bucket_and_Water_Flow",
     "sol_path": "Solutions/Bucket_and_Water_Flow.cpp",
     "filename": "Bucket_and_Water_Flow.cpp"
+  },
+  {
+    "id": "EQUALELE",
+    "name": "Equal Elements",
+    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE",
+    "sol_path": "Solutions/Equal_Elements.cpp",
+    "filename": "Equal_Elements.cpp"
   },
   {
     "id": "Practice_makes_us_perfect",
@@ -1174,6 +1188,13 @@
     "q_link": "https://www.codechef.com/problems/Parliament",
     "sol_path": "Solutions/Parliament.cpp",
     "filename": "Parliament.cpp"
+  },
+  {
+    "id": "OPMIN",
+    "name": "MIN To MAX",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN",
+    "sol_path": "Solutions/MIN_To_MAX.cpp",
+    "filename": "MIN_To_MAX.cpp"
   },
   {
     "id": "Playlist",

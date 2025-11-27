@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-196-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-199-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 196
+**Total Problems Solved:** 199
 
 ---
 
@@ -85,6 +85,7 @@
 | Decoration_Discount | Decoration Discount | [View](https://www.codechef.com/problems/Decoration_Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decoration_Discount.cpp) |
 | Determine_the_Score | Determine the Score | [View](https://www.codechef.com/problems/Determine_the_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Determine_the_Score.cpp) |
 | CFRTEST | Devu and friendship testing | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Devu_and_friendship_testing.cpp) |
+| P1HOME | Dice Play | [View](https://www.codechef.com/problems/P1HOME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Dice_Play.cpp) |
 | DIFFCONSEC | Different Consecutive Characters | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DIFFCONSEC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Different_Consecutive_Characters.cpp) |
 | Discount | Discount | [View](https://www.codechef.com/problems/Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Discount.cpp) |
 | DISCUS | Discus Throw | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Discus_Throw.cpp) |
@@ -95,6 +96,7 @@
 | EXMLF1 | EXML Race | [View](https://www.codechef.com/START213C/problems/EXMLF1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/EXML_Race.cpp) |
 | ELECTN | Elections in Chefland | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Elections_in_Chefland.cpp) |
 | Enormous_Input_Test | Enormous Input Test | [View](https://www.codechef.com/problems/Enormous_Input_Test) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Enormous_Input_Test.cpp) |
+| EQUALELE | Equal Elements | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Equal_Elements.cpp) |
 | Exams | Exams | [View](https://www.codechef.com/problems/Exams) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exams.cpp) |
 | EXREST | Exercise and Rest | [View](https://www.codechef.com/problems/EXREST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exercise_and_Rest.cpp) |
 | EXPENSES | Expense List | [View](https://www.codechef.com/problems/EXPENSES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Expense_List.cpp) |
@@ -131,6 +133,7 @@
 | Lucky_Seven | Lucky Seven | [View](https://www.codechef.com/problems/Lucky_Seven) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lucky_Seven.cpp) |
 | Lunchtime | Lunchtime | [View](https://www.codechef.com/problems/Lunchtime) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lunchtime.cpp) |
 | MATH1_Enrolment | MATH1 Enrolment | [View](https://www.codechef.com/problems/MATH1_Enrolment) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MATH1_Enrolment.cpp) |
+| OPMIN | MIN To MAX | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MIN_To_MAX.cpp) |
 | Mahasena | Mahasena | [View](https://www.codechef.com/problems/Mahasena) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mahasena.cpp) |
 | Make_Cat | Make Cat | [View](https://www.codechef.com/problems/Make_Cat) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Cat.cpp) |
 | MAKESUB | Make Subarray | [View](https://www.codechef.com/START207D/problems/MAKESUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Subarray.cpp) |
