@@ -847,6 +847,13 @@
     "filename": "Sum_it.cpp"
   },
   {
+    "id": "SINGLENUM",
+    "name": "Single number in multiple numbers",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SINGLENUM",
+    "sol_path": "Solutions/Single_number_in_multiple_numbers.cpp",
+    "filename": "Single_number_in_multiple_numbers.cpp"
+  },
+  {
     "id": "SPECIALITY",
     "name": "Speciality",
     "q_link": "https://www.codechef.com/problems/SPECIALITY",
