@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-200-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-202-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 200
+**Total Problems Solved:** 202
 
 ---
 
@@ -32,6 +32,7 @@
 | ACTEMP | Air Conditioner Temperature | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Conditioner_Temperature.cpp) |
 | Air_Quality_Index | Air Quality Index | [View](https://www.codechef.com/problems/Air_Quality_Index) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Quality_Index.cpp) |
 | Audible_Range | Audible Range | [View](https://www.codechef.com/problems/Audible_Range) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Audible_Range.cpp) |
+| BMCV201 | Basic math Addition and multiplication | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Basic_math_Addition_and_multiplication.cpp) |
 | BATH | Bath in Winters | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bath_in_Winters.cpp) |
 | Battery_Health | Battery Health | [View](https://www.codechef.com/problems/Battery_Health) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Health.cpp) |
 | Battery_Low | Battery Low | [View](https://www.codechef.com/problems/Battery_Low) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Low.cpp) |
@@ -102,6 +103,7 @@
 | EXPENSES | Expense List | [View](https://www.codechef.com/problems/EXPENSES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Expense_List.cpp) |
 | Expert_Setter | Expert Setter | [View](https://www.codechef.com/problems/Expert_Setter) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Expert_Setter.cpp) |
 | Ezio_and_Guards | Ezio and Guards | [View](https://www.codechef.com/problems/Ezio_and_Guards) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ezio_and_Guards.cpp) |
+| FAIRSHARE | Fair Share Settlement | [View](https://www.codechef.com/problems/FAIRSHARE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fair_Share_Settlement.cpp) |
 | Fever | Fever | [View](https://www.codechef.com/problems/Fever) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fever.cpp) |
 | Fill_the_Bucket | Fill the Bucket | [View](https://www.codechef.com/problems/Fill_the_Bucket) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fill_the_Bucket.cpp) |
 | Final_Population | Final Population | [View](https://www.codechef.com/problems/Final_Population) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Final_Population.cpp) |

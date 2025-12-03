@@ -210,6 +210,13 @@
     "filename": "Battery_Low.cpp"
   },
   {
+    "id": "BMCV201",
+    "name": "Basic math Addition and multiplication",
+    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201",
+    "sol_path": "Solutions/Basic_math_Addition_and_multiplication.cpp",
+    "filename": "Basic_math_Addition_and_multiplication.cpp"
+  },
+  {
     "id": "The_Mango_Truck",
     "name": "The Mango Truck",
     "q_link": "https://www.codechef.com/problems/The_Mango_Truck",
@@ -544,6 +551,13 @@
     "q_link": "https://www.codechef.com/problems/Expert_Setter",
     "sol_path": "Solutions/Expert_Setter.cpp",
     "filename": "Expert_Setter.cpp"
+  },
+  {
+    "id": "FAIRSHARE",
+    "name": "Fair Share Settlement",
+    "q_link": "https://www.codechef.com/problems/FAIRSHARE",
+    "sol_path": "Solutions/Fair_Share_Settlement.cpp",
+    "filename": "Fair_Share_Settlement.cpp"
   },
   {
     "id": "MAXTASTE",
