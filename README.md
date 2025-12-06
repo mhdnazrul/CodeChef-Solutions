@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-208-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-209-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 208
+**Total Problems Solved:** 209
 
 ---
 
@@ -213,6 +213,7 @@
 | Test_Score | Test Score | [View](https://www.codechef.com/problems/Test_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Test_Score.cpp) |
 | The_Cheaper_Cab | The Cheaper Cab | [View](https://www.codechef.com/problems/The_Cheaper_Cab) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Cheaper_Cab.cpp) |
 | The_Gift | The Gift | [View](https://www.codechef.com/problems/The_Gift) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Gift.cpp) |
+| LASTLEVELS | The Last Levels | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Last_Levels.cpp) |
 | TLG | The Lead Game | [View](https://www.codechef.com/problems/TLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Lead_Game.cpp) |
 | The_Mango_Truck | The Mango Truck | [View](https://www.codechef.com/problems/The_Mango_Truck) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Mango_Truck.cpp) |
 | The_Three_Topics | The Three Topics | [View](https://www.codechef.com/problems/The_Three_Topics) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Three_Topics.cpp) |

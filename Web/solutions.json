@@ -1169,6 +1169,13 @@
     "filename": "Nearest_Exit.cpp"
   },
   {
+    "id": "LASTLEVELS",
+    "name": "The Last Levels",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS",
+    "sol_path": "Solutions/The_Last_Levels.cpp",
+    "filename": "The_Last_Levels.cpp"
+  },
+  {
     "id": "Waiting_Time",
     "name": "Waiting Time",
     "q_link": "https://www.codechef.com/problems/Waiting_Time",
