@@ -126,6 +126,13 @@
     "filename": "Bath_in_Winters.cpp"
   },
   {
+    "id": "BMCV206",
+    "name": "Practice problem Fitness",
+    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206",
+    "sol_path": "Solutions/Practice_problem_Fitness.cpp",
+    "filename": "Practice_problem_Fitness.cpp"
+  },
+  {
     "id": "Volume_Control",
     "name": "Volume Control",
     "q_link": "https://www.codechef.com/problems/Volume_Control",
@@ -194,6 +201,13 @@
     "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE",
     "sol_path": "Solutions/Add_One.cpp",
     "filename": "Add_One.cpp"
+  },
+  {
+    "id": "DNASTRAND",
+    "name": "Complementary Strand in a DNA",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DNASTRAND",
+    "sol_path": "Solutions/Complementary_Strand_in_a_DNA.cpp",
+    "filename": "Complementary_Strand_in_a_DNA.cpp"
   },
   {
     "id": "Instagram",
@@ -320,6 +334,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
     "sol_path": "Solutions/Chef_and_NextGen.cpp",
     "filename": "Chef_and_NextGen.cpp"
+  },
+  {
+    "id": "FSQRT",
+    "name": "Finding Square Roots",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT",
+    "sol_path": "Solutions/Finding_Square_Roots.cpp",
+    "filename": "Finding_Square_Roots.cpp"
   },
   {
     "id": "SINGLEUSE",
@@ -868,6 +889,13 @@
     "filename": "Single_number_in_multiple_numbers.cpp"
   },
   {
+    "id": "CHEFBOTTLE",
+    "name": "Chef and Water Bottles",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE",
+    "sol_path": "Solutions/Chef_and_Water_Bottles.cpp",
+    "filename": "Chef_and_Water_Bottles.cpp"
+  },
+  {
     "id": "SPECIALITY",
     "name": "Speciality",
     "q_link": "https://www.codechef.com/problems/SPECIALITY",
@@ -992,6 +1020,13 @@
     "q_link": "https://www.codechef.com/problems/Chef_and_Masks",
     "sol_path": "Solutions/Chef_and_Masks.cpp",
     "filename": "Chef_and_Masks.cpp"
+  },
+  {
+    "id": "CANDYDIST",
+    "name": "Candy Distribution",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CANDYDIST",
+    "sol_path": "Solutions/Candy_Distribution.cpp",
+    "filename": "Candy_Distribution.cpp"
   },
   {
     "id": "ACTEMP",
@@ -1391,6 +1426,13 @@
     "q_link": "https://www.codechef.com/problems/EXREST",
     "sol_path": "Solutions/Exercise_and_Rest.cpp",
     "filename": "Exercise_and_Rest.cpp"
+  },
+  {
+    "id": "BMCV210",
+    "name": "Debug this code Total prize money",
+    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210",
+    "sol_path": "Solutions/Debug_this_code_Total_prize_money.cpp",
+    "filename": "Debug_this_code_Total_prize_money.cpp"
   },
   {
     "id": "The_Three_Topics",
