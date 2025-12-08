@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-209-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-210-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 209
+**Total Problems Solved:** 210
 
 ---
 
@@ -40,6 +40,7 @@
 | Best_of_Two | Best of Two | [View](https://www.codechef.com/problems/Best_of_Two) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_of_Two.cpp) |
 | Bidding | Bidding | [View](https://www.codechef.com/problems/Bidding) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bidding.cpp) |
 | Biryani_classes | Biryani classes | [View](https://www.codechef.com/problems/Biryani_classes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Biryani_classes.cpp) |
+| BLACKJACK | Blackjack | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BLACKJACK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Blackjack.cpp) |
 | Bob_at_the_Bank | Bob at the Bank | [View](https://www.codechef.com/problems/Bob_at_the_Bank) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bob_at_the_Bank.cpp) |
 | Bone_Appetit | Bone Appetit | [View](https://www.codechef.com/problems/Bone_Appetit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bone_Appetit.cpp) |
 | Broken_Phone | Broken Phone | [View](https://www.codechef.com/problems/Broken_Phone) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Broken_Phone.cpp) |

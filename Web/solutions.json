@@ -217,6 +217,13 @@
     "filename": "Instagram.cpp"
   },
   {
+    "id": "BLACKJACK",
+    "name": "Blackjack",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BLACKJACK",
+    "sol_path": "Solutions/Blackjack.cpp",
+    "filename": "Blackjack.cpp"
+  },
+  {
     "id": "Battery_Low",
     "name": "Battery Low",
     "q_link": "https://www.codechef.com/problems/Battery_Low",
