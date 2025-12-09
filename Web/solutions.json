@@ -1274,6 +1274,13 @@
     "filename": "Playlist.cpp"
   },
   {
+    "id": "FILLCANDIES",
+    "name": "Fill Candies",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES",
+    "sol_path": "Solutions/Fill_Candies.cpp",
+    "filename": "Fill_Candies.cpp"
+  },
+  {
     "id": "Monthly_Budget",
     "name": "Monthly Budget",
     "q_link": "https://www.codechef.com/problems/Monthly_Budget",
@@ -1405,6 +1412,13 @@
     "q_link": "https://www.codechef.com/problems/Mana_Points",
     "sol_path": "Solutions/Mana_Points.cpp",
     "filename": "Mana_Points.cpp"
+  },
+  {
+    "id": "CHESSDIST",
+    "name": "Chessboard Distance",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHESSDIST",
+    "sol_path": "Solutions/Chessboard_Distance.cpp",
+    "filename": "Chessboard_Distance.cpp"
   },
   {
     "id": "OFFICE",

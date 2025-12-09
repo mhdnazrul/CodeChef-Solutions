@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-210-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-212-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 210
+**Total Problems Solved:** 212
 
 ---
 
@@ -73,6 +73,7 @@
 | CHEFVACATION | Chef on Vacation | [View](https://www.codechef.com/problems/CHEFVACATION) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_on_Vacation.cpp) |
 | CHEFGAMES | Chefland Games | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chefland_Games.cpp) |
 | Chess_Time | Chess Time | [View](https://www.codechef.com/problems/Chess_Time) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chess_Time.cpp) |
+| CHESSDIST | Chessboard Distance | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHESSDIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chessboard_Distance.cpp) |
 | CHOCEAT | Chocolate Eating | [View](https://www.codechef.com/START210D/problems/CHOCEAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chocolate_Eating.cpp) |
 | Clear_Day | Clear Day | [View](https://www.codechef.com/problems/Clear_Day) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Clear_Day.cpp) |
 | Codechef_Airlines | Codechef Airlines | [View](https://www.codechef.com/problems/Codechef_Airlines) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Codechef_Airlines.cpp) |
@@ -110,6 +111,7 @@
 | Ezio_and_Guards | Ezio and Guards | [View](https://www.codechef.com/problems/Ezio_and_Guards) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ezio_and_Guards.cpp) |
 | FAIRSHARE | Fair Share Settlement | [View](https://www.codechef.com/problems/FAIRSHARE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fair_Share_Settlement.cpp) |
 | Fever | Fever | [View](https://www.codechef.com/problems/Fever) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fever.cpp) |
+| FILLCANDIES | Fill Candies | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fill_Candies.cpp) |
 | Fill_the_Bucket | Fill the Bucket | [View](https://www.codechef.com/problems/Fill_the_Bucket) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fill_the_Bucket.cpp) |
 | Final_Population | Final Population | [View](https://www.codechef.com/problems/Final_Population) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Final_Population.cpp) |
 | Find_Remainder | Find Remainder | [View](https://www.codechef.com/problems/Find_Remainder) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Find_Remainder.cpp) |
