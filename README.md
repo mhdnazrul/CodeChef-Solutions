@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-212-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-215-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 212
+**Total Problems Solved:** 215
 
 ---
 
@@ -37,6 +37,7 @@
 | Battery_Health | Battery Health | [View](https://www.codechef.com/problems/Battery_Health) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Health.cpp) |
 | Battery_Low | Battery Low | [View](https://www.codechef.com/problems/Battery_Low) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Low.cpp) |
 | Best_Coupon | Best Coupon | [View](https://www.codechef.com/problems/Best_Coupon) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Coupon.cpp) |
+| BESTSEATS | Best Seats | [View](https://www.codechef.com/START216D/problems/BESTSEATS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Seats.cpp) |
 | Best_of_Two | Best of Two | [View](https://www.codechef.com/problems/Best_of_Two) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_of_Two.cpp) |
 | Bidding | Bidding | [View](https://www.codechef.com/problems/Bidding) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bidding.cpp) |
 | Biryani_classes | Biryani classes | [View](https://www.codechef.com/problems/Biryani_classes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Biryani_classes.cpp) |
@@ -103,6 +104,7 @@
 | EXMLF1 | EXML Race | [View](https://www.codechef.com/START213C/problems/EXMLF1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/EXML_Race.cpp) |
 | ELECTN | Elections in Chefland | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Elections_in_Chefland.cpp) |
 | Enormous_Input_Test | Enormous Input Test | [View](https://www.codechef.com/problems/Enormous_Input_Test) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Enormous_Input_Test.cpp) |
+| ENTERTAIN | Entertainments | [View](https://www.codechef.com/START216D/problems/ENTERTAIN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Entertainments.cpp) |
 | EQUALELE | Equal Elements | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Equal_Elements.cpp) |
 | Exams | Exams | [View](https://www.codechef.com/problems/Exams) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exams.cpp) |
 | EXREST | Exercise and Rest | [View](https://www.codechef.com/problems/EXREST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exercise_and_Rest.cpp) |
@@ -197,6 +199,7 @@
 | Sale_Season | Sale Season | [View](https://www.codechef.com/problems/Sale_Season) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sale_Season.cpp) |
 | Sasta_Shark_Tank | Sasta Shark Tank | [View](https://www.codechef.com/problems/Sasta_Shark_Tank) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sasta_Shark_Tank.cpp) |
 | Saving_Taxes | Saving Taxes | [View](https://www.codechef.com/problems/Saving_Taxes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Saving_Taxes.cpp) |
+| SCORING | Scoring | [View](https://www.codechef.com/START216D/problems/SCORING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Scoring.cpp) |
 | Search_an_element_in_an_array | Search an element in an array | [View](https://www.codechef.com/problems/Search_an_element_in_an_array) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Search_an_element_in_an_array.cpp) |
 | Second_Max_of_Three_Numbers | Second Max of Three Numbers | [View](https://www.codechef.com/problems/Second_Max_of_Three_Numbers) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Max_of_Three_Numbers.cpp) |
 | SEPX | Separation | [View](https://www.codechef.com/START213C/problems/SEPX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Separation.cpp) |

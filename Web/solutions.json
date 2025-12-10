@@ -413,6 +413,13 @@
     "filename": "2000.cpp"
   },
   {
+    "id": "SCORING",
+    "name": "Scoring",
+    "q_link": "https://www.codechef.com/START216D/problems/SCORING",
+    "sol_path": "Solutions/Scoring.cpp",
+    "filename": "Scoring.cpp"
+  },
+  {
     "id": "Interior_Design",
     "name": "Interior Design",
     "q_link": "https://www.codechef.com/problems/Interior_Design",
@@ -973,6 +980,13 @@
     "filename": "Reverse_The_Number.cpp"
   },
   {
+    "id": "BESTSEATS",
+    "name": "Best Seats",
+    "q_link": "https://www.codechef.com/START216D/problems/BESTSEATS",
+    "sol_path": "Solutions/Best_Seats.cpp",
+    "filename": "Best_Seats.cpp"
+  },
+  {
     "id": "Qualify_the_round",
     "name": "Qualify the round",
     "q_link": "https://www.codechef.com/problems/Qualify_the_round",
@@ -1181,6 +1195,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS",
     "sol_path": "Solutions/The_Last_Levels.cpp",
     "filename": "The_Last_Levels.cpp"
+  },
+  {
+    "id": "ENTERTAIN",
+    "name": "Entertainments",
+    "q_link": "https://www.codechef.com/START216D/problems/ENTERTAIN",
+    "sol_path": "Solutions/Entertainments.cpp",
+    "filename": "Entertainments.cpp"
   },
   {
     "id": "Waiting_Time",
