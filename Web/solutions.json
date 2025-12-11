@@ -1029,6 +1029,13 @@
     "filename": "Bus_Seat_Numbering.cpp"
   },
   {
+    "id": "XJUMP",
+    "name": "X Jumps",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/XJUMP",
+    "sol_path": "Solutions/X_Jumps.cpp",
+    "filename": "X_Jumps.cpp"
+  },
+  {
     "id": "ATM",
     "name": "ATM",
     "q_link": "https://www.codechef.com/problems/ATM",
