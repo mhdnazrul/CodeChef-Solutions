@@ -63,6 +63,13 @@
     "filename": "Six_Friends.cpp"
   },
   {
+    "id": "VALENTINE",
+    "name": "Valentine is Coming",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE",
+    "sol_path": "Solutions/Valentine_is_Coming.cpp",
+    "filename": "Valentine_is_Coming.cpp"
+  },
+  {
     "id": "Chef_On_Date",
     "name": "Chef On Date",
     "q_link": "https://www.codechef.com/problems/Chef_On_Date",
@@ -642,6 +649,13 @@
     "q_link": "https://www.codechef.com/START213C/problems/SEPX",
     "sol_path": "Solutions/Separation.cpp",
     "filename": "Separation.cpp"
+  },
+  {
+    "id": "MYSERVE",
+    "name": "It is My Serve",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MYSERVE",
+    "sol_path": "Solutions/It_is_My_Serve.cpp",
+    "filename": "It_is_My_Serve.cpp"
   },
   {
     "id": "Reach_the_Target",

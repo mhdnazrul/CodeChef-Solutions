@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-216-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-218-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 216
+**Total Problems Solved:** 218
 
 ---
 
@@ -137,6 +137,7 @@
 | Interior_Design | Interior Design | [View](https://www.codechef.com/problems/Interior_Design) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Interior_Design.cpp) |
 | Is_it_hot_or_cold | Is it hot or cold | [View](https://www.codechef.com/problems/Is_it_hot_or_cold) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Is_it_hot_or_cold.cpp) |
 | Is_the_Score_Consistent | Is the Score Consistent | [View](https://www.codechef.com/problems/Is_the_Score_Consistent) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Is_the_Score_Consistent.cpp) |
+| MYSERVE | It is My Serve | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MYSERVE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/It_is_My_Serve.cpp) |
 | Janmansh_and_Assignments | Janmansh and Assignments | [View](https://www.codechef.com/problems/Janmansh_and_Assignments) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Janmansh_and_Assignments.cpp) |
 | JENGA | Jenga Night | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Jenga_Night.cpp) |
 | Just_One_More_Episode | Just One More Episode | [View](https://www.codechef.com/problems/Just_One_More_Episode) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Just_One_More_Episode.cpp) |
@@ -230,6 +231,7 @@
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
 | True_and_False_Paper | True and False Paper | [View](https://www.codechef.com/problems/True_and_False_Paper) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |
 | Tyre_problem | Tyre problem | [View](https://www.codechef.com/problems/Tyre_problem) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tyre_problem.cpp) |
+| VALENTINE | Valentine is Coming | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valentine_is_Coming.cpp) |
 | Valid_Stack_Operations | Valid Stack Operations | [View](https://www.codechef.com/problems/Valid_Stack_Operations) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valid_Stack_Operations.cpp) |
 | Volume_Control | Volume Control | [View](https://www.codechef.com/problems/Volume_Control) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Volume_Control.cpp) |
 | Waiting_Time | Waiting Time | [View](https://www.codechef.com/problems/Waiting_Time) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Waiting_Time.cpp) |
