@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-218-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-219-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 218
+**Total Problems Solved:** 219
 
 ---
 
@@ -237,6 +237,7 @@
 | Waiting_Time | Waiting Time | [View](https://www.codechef.com/problems/Waiting_Time) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Waiting_Time.cpp) |
 | MOVIE2X | Watching Movies at 2x | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Watching_Movies_at_2x.cpp) |
 | Water_Filling | Water Filling | [View](https://www.codechef.com/problems/Water_Filling) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Filling.cpp) |
+| WTRMIXING | Water Mixing | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Mixing.cpp) |
 | Water_Requirement | Water Requirement | [View](https://www.codechef.com/problems/Water_Requirement) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Requirement.cpp) |
 | Who_is_taller | Who is taller | [View](https://www.codechef.com/problems/Who_is_taller) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Who_is_taller.cpp) |
 | WORDLE | Wordle | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Wordle.cpp) |

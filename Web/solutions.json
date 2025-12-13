@@ -574,6 +574,13 @@
     "filename": "Make_Subarray.cpp"
   },
   {
+    "id": "WTRMIXING",
+    "name": "Water Mixing",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING",
+    "sol_path": "Solutions/Water_Mixing.cpp",
+    "filename": "Water_Mixing.cpp"
+  },
+  {
     "id": "Course_Registration",
     "name": "Course Registration",
     "q_link": "https://www.codechef.com/problems/Course_Registration",
