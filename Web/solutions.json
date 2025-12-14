@@ -259,6 +259,13 @@
     "filename": "Spice_Level.cpp"
   },
   {
+    "id": "WGHTS",
+    "name": "Weights",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS",
+    "sol_path": "Solutions/Weights.cpp",
+    "filename": "Weights.cpp"
+  },
+  {
     "id": "CHEFCAND",
     "name": "Chef and Candies",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
@@ -980,6 +987,13 @@
     "filename": "Air_Quality_Index.cpp"
   },
   {
+    "id": "CHEFAPPS",
+    "name": "Chef and his Apps",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS",
+    "sol_path": "Solutions/Chef_and_his_Apps.cpp",
+    "filename": "Chef_and_his_Apps.cpp"
+  },
+  {
     "id": "Minimum_Coins",
     "name": "Minimum Coins",
     "q_link": "https://www.codechef.com/problems/Minimum_Coins",
@@ -1006,6 +1020,13 @@
     "q_link": "https://www.codechef.com/START216D/problems/BESTSEATS",
     "sol_path": "Solutions/Best_Seats.cpp",
     "filename": "Best_Seats.cpp"
+  },
+  {
+    "id": "MINCOINS",
+    "name": "Minimum number of coins",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS",
+    "sol_path": "Solutions/Minimum_number_of_coins.cpp",
+    "filename": "Minimum_number_of_coins.cpp"
   },
   {
     "id": "Qualify_the_round",
@@ -1174,6 +1195,13 @@
     "q_link": "https://www.codechef.com/problems/Clear_Day",
     "sol_path": "Solutions/Clear_Day.cpp",
     "filename": "Clear_Day.cpp"
+  },
+  {
+    "id": "CHEFEREN",
+    "name": "Chef Eren",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
+    "sol_path": "Solutions/Chef_Eren.cpp",
+    "filename": "Chef_Eren.cpp"
   },
   {
     "id": "Height_of_Rationals",

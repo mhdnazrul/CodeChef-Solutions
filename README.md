@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-219-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-223-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 219
+**Total Problems Solved:** 223
 
 ---
 
@@ -55,6 +55,7 @@
 | Car_Trip | Car Trip | [View](https://www.codechef.com/problems/Car_Trip) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_Trip.cpp) |
 | TRAVELFAST | Car or Bike | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_or_Bike.cpp) |
 | Chairs_Requirement | Chairs Requirement | [View](https://www.codechef.com/problems/Chairs_Requirement) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chairs_Requirement.cpp) |
+| CHEFEREN | Chef Eren | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Eren.cpp) |
 | Chef_On_Date | Chef On Date | [View](https://www.codechef.com/problems/Chef_On_Date) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_On_Date.cpp) |
 | Chef_Plays_Ludo | Chef Plays Ludo | [View](https://www.codechef.com/problems/Chef_Plays_Ludo) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Plays_Ludo.cpp) |
 | FIFTYPE | Chef and Battery | [View](https://www.codechef.com/problems/FIFTYPE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Battery.cpp) |
@@ -69,6 +70,7 @@
 | HELIUM3 | Chef and NextGen | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_NextGen.cpp) |
 | CHEFBOTTLE | Chef and Water Bottles | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Water_Bottles.cpp) |
 | Chef_and_Wire_Frames | Chef and Wire Frames | [View](https://www.codechef.com/problems/Chef_and_Wire_Frames) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Wire_Frames.cpp) |
+| CHEFAPPS | Chef and his Apps | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_his_Apps.cpp) |
 | Chef_gives_Party | Chef gives Party | [View](https://www.codechef.com/problems/Chef_gives_Party) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_gives_Party.cpp) |
 | OFFICE | Chef in his Office | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_in_his_Office.cpp) |
 | CHEFVACATION | Chef on Vacation | [View](https://www.codechef.com/problems/CHEFVACATION) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_on_Vacation.cpp) |
@@ -159,6 +161,7 @@
 | Miami_GP | Miami GP | [View](https://www.codechef.com/problems/Miami_GP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Miami_GP.cpp) |
 | Minimum_Coins | Minimum Coins | [View](https://www.codechef.com/problems/Minimum_Coins) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_Coins.cpp) |
 | Minimum_Pizzas | Minimum Pizzas | [View](https://www.codechef.com/problems/Minimum_Pizzas) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_Pizzas.cpp) |
+| MINCOINS | Minimum number of coins | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_number_of_coins.cpp) |
 | Moneymaking | Moneymaking | [View](https://www.codechef.com/problems/Moneymaking) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Moneymaking.cpp) |
 | Monopoly | Monopoly | [View](https://www.codechef.com/problems/Monopoly) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monopoly.cpp) |
 | Monopoly_in_Chefland | Monopoly in Chefland | [View](https://www.codechef.com/problems/Monopoly_in_Chefland) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monopoly_in_Chefland.cpp) |
@@ -239,6 +242,7 @@
 | Water_Filling | Water Filling | [View](https://www.codechef.com/problems/Water_Filling) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Filling.cpp) |
 | WTRMIXING | Water Mixing | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Mixing.cpp) |
 | Water_Requirement | Water Requirement | [View](https://www.codechef.com/problems/Water_Requirement) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Requirement.cpp) |
+| WGHTS | Weights | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weights.cpp) |
 | Who_is_taller | Who is taller | [View](https://www.codechef.com/problems/Who_is_taller) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Who_is_taller.cpp) |
 | WORDLE | Wordle | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Wordle.cpp) |
 | WCC | World Chess Championship | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WCC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/World_Chess_Championship.cpp) |
