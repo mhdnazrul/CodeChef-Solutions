@@ -1484,6 +1484,13 @@
     "filename": "Sale_Season.cpp"
   },
   {
+    "id": "SELFDEF",
+    "name": "Self Defence Training",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF",
+    "sol_path": "Solutions/Self_Defence_Training.cpp",
+    "filename": "Self_Defence_Training.cpp"
+  },
+  {
     "id": "TOURIST",
     "name": "Tourist",
     "q_link": "https://www.codechef.com/START207D/problems/TOURIST",
