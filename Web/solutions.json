@@ -469,6 +469,13 @@
     "filename": "Monopoly_in_Chefland.cpp"
   },
   {
+    "id": "GEMBUND",
+    "name": "Gem Bundles",
+    "q_link": "https://www.codechef.com/problems/GEMBUND",
+    "sol_path": "Solutions/Gem_Bundles.cpp",
+    "filename": "Gem_Bundles.cpp"
+  },
+  {
     "id": "Discount",
     "name": "Discount",
     "q_link": "https://www.codechef.com/problems/Discount",
@@ -1246,6 +1253,13 @@
     "filename": "Nearest_Exit.cpp"
   },
   {
+    "id": "COMP4",
+    "name": "Competition of 4",
+    "q_link": "https://www.codechef.com/problems/COMP4",
+    "sol_path": "Solutions/Competition_of_4.cpp",
+    "filename": "Competition_of_4.cpp"
+  },
+  {
     "id": "LASTLEVELS",
     "name": "The Last Levels",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS",
@@ -1307,6 +1321,13 @@
     "q_link": "https://www.codechef.com/problems/Off_By_One",
     "sol_path": "Solutions/Off_By_One.cpp",
     "filename": "Off_By_One.cpp"
+  },
+  {
+    "id": "SPCP2",
+    "name": "Airlines",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2",
+    "sol_path": "Solutions/Airlines.cpp",
+    "filename": "Airlines.cpp"
   },
   {
     "id": "Puzzle_Hunt",

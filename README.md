@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-223-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-226-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 223
+**Total Problems Solved:** 226
 
 ---
 
@@ -31,6 +31,7 @@
 | Ageing | Ageing | [View](https://www.codechef.com/problems/Ageing) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ageing.cpp) |
 | ACTEMP | Air Conditioner Temperature | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Conditioner_Temperature.cpp) |
 | Air_Quality_Index | Air Quality Index | [View](https://www.codechef.com/problems/Air_Quality_Index) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Quality_Index.cpp) |
+| SPCP2 | Airlines | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Airlines.cpp) |
 | Audible_Range | Audible Range | [View](https://www.codechef.com/problems/Audible_Range) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Audible_Range.cpp) |
 | BMCV201 | Basic math Addition and multiplication | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Basic_math_Addition_and_multiplication.cpp) |
 | BATH | Bath in Winters | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bath_in_Winters.cpp) |
@@ -80,6 +81,7 @@
 | CHOCEAT | Chocolate Eating | [View](https://www.codechef.com/START210D/problems/CHOCEAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chocolate_Eating.cpp) |
 | Clear_Day | Clear Day | [View](https://www.codechef.com/problems/Clear_Day) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Clear_Day.cpp) |
 | Codechef_Airlines | Codechef Airlines | [View](https://www.codechef.com/problems/Codechef_Airlines) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Codechef_Airlines.cpp) |
+| COMP4 | Competition of 4 | [View](https://www.codechef.com/problems/COMP4) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Competition_of_4.cpp) |
 | DNASTRAND | Complementary Strand in a DNA | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DNASTRAND) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Complementary_Strand_in_a_DNA.cpp) |
 | TITLECASE | Convert String to Title Case | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Convert_String_to_Title_Case.cpp) |
 | KITCHENCOST | Cost of Groceries | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/KITCHENCOST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cost_of_Groceries.cpp) |
@@ -123,6 +125,7 @@
 | First_and_Last_Digit | First and Last Digit | [View](https://www.codechef.com/problems/First_and_Last_Digit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/First_and_Last_Digit.cpp) |
 | FLIPCARDS | Flip the cards | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Flip_the_cards.cpp) |
 | Four_Tickets | Four Tickets | [View](https://www.codechef.com/problems/Four_Tickets) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Four_Tickets.cpp) |
+| GEMBUND | Gem Bundles | [View](https://www.codechef.com/problems/GEMBUND) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Gem_Bundles.cpp) |
 | Get_Subscription | Get Subscription | [View](https://www.codechef.com/problems/Get_Subscription) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Get_Subscription.cpp) |
 | Good_Investment_or_Not | Good Investment or Not | [View](https://www.codechef.com/problems/Good_Investment_or_Not) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Good_Investment_or_Not.cpp) |
 | Good_Program | Good Program | [View](https://www.codechef.com/problems/Good_Program) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Good_Program.cpp) |
