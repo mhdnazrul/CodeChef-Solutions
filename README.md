@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-227-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-228-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 227
+**Total Problems Solved:** 228
 
 ---
 
@@ -91,6 +91,7 @@
 | Course_Registration | Course Registration | [View](https://www.codechef.com/problems/Course_Registration) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Course_Registration.cpp) |
 | Credit_score | Credit score | [View](https://www.codechef.com/problems/Credit_score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Credit_score.cpp) |
 | Cricket_World_Cup_Qualifier | Cricket World Cup Qualifier | [View](https://www.codechef.com/problems/Cricket_World_Cup_Qualifier) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cricket_World_Cup_Qualifier.cpp) |
+| CRICUP | Cup Finals | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CRICUP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cup_Finals.cpp) |
 | Currency_Exchange | Currency Exchange | [View](https://www.codechef.com/problems/Currency_Exchange) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Currency_Exchange.cpp) |
 | DNASTORAGE | DNA Storage | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/DNA_Storage.cpp) |
 | BMCV210 | Debug this code Total prize money | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Debug_this_code_Total_prize_money.cpp) |

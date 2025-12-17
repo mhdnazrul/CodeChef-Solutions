@@ -483,6 +483,13 @@
     "filename": "Discount.cpp"
   },
   {
+    "id": "CRICUP",
+    "name": "Cup Finals",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CRICUP",
+    "sol_path": "Solutions/Cup_Finals.cpp",
+    "filename": "Cup_Finals.cpp"
+  },
+  {
     "id": "Currency_Exchange",
     "name": "Currency Exchange",
     "q_link": "https://www.codechef.com/problems/Currency_Exchange",
