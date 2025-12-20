@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-228-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-231-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 228
+**Total Problems Solved:** 231
 
 ---
 
@@ -26,6 +26,7 @@
 | :---: | :--- | :---: | :---: |
 | 2000 | 2000 | [View](https://www.codechef.com/problems/2000) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/2000.cpp) |
 | 404_Not_Found | 404 Not Found | [View](https://www.codechef.com/problems/404_Not_Found) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
+| AORB | A or B | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_or_B.cpp) |
 | ATM | ATM | [View](https://www.codechef.com/problems/ATM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
 | ADDONE | Add One | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Add_One.cpp) |
 | Ageing | Ageing | [View](https://www.codechef.com/problems/Ageing) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ageing.cpp) |
@@ -96,6 +97,7 @@
 | DNASTORAGE | DNA Storage | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/DNA_Storage.cpp) |
 | BMCV210 | Debug this code Total prize money | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Debug_this_code_Total_prize_money.cpp) |
 | Decoration_Discount | Decoration Discount | [View](https://www.codechef.com/problems/Decoration_Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decoration_Discount.cpp) |
+| DECINC | Decrement OR Increment | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DECINC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decrement_OR_Increment.cpp) |
 | Determine_the_Score | Determine the Score | [View](https://www.codechef.com/problems/Determine_the_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Determine_the_Score.cpp) |
 | CFRTEST | Devu and friendship testing | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Devu_and_friendship_testing.cpp) |
 | P1HOME | Dice Play | [View](https://www.codechef.com/problems/P1HOME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Dice_Play.cpp) |
@@ -218,6 +220,7 @@
 | Sleep_deprivation | Sleep deprivation | [View](https://www.codechef.com/problems/Sleep_deprivation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sleep_deprivation.cpp) |
 | FCTRL2 | Small factorials | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_factorials.cpp) |
 | SPECIALITY | Speciality | [View](https://www.codechef.com/problems/SPECIALITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speciality.cpp) |
+| SPEEDTEST | Speed Limit Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speed_Limit_Test.cpp) |
 | Spice_Level | Spice Level | [View](https://www.codechef.com/problems/Spice_Level) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Spice_Level.cpp) |
 | Subscriptions | Subscriptions | [View](https://www.codechef.com/problems/Subscriptions) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Subscriptions.cpp) |
 | Sugarcane_Juice_Business | Sugarcane Juice Business | [View](https://www.codechef.com/problems/Sugarcane_Juice_Business) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sugarcane_Juice_Business.cpp) |
@@ -234,7 +237,7 @@
 | The_Three_Topics | The Three Topics | [View](https://www.codechef.com/problems/The_Three_Topics) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Three_Topics.cpp) |
 | Time_Complexity | Time Complexity | [View](https://www.codechef.com/problems/Time_Complexity) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Time_Complexity.cpp) |
 | Tom_and_Jerry_Chase | Tom and Jerry Chase | [View](https://www.codechef.com/problems/Tom_and_Jerry_Chase) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_and_Jerry_Chase.cpp) |
-| FLOORS | Too many Floors | [View](https://www.codechef.com/problems/FLOORS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_Floors.cpp) |
+| FLOORS | Too many Floors | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_Floors.cpp) |
 | Total_Prize_Money | Total Prize Money | [View](https://www.codechef.com/problems/Total_Prize_Money) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Total_Prize_Money.cpp) |
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
 | True_and_False_Paper | True and False Paper | [View](https://www.codechef.com/problems/True_and_False_Paper) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |

@@ -168,6 +168,13 @@
     "filename": "Candy_Division.cpp"
   },
   {
+    "id": "DECINC",
+    "name": "Decrement OR Increment",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DECINC",
+    "sol_path": "Solutions/Decrement_OR_Increment.cpp",
+    "filename": "Decrement_OR_Increment.cpp"
+  },
+  {
     "id": "Sleep_deprivation",
     "name": "Sleep deprivation",
     "q_link": "https://www.codechef.com/problems/Sleep_deprivation",
@@ -453,6 +460,13 @@
     "q_link": "https://www.codechef.com/problems/P1HOME",
     "sol_path": "Solutions/Dice_Play.cpp",
     "filename": "Dice_Play.cpp"
+  },
+  {
+    "id": "SPEEDTEST",
+    "name": "Speed Limit Test",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST",
+    "sol_path": "Solutions/Speed_Limit_Test.cpp",
+    "filename": "Speed_Limit_Test.cpp"
   },
   {
     "id": "Sasta_Shark_Tank",
@@ -742,6 +756,13 @@
     "filename": "Reach_on_Time.cpp"
   },
   {
+    "id": "AORB",
+    "name": "A or B",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB",
+    "sol_path": "Solutions/A_or_B.cpp",
+    "filename": "A_or_B.cpp"
+  },
+  {
     "id": "MATH1_Enrolment",
     "name": "MATH1 Enrolment",
     "q_link": "https://www.codechef.com/problems/MATH1_Enrolment",
@@ -856,7 +877,7 @@
   {
     "id": "FLOORS",
     "name": "Too many Floors",
-    "q_link": "https://www.codechef.com/problems/FLOORS",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS",
     "sol_path": "Solutions/Too_many_Floors.cpp",
     "filename": "Too_many_Floors.cpp"
   },
