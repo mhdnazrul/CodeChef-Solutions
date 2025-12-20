@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS
+  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,10 +20,14 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    int a,b;    cin>>a>>b;
-    int x = ((a-1)/10)+1;
-    int y = ((b-1)/10)+1;
-    out(abs(x-y));
+    int x,y,a,b,c,d;    cin>>x>>y;
+    int ans =0;
+    a = 500-(2*x);
+    b = 1000-4*(y+x);
+    c = 500-2*(x+y);
+    d = 1000-4*y;
+    ans = max({(a+b),(c+d)});
+    out(ans);
 }
 
 int32_t main(){

@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS
+  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,10 +20,12 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    int a,b;    cin>>a>>b;
-    int x = ((a-1)/10)+1;
-    int y = ((b-1)/10)+1;
-    out(abs(x-y));
+    ll a,x,b,y;   cin>>a>>x>>b>>y;
+    ll first = a*y;
+    ll second = b*x;
+    if(first>second) out("Alice");
+    else if(second>first) out("Bob");
+    else out("Equal");
 }
 
 int32_t main(){
