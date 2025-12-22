@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-231-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-232-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 231
+**Total Problems Solved:** 232
 
 ---
 
@@ -211,6 +211,7 @@
 | Saving_Taxes | Saving Taxes | [View](https://www.codechef.com/problems/Saving_Taxes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Saving_Taxes.cpp) |
 | SCORING | Scoring | [View](https://www.codechef.com/START216D/problems/SCORING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Scoring.cpp) |
 | Search_an_element_in_an_array | Search an element in an array | [View](https://www.codechef.com/problems/Search_an_element_in_an_array) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Search_an_element_in_an_array.cpp) |
+| FLOW017 | Second Largest | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Largest.cpp) |
 | Second_Max_of_Three_Numbers | Second Max of Three Numbers | [View](https://www.codechef.com/problems/Second_Max_of_Three_Numbers) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Max_of_Three_Numbers.cpp) |
 | SELFDEF | Self Defence Training | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Self_Defence_Training.cpp) |
 | SEPX | Separation | [View](https://www.codechef.com/START213C/problems/SEPX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Separation.cpp) |

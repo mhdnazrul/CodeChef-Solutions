@@ -644,6 +644,13 @@
     "filename": "Fair_Share_Settlement.cpp"
   },
   {
+    "id": "FLOW017",
+    "name": "Second Largest",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017",
+    "sol_path": "Solutions/Second_Largest.cpp",
+    "filename": "Second_Largest.cpp"
+  },
+  {
     "id": "MAXTASTE",
     "name": "Maximise the Tastiness",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
