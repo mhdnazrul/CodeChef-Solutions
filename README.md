@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-232-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-235-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 232
+**Total Problems Solved:** 235
 
 ---
 
@@ -94,6 +94,7 @@
 | Cricket_World_Cup_Qualifier | Cricket World Cup Qualifier | [View](https://www.codechef.com/problems/Cricket_World_Cup_Qualifier) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cricket_World_Cup_Qualifier.cpp) |
 | CRICUP | Cup Finals | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CRICUP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cup_Finals.cpp) |
 | Currency_Exchange | Currency Exchange | [View](https://www.codechef.com/problems/Currency_Exchange) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Currency_Exchange.cpp) |
+| CYCLICQD | Cyclic Quadrilateral | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CYCLICQD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Cyclic_Quadrilateral.cpp) |
 | DNASTORAGE | DNA Storage | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/DNA_Storage.cpp) |
 | BMCV210 | Debug this code Total prize money | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Debug_this_code_Total_prize_money.cpp) |
 | Decoration_Discount | Decoration Discount | [View](https://www.codechef.com/problems/Decoration_Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decoration_Discount.cpp) |
@@ -185,6 +186,7 @@
 | Overspeeding_Fine | Overspeeding Fine | [View](https://www.codechef.com/problems/Overspeeding_Fine) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Overspeeding_Fine.cpp) |
 | Parity | Parity | [View](https://www.codechef.com/problems/Parity) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Parity.cpp) |
 | Parliament | Parliament | [View](https://www.codechef.com/problems/Parliament) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Parliament.cpp) |
+| PASSORFAIL | Pass or Fail | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PASSORFAIL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Pass_or_Fail.cpp) |
 | Passes_for_Fair | Passes for Fair | [View](https://www.codechef.com/problems/Passes_for_Fair) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Passes_for_Fair.cpp) |
 | Pending_Assignments | Pending Assignments | [View](https://www.codechef.com/problems/Pending_Assignments) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Pending_Assignments.cpp) |
 | Playlist | Playlist | [View](https://www.codechef.com/problems/Playlist) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Playlist.cpp) |
@@ -239,6 +241,7 @@
 | Time_Complexity | Time Complexity | [View](https://www.codechef.com/problems/Time_Complexity) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Time_Complexity.cpp) |
 | Tom_and_Jerry_Chase | Tom and Jerry Chase | [View](https://www.codechef.com/problems/Tom_and_Jerry_Chase) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_and_Jerry_Chase.cpp) |
 | FLOORS | Too many Floors | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_Floors.cpp) |
+| POLYBAGS | Too many items | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_items.cpp) |
 | Total_Prize_Money | Total Prize Money | [View](https://www.codechef.com/problems/Total_Prize_Money) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Total_Prize_Money.cpp) |
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
 | True_and_False_Paper | True and False Paper | [View](https://www.codechef.com/problems/True_and_False_Paper) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |

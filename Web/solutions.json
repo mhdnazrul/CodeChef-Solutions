@@ -133,6 +133,13 @@
     "filename": "Bath_in_Winters.cpp"
   },
   {
+    "id": "POLYBAGS",
+    "name": "Too many items",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS",
+    "sol_path": "Solutions/Too_many_items.cpp",
+    "filename": "Too_many_items.cpp"
+  },
+  {
     "id": "BMCV206",
     "name": "Practice problem Fitness",
     "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206",
@@ -714,6 +721,13 @@
     "filename": "Reach_the_Target.cpp"
   },
   {
+    "id": "CYCLICQD",
+    "name": "Cyclic Quadrilateral",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CYCLICQD",
+    "sol_path": "Solutions/Cyclic_Quadrilateral.cpp",
+    "filename": "Cyclic_Quadrilateral.cpp"
+  },
+  {
     "id": "Cricket_World_Cup_Qualifier",
     "name": "Cricket World Cup Qualifier",
     "q_link": "https://www.codechef.com/problems/Cricket_World_Cup_Qualifier",
@@ -985,6 +999,13 @@
     "q_link": "https://www.codechef.com/problems/SPECIALITY",
     "sol_path": "Solutions/Speciality.cpp",
     "filename": "Speciality.cpp"
+  },
+  {
+    "id": "PASSORFAIL",
+    "name": "Pass or Fail",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PASSORFAIL",
+    "sol_path": "Solutions/Pass_or_Fail.cpp",
+    "filename": "Pass_or_Fail.cpp"
   },
   {
     "id": "Multivitamin_Tablets",
