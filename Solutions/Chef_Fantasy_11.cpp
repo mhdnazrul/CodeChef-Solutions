@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS
+  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303?tab=statement 
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -21,8 +21,7 @@ template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++)
 
 void run_case(){
     int n;    in(n);
-    int ans = ceil(n/10.0);
-    out(ans);
+    out(n*(n-1));
 }
 
 int32_t main(){
