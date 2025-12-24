@@ -826,6 +826,13 @@
     "filename": "Chefland_Games.cpp"
   },
   {
+    "id": "BALLOONS",
+    "name": "Coloured Balloons",
+    "q_link": "https://www.codechef.com/problems/BALLOONS",
+    "sol_path": "Solutions/Coloured_Balloons.cpp",
+    "filename": "Coloured_Balloons.cpp"
+  },
+  {
     "id": "Parity",
     "name": "Parity",
     "q_link": "https://www.codechef.com/problems/Parity",
@@ -1197,11 +1204,25 @@
     "filename": "Take_discount_or_Not.cpp"
   },
   {
+    "id": "PROC18A",
+    "name": "The Great Run",
+    "q_link": "https://www.codechef.com/problems/PROC18A",
+    "sol_path": "Solutions/The_Great_Run.cpp",
+    "filename": "The_Great_Run.cpp"
+  },
+  {
     "id": "Lucky_Seven",
     "name": "Lucky Seven",
     "q_link": "https://www.codechef.com/problems/Lucky_Seven",
     "sol_path": "Solutions/Lucky_Seven.cpp",
     "filename": "Lucky_Seven.cpp"
+  },
+  {
+    "id": "XMASTREE",
+    "name": "Christmas Trees",
+    "q_link": "https://www.codechef.com/problems/XMASTREE",
+    "sol_path": "Solutions/Christmas_Trees.cpp",
+    "filename": "Christmas_Trees.cpp"
   },
   {
     "id": "FLOW011",
@@ -1629,6 +1650,13 @@
     "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210",
     "sol_path": "Solutions/Debug_this_code_Total_prize_money.cpp",
     "filename": "Debug_this_code_Total_prize_money.cpp"
+  },
+  {
+    "id": "STOPCOUNT",
+    "name": "Stop The Count",
+    "q_link": "https://www.codechef.com/problems/STOPCOUNT",
+    "sol_path": "Solutions/Stop_The_Count.cpp",
+    "filename": "Stop_The_Count.cpp"
   },
   {
     "id": "The_Three_Topics",

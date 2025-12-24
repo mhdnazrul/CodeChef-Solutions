@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-236-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-240-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 236
+**Total Problems Solved:** 240
 
 ---
 
@@ -81,8 +81,10 @@
 | Chess_Time | Chess Time | [View](https://www.codechef.com/problems/Chess_Time) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chess_Time.cpp) |
 | CHESSDIST | Chessboard Distance | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHESSDIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chessboard_Distance.cpp) |
 | CHOCEAT | Chocolate Eating | [View](https://www.codechef.com/START210D/problems/CHOCEAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chocolate_Eating.cpp) |
+| XMASTREE | Christmas Trees | [View](https://www.codechef.com/problems/XMASTREE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Christmas_Trees.cpp) |
 | Clear_Day | Clear Day | [View](https://www.codechef.com/problems/Clear_Day) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Clear_Day.cpp) |
 | Codechef_Airlines | Codechef Airlines | [View](https://www.codechef.com/problems/Codechef_Airlines) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Codechef_Airlines.cpp) |
+| BALLOONS | Coloured Balloons | [View](https://www.codechef.com/problems/BALLOONS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Coloured_Balloons.cpp) |
 | COMP4 | Competition of 4 | [View](https://www.codechef.com/problems/COMP4) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Competition_of_4.cpp) |
 | DNASTRAND | Complementary Strand in a DNA | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DNASTRAND) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Complementary_Strand_in_a_DNA.cpp) |
 | TITLECASE | Convert String to Title Case | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Convert_String_to_Title_Case.cpp) |
@@ -226,6 +228,7 @@
 | SPECIALITY | Speciality | [View](https://www.codechef.com/problems/SPECIALITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speciality.cpp) |
 | SPEEDTEST | Speed Limit Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speed_Limit_Test.cpp) |
 | Spice_Level | Spice Level | [View](https://www.codechef.com/problems/Spice_Level) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Spice_Level.cpp) |
+| STOPCOUNT | Stop The Count | [View](https://www.codechef.com/problems/STOPCOUNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Stop_The_Count.cpp) |
 | Subscriptions | Subscriptions | [View](https://www.codechef.com/problems/Subscriptions) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Subscriptions.cpp) |
 | Sugarcane_Juice_Business | Sugarcane Juice Business | [View](https://www.codechef.com/problems/Sugarcane_Juice_Business) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sugarcane_Juice_Business.cpp) |
 | Sum_it | Sum it | [View](https://www.codechef.com/problems/Sum_it) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_it.cpp) |
@@ -235,6 +238,7 @@
 | Test_Score | Test Score | [View](https://www.codechef.com/problems/Test_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Test_Score.cpp) |
 | The_Cheaper_Cab | The Cheaper Cab | [View](https://www.codechef.com/problems/The_Cheaper_Cab) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Cheaper_Cab.cpp) |
 | The_Gift | The Gift | [View](https://www.codechef.com/problems/The_Gift) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Gift.cpp) |
+| PROC18A | The Great Run | [View](https://www.codechef.com/problems/PROC18A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Great_Run.cpp) |
 | LASTLEVELS | The Last Levels | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Last_Levels.cpp) |
 | TLG | The Lead Game | [View](https://www.codechef.com/problems/TLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Lead_Game.cpp) |
 | The_Mango_Truck | The Mango Truck | [View](https://www.codechef.com/problems/The_Mango_Truck) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Mango_Truck.cpp) |
