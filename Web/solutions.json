@@ -413,6 +413,13 @@
     "filename": "Chef_and_Chocolates.cpp"
   },
   {
+    "id": "FIZZBUZZ2303",
+    "name": "Chef Fantasy 11",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303",
+    "sol_path": "Solutions/Chef_Fantasy_11.cpp",
+    "filename": "Chef_Fantasy_11.cpp"
+  },
+  {
     "id": "BULLET",
     "name": "Mario and Bullet",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET",

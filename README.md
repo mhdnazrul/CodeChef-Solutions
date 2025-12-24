@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-235-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-236-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 235
+**Total Problems Solved:** 236
 
 ---
 
@@ -58,6 +58,7 @@
 | TRAVELFAST | Car or Bike | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_or_Bike.cpp) |
 | Chairs_Requirement | Chairs Requirement | [View](https://www.codechef.com/problems/Chairs_Requirement) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chairs_Requirement.cpp) |
 | CHEFEREN | Chef Eren | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Eren.cpp) |
+| FIZZBUZZ2303 | Chef Fantasy 11 | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Fantasy_11.cpp) |
 | Chef_On_Date | Chef On Date | [View](https://www.codechef.com/problems/Chef_On_Date) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_On_Date.cpp) |
 | Chef_Plays_Ludo | Chef Plays Ludo | [View](https://www.codechef.com/problems/Chef_Plays_Ludo) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Plays_Ludo.cpp) |
 | FIFTYPE | Chef and Battery | [View](https://www.codechef.com/problems/FIFTYPE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Battery.cpp) |
