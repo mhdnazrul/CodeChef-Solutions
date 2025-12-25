@@ -1120,6 +1120,13 @@
     "filename": "Qualify_the_round.cpp"
   },
   {
+    "id": "Chef_and_Races",
+    "name": "Chef and Races",
+    "q_link": "https://www.codechef.com/problems/Chef_and_Races",
+    "sol_path": "Solutions/Chef_and_Races.cpp",
+    "filename": "Chef_and_Races.cpp"
+  },
+  {
     "id": "Chairs_Requirement",
     "name": "Chairs Requirement",
     "q_link": "https://www.codechef.com/problems/Chairs_Requirement",

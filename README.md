@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-241-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-242-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 241
+**Total Problems Solved:** 242
 
 ---
 
@@ -72,6 +72,7 @@
 | HAPPYSTR | Chef and Happy String | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Happy_String.cpp) |
 | Chef_and_Masks | Chef and Masks | [View](https://www.codechef.com/problems/Chef_and_Masks) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Masks.cpp) |
 | HELIUM3 | Chef and NextGen | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_NextGen.cpp) |
+| Chef_and_Races | Chef and Races | [View](https://www.codechef.com/problems/Chef_and_Races) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Races.cpp) |
 | CHEFBOTTLE | Chef and Water Bottles | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Water_Bottles.cpp) |
 | Chef_and_Wire_Frames | Chef and Wire Frames | [View](https://www.codechef.com/problems/Chef_and_Wire_Frames) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Wire_Frames.cpp) |
 | CHEFAPPS | Chef and his Apps | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_his_Apps.cpp) |
