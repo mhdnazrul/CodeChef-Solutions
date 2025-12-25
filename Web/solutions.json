@@ -868,6 +868,13 @@
     "filename": "Good_Investment_or_Not.cpp"
   },
   {
+    "id": "BUILDINGRACE",
+    "name": "Building Race",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BUILDINGRACE",
+    "sol_path": "Solutions/Building_Race.cpp",
+    "filename": "Building_Race.cpp"
+  },
+  {
     "id": "Mahasena",
     "name": "Mahasena",
     "q_link": "https://www.codechef.com/problems/Mahasena",

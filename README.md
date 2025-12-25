@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-240-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-241-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 240
+**Total Problems Solved:** 241
 
 ---
 
@@ -48,6 +48,7 @@
 | Bone_Appetit | Bone Appetit | [View](https://www.codechef.com/problems/Bone_Appetit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bone_Appetit.cpp) |
 | Broken_Phone | Broken Phone | [View](https://www.codechef.com/problems/Broken_Phone) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Broken_Phone.cpp) |
 | Bucket_and_Water_Flow | Bucket and Water Flow | [View](https://www.codechef.com/problems/Bucket_and_Water_Flow) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bucket_and_Water_Flow.cpp) |
+| BUILDINGRACE | Building Race | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BUILDINGRACE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Building_Race.cpp) |
 | Bull_or_Bear | Bull or Bear | [View](https://www.codechef.com/problems/Bull_or_Bear) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bull_or_Bear.cpp) |
 | SEATNUMBER | Bus Seat Numbering | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bus_Seat_Numbering.cpp) |
 | CREDCOINS | CRED Coins | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/CRED_Coins.cpp) |
