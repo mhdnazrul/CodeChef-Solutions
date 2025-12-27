@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-242-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-243-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 242
+**Total Problems Solved:** 243
 
 ---
 
@@ -116,6 +116,7 @@
 | Double_Rent | Double Rent | [View](https://www.codechef.com/problems/Double_Rent) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Double_Rent.cpp) |
 | EXMLF1 | EXML Race | [View](https://www.codechef.com/START213C/problems/EXMLF1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/EXML_Race.cpp) |
 | ELECTN | Elections in Chefland | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Elections_in_Chefland.cpp) |
+| MOZZ | Endless Appetizers | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Endless_Appetizers.cpp) |
 | Enormous_Input_Test | Enormous Input Test | [View](https://www.codechef.com/problems/Enormous_Input_Test) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Enormous_Input_Test.cpp) |
 | ENTERTAIN | Entertainments | [View](https://www.codechef.com/START216D/problems/ENTERTAIN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Entertainments.cpp) |
 | EQUALELE | Equal Elements | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Equal_Elements.cpp) |

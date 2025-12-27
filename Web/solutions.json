@@ -1372,6 +1372,13 @@
     "filename": "Entertainments.cpp"
   },
   {
+    "id": "MOZZ",
+    "name": "Endless Appetizers",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ",
+    "sol_path": "Solutions/Endless_Appetizers.cpp",
+    "filename": "Endless_Appetizers.cpp"
+  },
+  {
     "id": "Waiting_Time",
     "name": "Waiting Time",
     "q_link": "https://www.codechef.com/problems/Waiting_Time",
