@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SINGLEUSE?tab=statement
+  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHOPRT
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -19,16 +19,10 @@ template<class T> void inV(vector<T> &v){for(auto &x:v) cin>>x;}
 template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
-
 void run_case(){
-    ll h,x,y;       cin>>h>>x>>y;
-    ll rem_h = h-y;
-    ll ans=0;
-    if(rem_h<=0)out(1);
-    else{
-        ans =  (rem_h + x - 1) / x;
-        out(ans+1);
-    }
+    ll a,b; cin>>a>>b;
+    if(a==b)out('=');
+    else a>b?out('>'):out('<');
 }
 
 int32_t main(){
