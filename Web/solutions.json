@@ -380,7 +380,7 @@
   {
     "id": "SINGLEUSE",
     "name": "Single use Attack",
-    "q_link": "https://www.codechef.com/problems/SINGLEUSE",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SINGLEUSE",
     "sol_path": "Solutions/Single_use_Attack.cpp",
     "filename": "Single_use_Attack.cpp"
   },
@@ -726,6 +726,13 @@
     "q_link": "https://www.codechef.com/START213C/problems/SEPX",
     "sol_path": "Solutions/Separation.cpp",
     "filename": "Separation.cpp"
+  },
+  {
+    "id": "REACHFAST",
+    "name": "Reach fast",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/REACHFAST",
+    "sol_path": "Solutions/Reach_fast.cpp",
+    "filename": "Reach_fast.cpp"
   },
   {
     "id": "MYSERVE",
@@ -1225,6 +1232,13 @@
     "filename": "Couple_Game.cpp"
   },
   {
+    "id": "CHOPRT",
+    "name": "Chef And Operators",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHOPRT",
+    "sol_path": "Solutions/Chef_And_Operators.cpp",
+    "filename": "Chef_And_Operators.cpp"
+  },
+  {
     "id": "FLOW018",
     "name": "Small Factorial",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018",
@@ -1542,7 +1556,7 @@
   {
     "id": "CHN15A",
     "name": "Mutated Minions",
-    "q_link": "https://www.codechef.com/problems/CHN15A",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A",
     "sol_path": "Solutions/Mutated_Minions.cpp",
     "filename": "Mutated_Minions.cpp"
   },

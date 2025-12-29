@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-246-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-248-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 246
+**Total Problems Solved:** 248
 
 ---
 
@@ -58,6 +58,7 @@
 | Car_Trip | Car Trip | [View](https://www.codechef.com/problems/Car_Trip) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_Trip.cpp) |
 | TRAVELFAST | Car or Bike | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_or_Bike.cpp) |
 | Chairs_Requirement | Chairs Requirement | [View](https://www.codechef.com/problems/Chairs_Requirement) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chairs_Requirement.cpp) |
+| CHOPRT | Chef And Operators | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHOPRT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_And_Operators.cpp) |
 | CHEFEREN | Chef Eren | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Eren.cpp) |
 | FIZZBUZZ2303 | Chef Fantasy 11 | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_Fantasy_11.cpp) |
 | Chef_On_Date | Chef On Date | [View](https://www.codechef.com/problems/Chef_On_Date) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_On_Date.cpp) |
@@ -182,7 +183,7 @@
 | Monthly_Budget | Monthly Budget | [View](https://www.codechef.com/problems/Monthly_Budget) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monthly_Budget.cpp) |
 | MOOCHEF | Moody Chef | [View](https://www.codechef.com/problems/MOOCHEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Moody_Chef.cpp) |
 | Multivitamin_Tablets | Multivitamin Tablets | [View](https://www.codechef.com/problems/Multivitamin_Tablets) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Multivitamin_Tablets.cpp) |
-| CHN15A | Mutated Minions | [View](https://www.codechef.com/problems/CHN15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mutated_Minions.cpp) |
+| CHN15A | Mutated Minions | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mutated_Minions.cpp) |
 | Nearest_Exit | Nearest Exit | [View](https://www.codechef.com/problems/Nearest_Exit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Nearest_Exit.cpp) |
 | Netflix | Netflix | [View](https://www.codechef.com/problems/Netflix) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Netflix.cpp) |
 | NO4S | No 4 Please | [View](https://www.codechef.com/START213C/problems/NO4S) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/No_4_Please.cpp) |
@@ -208,6 +209,7 @@
 | Qualify_the_round | Qualify the round | [View](https://www.codechef.com/problems/Qualify_the_round) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Qualify_the_round.cpp) |
 | Rain_in_Chefland | Rain in Chefland | [View](https://www.codechef.com/problems/Rain_in_Chefland) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rain_in_Chefland.cpp) |
 | Reach_Home | Reach Home | [View](https://www.codechef.com/problems/Reach_Home) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_Home.cpp) |
+| REACHFAST | Reach fast | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/REACHFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_fast.cpp) |
 | Reach_on_Time | Reach on Time | [View](https://www.codechef.com/problems/Reach_on_Time) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_on_Time.cpp) |
 | Reach_the_Target | Reach the Target | [View](https://www.codechef.com/problems/Reach_the_Target) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_the_Target.cpp) |
 | Read_Pages | Read Pages | [View](https://www.codechef.com/problems/Read_Pages) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Read_Pages.cpp) |
@@ -226,7 +228,7 @@
 | SELFDEF | Self Defence Training | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Self_Defence_Training.cpp) |
 | SEPX | Separation | [View](https://www.codechef.com/START213C/problems/SEPX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Separation.cpp) |
 | SINGLENUM | Single number in multiple numbers | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SINGLENUM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_number_in_multiple_numbers.cpp) |
-| SINGLEUSE | Single use Attack | [View](https://www.codechef.com/problems/SINGLEUSE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_use_Attack.cpp) |
+| SINGLEUSE | Single use Attack | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SINGLEUSE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_use_Attack.cpp) |
 | Six_Friends | Six Friends | [View](https://www.codechef.com/problems/Six_Friends) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Six_Friends.cpp) |
 | Sleep_deprivation | Sleep deprivation | [View](https://www.codechef.com/problems/Sleep_deprivation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sleep_deprivation.cpp) |
 | FLOW018 | Small Factorial | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_Factorial.cpp) |
