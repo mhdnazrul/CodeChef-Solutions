@@ -1211,6 +1211,13 @@
     "filename": "Couple_Game.cpp"
   },
   {
+    "id": "FLOW018",
+    "name": "Small Factorial",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018",
+    "sol_path": "Solutions/Small_Factorial.cpp",
+    "filename": "Small_Factorial.cpp"
+  },
+  {
     "id": "DISCOUNTT",
     "name": "Take discount or Not",
     "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT",
