@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-245-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-246-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 245
+**Total Problems Solved:** 246
 
 ---
 
@@ -198,6 +198,7 @@
 | Pending_Assignments | Pending Assignments | [View](https://www.codechef.com/problems/Pending_Assignments) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Pending_Assignments.cpp) |
 | Playlist | Playlist | [View](https://www.codechef.com/problems/Playlist) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Playlist.cpp) |
 | POLTHIEF | Police and Thief | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Police_and_Thief.cpp) |
+| T20MCH | Possible Victory | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Possible_Victory.cpp) |
 | Practice_makes_us_perfect | Practice makes us perfect | [View](https://www.codechef.com/problems/Practice_makes_us_perfect) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_makes_us_perfect.cpp) |
 | BMCV206 | Practice problem Fitness | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_problem_Fitness.cpp) |
 | Problems_in_your_to_do_list | Problems in your to do list | [View](https://www.codechef.com/problems/Problems_in_your_to_do_list) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problems_in_your_to_do_list.cpp) |

@@ -406,6 +406,13 @@
     "filename": "Dominant_Army.cpp"
   },
   {
+    "id": "T20MCH",
+    "name": "Possible Victory",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH",
+    "sol_path": "Solutions/Possible_Victory.cpp",
+    "filename": "Possible_Victory.cpp"
+  },
+  {
     "id": "Chef_and_Chocolates",
     "name": "Chef and Chocolates",
     "q_link": "https://www.codechef.com/problems/Chef_and_Chocolates",
