@@ -448,6 +448,13 @@
     "filename": "2000.cpp"
   },
   {
+    "id": "CHEAT",
+    "name": "Dracula Eats",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEAT",
+    "sol_path": "Solutions/Dracula_Eats.cpp",
+    "filename": "Dracula_Eats.cpp"
+  },
+  {
     "id": "SCORING",
     "name": "Scoring",
     "q_link": "https://www.codechef.com/START216D/problems/SCORING",

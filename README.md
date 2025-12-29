@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-244-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-245-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 244
+**Total Problems Solved:** 245
 
 ---
 
@@ -114,6 +114,7 @@
 | Donation_Drive | Donation Drive | [View](https://www.codechef.com/problems/Donation_Drive) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Donation_Drive.cpp) |
 | Donation_Rewards | Donation Rewards | [View](https://www.codechef.com/problems/Donation_Rewards) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Donation_Rewards.cpp) |
 | Double_Rent | Double Rent | [View](https://www.codechef.com/problems/Double_Rent) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Double_Rent.cpp) |
+| CHEAT | Dracula Eats | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Dracula_Eats.cpp) |
 | EXMLF1 | EXML Race | [View](https://www.codechef.com/START213C/problems/EXMLF1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/EXML_Race.cpp) |
 | ELECTN | Elections in Chefland | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Elections_in_Chefland.cpp) |
 | MOZZ | Endless Appetizers | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Endless_Appetizers.cpp) |
