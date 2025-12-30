@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-248-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-249-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 248
+**Total Problems Solved:** 249
 
 ---
 
@@ -138,6 +138,7 @@
 | FLIPCARDS | Flip the cards | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Flip_the_cards.cpp) |
 | Four_Tickets | Four Tickets | [View](https://www.codechef.com/problems/Four_Tickets) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Four_Tickets.cpp) |
 | GEMBUND | Gem Bundles | [View](https://www.codechef.com/problems/GEMBUND) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Gem_Bundles.cpp) |
+| SALE | Get Lowest Free | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Get_Lowest_Free.cpp) |
 | Get_Subscription | Get Subscription | [View](https://www.codechef.com/problems/Get_Subscription) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Get_Subscription.cpp) |
 | Good_Investment_or_Not | Good Investment or Not | [View](https://www.codechef.com/problems/Good_Investment_or_Not) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Good_Investment_or_Not.cpp) |
 | Good_Program | Good Program | [View](https://www.codechef.com/problems/Good_Program) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Good_Program.cpp) |

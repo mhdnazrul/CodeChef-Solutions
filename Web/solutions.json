@@ -1407,6 +1407,13 @@
     "filename": "Entertainments.cpp"
   },
   {
+    "id": "SALE",
+    "name": "Get Lowest Free",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALE",
+    "sol_path": "Solutions/Get_Lowest_Free.cpp",
+    "filename": "Get_Lowest_Free.cpp"
+  },
+  {
     "id": "MOZZ",
     "name": "Endless Appetizers",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ",
