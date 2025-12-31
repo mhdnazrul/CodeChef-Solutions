@@ -1113,6 +1113,13 @@
     "filename": "Sum_of_Digits.cpp"
   },
   {
+    "id": "MINFLIPS",
+    "name": "Minimum number of Flips",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINFLIPS",
+    "sol_path": "Solutions/Minimum_number_of_Flips.cpp",
+    "filename": "Minimum_number_of_Flips.cpp"
+  },
+  {
     "id": "Reverse_The_Number",
     "name": "Reverse The Number",
     "q_link": "https://www.codechef.com/problems/Reverse_The_Number",

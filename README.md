@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-249-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-250-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 249
+**Total Problems Solved:** 250
 
 ---
 
@@ -177,6 +177,7 @@
 | Miami_GP | Miami GP | [View](https://www.codechef.com/problems/Miami_GP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Miami_GP.cpp) |
 | Minimum_Coins | Minimum Coins | [View](https://www.codechef.com/problems/Minimum_Coins) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_Coins.cpp) |
 | Minimum_Pizzas | Minimum Pizzas | [View](https://www.codechef.com/problems/Minimum_Pizzas) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_Pizzas.cpp) |
+| MINFLIPS | Minimum number of Flips | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINFLIPS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_number_of_Flips.cpp) |
 | MINCOINS | Minimum number of coins | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_number_of_coins.cpp) |
 | Moneymaking | Moneymaking | [View](https://www.codechef.com/problems/Moneymaking) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Moneymaking.cpp) |
 | Monopoly | Monopoly | [View](https://www.codechef.com/problems/Monopoly) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monopoly.cpp) |
