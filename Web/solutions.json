@@ -385,6 +385,13 @@
     "filename": "Single_use_Attack.cpp"
   },
   {
+    "id": "BIN_BAT",
+    "name": "Binary Battles",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT",
+    "sol_path": "Solutions/Binary_Battles.cpp",
+    "filename": "Binary_Battles.cpp"
+  },
+  {
     "id": "Decoration_Discount",
     "name": "Decoration Discount",
     "q_link": "https://www.codechef.com/problems/Decoration_Discount",
@@ -903,6 +910,13 @@
     "filename": "Mahasena.cpp"
   },
   {
+    "id": "PRB01",
+    "name": "Primality Test",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01",
+    "sol_path": "Solutions/Primality_Test.cpp",
+    "filename": "Primality_Test.cpp"
+  },
+  {
     "id": "DNASTORAGE",
     "name": "DNA Storage",
     "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE",
@@ -1253,6 +1267,13 @@
     "filename": "Small_Factorial.cpp"
   },
   {
+    "id": "DICEGAME2",
+    "name": "Best of Two",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2",
+    "sol_path": "Solutions/Best_of_Two.cpp",
+    "filename": "Best_of_Two.cpp"
+  },
+  {
     "id": "DISCOUNTT",
     "name": "Take discount or Not",
     "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT",
@@ -1321,13 +1342,6 @@
     "q_link": "https://www.codechef.com/problems/Number_Mirror",
     "sol_path": "Solutions/Number_Mirror.cpp",
     "filename": "Number_Mirror.cpp"
-  },
-  {
-    "id": "Best_of_Two",
-    "name": "Best of Two",
-    "q_link": "https://www.codechef.com/problems/Best_of_Two",
-    "sol_path": "Solutions/Best_of_Two.cpp",
-    "filename": "Best_of_Two.cpp"
   },
   {
     "id": "Get_Subscription",
@@ -1531,6 +1545,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES",
     "sol_path": "Solutions/Fill_Candies.cpp",
     "filename": "Fill_Candies.cpp"
+  },
+  {
+    "id": "DPOLY",
+    "name": "Degree of Polynomial",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY",
+    "sol_path": "Solutions/Degree_of_Polynomial.cpp",
+    "filename": "Degree_of_Polynomial.cpp"
   },
   {
     "id": "Monthly_Budget",

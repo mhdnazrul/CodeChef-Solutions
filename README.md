@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-250-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-253-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 250
+**Total Problems Solved:** 253
 
 ---
 
@@ -40,8 +40,9 @@
 | Battery_Low | Battery Low | [View](https://www.codechef.com/problems/Battery_Low) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Low.cpp) |
 | Best_Coupon | Best Coupon | [View](https://www.codechef.com/problems/Best_Coupon) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Coupon.cpp) |
 | BESTSEATS | Best Seats | [View](https://www.codechef.com/START216D/problems/BESTSEATS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Seats.cpp) |
-| Best_of_Two | Best of Two | [View](https://www.codechef.com/problems/Best_of_Two) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_of_Two.cpp) |
+| DICEGAME2 | Best of Two | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_of_Two.cpp) |
 | Bidding | Bidding | [View](https://www.codechef.com/problems/Bidding) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bidding.cpp) |
+| BIN_BAT | Binary Battles | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Binary_Battles.cpp) |
 | Biryani_classes | Biryani classes | [View](https://www.codechef.com/problems/Biryani_classes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Biryani_classes.cpp) |
 | BLACKJACK | Blackjack | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BLACKJACK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Blackjack.cpp) |
 | Bob_at_the_Bank | Bob at the Bank | [View](https://www.codechef.com/problems/Bob_at_the_Bank) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bob_at_the_Bank.cpp) |
@@ -105,6 +106,7 @@
 | BMCV210 | Debug this code Total prize money | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Debug_this_code_Total_prize_money.cpp) |
 | Decoration_Discount | Decoration Discount | [View](https://www.codechef.com/problems/Decoration_Discount) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decoration_Discount.cpp) |
 | DECINC | Decrement OR Increment | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DECINC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Decrement_OR_Increment.cpp) |
+| DPOLY | Degree of Polynomial | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Degree_of_Polynomial.cpp) |
 | Determine_the_Score | Determine the Score | [View](https://www.codechef.com/problems/Determine_the_Score) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Determine_the_Score.cpp) |
 | CFRTEST | Devu and friendship testing | [View](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Devu_and_friendship_testing.cpp) |
 | P1HOME | Dice Play | [View](https://www.codechef.com/problems/P1HOME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Dice_Play.cpp) |
@@ -204,6 +206,7 @@
 | T20MCH | Possible Victory | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Possible_Victory.cpp) |
 | Practice_makes_us_perfect | Practice makes us perfect | [View](https://www.codechef.com/problems/Practice_makes_us_perfect) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_makes_us_perfect.cpp) |
 | BMCV206 | Practice problem Fitness | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_problem_Fitness.cpp) |
+| PRB01 | Primality Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Primality_Test.cpp) |
 | Problems_in_your_to_do_list | Problems in your to do list | [View](https://www.codechef.com/problems/Problems_in_your_to_do_list) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problems_in_your_to_do_list.cpp) |
 | Profit_Increment | Profit Increment | [View](https://www.codechef.com/problems/Profit_Increment) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profit_Increment.cpp) |
 | PROFIT | Profits | [View](https://www.codechef.com/START210C/problems/PROFIT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profits.cpp) |
