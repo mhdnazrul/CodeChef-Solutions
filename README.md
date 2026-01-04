@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-253-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-254-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 253
+**Total Problems Solved:** 254
 
 ---
 
@@ -256,6 +256,7 @@
 | TLG | The Lead Game | [View](https://www.codechef.com/problems/TLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Lead_Game.cpp) |
 | The_Mango_Truck | The Mango Truck | [View](https://www.codechef.com/problems/The_Mango_Truck) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Mango_Truck.cpp) |
 | The_Three_Topics | The Three Topics | [View](https://www.codechef.com/problems/The_Three_Topics) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Three_Topics.cpp) |
+| MAX_DIFF | The Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Two_Dishes.cpp) |
 | Time_Complexity | Time Complexity | [View](https://www.codechef.com/problems/Time_Complexity) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Time_Complexity.cpp) |
 | Tom_and_Jerry_Chase | Tom and Jerry Chase | [View](https://www.codechef.com/problems/Tom_and_Jerry_Chase) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_and_Jerry_Chase.cpp) |
 | FLOORS | Too many Floors | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_Floors.cpp) |

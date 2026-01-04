@@ -84,6 +84,13 @@
     "filename": "Chef_on_Vacation.cpp"
   },
   {
+    "id": "MAX_DIFF",
+    "name": "The Two Dishes",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF",
+    "sol_path": "Solutions/The_Two_Dishes.cpp",
+    "filename": "The_Two_Dishes.cpp"
+  },
+  {
     "id": "IPL_Ticket_Rush",
     "name": "IPL Ticket Rush",
     "q_link": "https://www.codechef.com/problems/IPL_Ticket_Rush",
