@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-257-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-258-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 257
+**Total Problems Solved:** 258
 
 ---
 
@@ -26,6 +26,7 @@
 | :---: | :--- | :---: | :---: |
 | 2000 | 2000 | [View](https://www.codechef.com/problems/2000) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/2000.cpp) |
 | 404_Not_Found | 404 Not Found | [View](https://www.codechef.com/problems/404_Not_Found) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
+| A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat | A Arpa s hard exam and Mehrdad s naive cheat | [View](https://www.codechef.com/problems/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp) |
 | AORB | A or B | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_or_B.cpp) |
 | ATM | ATM | [View](https://www.codechef.com/problems/ATM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
 | ADDONE | Add One | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Add_One.cpp) |

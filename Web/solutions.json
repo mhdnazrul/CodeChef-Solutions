@@ -1386,6 +1386,13 @@
     "filename": "Clear_Day.cpp"
   },
   {
+    "id": "A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat",
+    "name": "A Arpa s hard exam and Mehrdad s naive cheat",
+    "q_link": "https://www.codechef.com/problems/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat",
+    "sol_path": "Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp",
+    "filename": "A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp"
+  },
+  {
     "id": "CHEFEREN",
     "name": "Chef Eren",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
