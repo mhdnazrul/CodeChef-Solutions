@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-254-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-257-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 254
+**Total Problems Solved:** 257
 
 ---
 
@@ -186,6 +186,7 @@
 | Monopoly_in_Chefland | Monopoly in Chefland | [View](https://www.codechef.com/problems/Monopoly_in_Chefland) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monopoly_in_Chefland.cpp) |
 | Monthly_Budget | Monthly Budget | [View](https://www.codechef.com/problems/Monthly_Budget) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monthly_Budget.cpp) |
 | MOOCHEF | Moody Chef | [View](https://www.codechef.com/problems/MOOCHEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Moody_Chef.cpp) |
+| IMDB | Motivation | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/IMDB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Motivation.cpp) |
 | Multivitamin_Tablets | Multivitamin Tablets | [View](https://www.codechef.com/problems/Multivitamin_Tablets) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Multivitamin_Tablets.cpp) |
 | CHN15A | Mutated Minions | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mutated_Minions.cpp) |
 | Nearest_Exit | Nearest Exit | [View](https://www.codechef.com/problems/Nearest_Exit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Nearest_Exit.cpp) |
@@ -207,6 +208,7 @@
 | Practice_makes_us_perfect | Practice makes us perfect | [View](https://www.codechef.com/problems/Practice_makes_us_perfect) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_makes_us_perfect.cpp) |
 | BMCV206 | Practice problem Fitness | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_problem_Fitness.cpp) |
 | PRB01 | Primality Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Primality_Test.cpp) |
+| PROBCAT | Problem Category | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/PROBCAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problem_Category.cpp) |
 | Problems_in_your_to_do_list | Problems in your to do list | [View](https://www.codechef.com/problems/Problems_in_your_to_do_list) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problems_in_your_to_do_list.cpp) |
 | Profit_Increment | Profit Increment | [View](https://www.codechef.com/problems/Profit_Increment) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profit_Increment.cpp) |
 | PROFIT | Profits | [View](https://www.codechef.com/START210C/problems/PROFIT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profits.cpp) |
@@ -264,6 +266,7 @@
 | Total_Prize_Money | Total Prize Money | [View](https://www.codechef.com/problems/Total_Prize_Money) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Total_Prize_Money.cpp) |
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
 | True_and_False_Paper | True and False Paper | [View](https://www.codechef.com/problems/True_and_False_Paper) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |
+| TWODISH | Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Dishes.cpp) |
 | Tyre_problem | Tyre problem | [View](https://www.codechef.com/problems/Tyre_problem) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tyre_problem.cpp) |
 | VALENTINE | Valentine is Coming | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valentine_is_Coming.cpp) |
 | Valid_Stack_Operations | Valid Stack Operations | [View](https://www.codechef.com/problems/Valid_Stack_Operations) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valid_Stack_Operations.cpp) |

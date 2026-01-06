@@ -287,6 +287,13 @@
     "filename": "Weights.cpp"
   },
   {
+    "id": "TWODISH",
+    "name": "Two Dishes",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH",
+    "sol_path": "Solutions/Two_Dishes.cpp",
+    "filename": "Two_Dishes.cpp"
+  },
+  {
     "id": "CHEFCAND",
     "name": "Chef and Candies",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
@@ -504,6 +511,13 @@
     "filename": "Dice_Play.cpp"
   },
   {
+    "id": "PROBCAT",
+    "name": "Problem Category",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/PROBCAT",
+    "sol_path": "Solutions/Problem_Category.cpp",
+    "filename": "Problem_Category.cpp"
+  },
+  {
     "id": "SPEEDTEST",
     "name": "Speed Limit Test",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST",
@@ -670,6 +684,13 @@
     "q_link": "https://www.codechef.com/problems/Kitchen_Timings",
     "sol_path": "Solutions/Kitchen_Timings.cpp",
     "filename": "Kitchen_Timings.cpp"
+  },
+  {
+    "id": "IMDB",
+    "name": "Motivation",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/IMDB",
+    "sol_path": "Solutions/Motivation.cpp",
+    "filename": "Motivation.cpp"
   },
   {
     "id": "Expert_Setter",
