@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-258-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-259-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 258
+**Total Problems Solved:** 259
 
 ---
 
@@ -268,6 +268,7 @@
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
 | True_and_False_Paper | True and False Paper | [View](https://www.codechef.com/problems/True_and_False_Paper) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |
 | TWODISH | Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Dishes.cpp) |
+| TWOPLG | Two Pile Game | [View](https://www.codechef.com/START220D/problems/TWOPLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Pile_Game.cpp) |
 | Tyre_problem | Tyre problem | [View](https://www.codechef.com/problems/Tyre_problem) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tyre_problem.cpp) |
 | VALENTINE | Valentine is Coming | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valentine_is_Coming.cpp) |
 | Valid_Stack_Operations | Valid Stack Operations | [View](https://www.codechef.com/problems/Valid_Stack_Operations) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valid_Stack_Operations.cpp) |

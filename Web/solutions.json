@@ -1001,6 +1001,13 @@
     "filename": "Moneymaking.cpp"
   },
   {
+    "id": "TWOPLG",
+    "name": "Two Pile Game",
+    "q_link": "https://www.codechef.com/START220D/problems/TWOPLG",
+    "sol_path": "Solutions/Two_Pile_Game.cpp",
+    "filename": "Two_Pile_Game.cpp"
+  },
+  {
     "id": "Who_is_taller",
     "name": "Who is taller",
     "q_link": "https://www.codechef.com/problems/Who_is_taller",
