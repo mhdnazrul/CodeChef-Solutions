@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-259-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-261-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 259
+**Total Problems Solved:** 261
 
 ---
 
@@ -76,6 +76,7 @@
 | Chef_and_Masks | Chef and Masks | [View](https://www.codechef.com/problems/Chef_and_Masks) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Masks.cpp) |
 | HELIUM3 | Chef and NextGen | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_NextGen.cpp) |
 | Chef_and_Races | Chef and Races | [View](https://www.codechef.com/problems/Chef_and_Races) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Races.cpp) |
+| CHFSPL | Chef and Spells | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CHFSPL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Spells.cpp) |
 | CHEFBOTTLE | Chef and Water Bottles | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Water_Bottles.cpp) |
 | Chef_and_Wire_Frames | Chef and Wire Frames | [View](https://www.codechef.com/problems/Chef_and_Wire_Frames) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Wire_Frames.cpp) |
 | CHEFAPPS | Chef and his Apps | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_his_Apps.cpp) |
@@ -241,6 +242,7 @@
 | Sleep_deprivation | Sleep deprivation | [View](https://www.codechef.com/problems/Sleep_deprivation) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sleep_deprivation.cpp) |
 | FLOW018 | Small Factorial | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_Factorial.cpp) |
 | FCTRL2 | Small factorials | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_factorials.cpp) |
+| SMOL | Smallest Possible Whole Number | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/SMOL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Smallest_Possible_Whole_Number.cpp) |
 | SPECIALITY | Speciality | [View](https://www.codechef.com/problems/SPECIALITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speciality.cpp) |
 | SPEEDTEST | Speed Limit Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speed_Limit_Test.cpp) |
 | Spice_Level | Spice Level | [View](https://www.codechef.com/problems/Spice_Level) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Spice_Level.cpp) |

@@ -63,6 +63,13 @@
     "filename": "Six_Friends.cpp"
   },
   {
+    "id": "CHFSPL",
+    "name": "Chef and Spells",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CHFSPL",
+    "sol_path": "Solutions/Chef_and_Spells.cpp",
+    "filename": "Chef_and_Spells.cpp"
+  },
+  {
     "id": "VALENTINE",
     "name": "Valentine is Coming",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE",
@@ -985,6 +992,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS",
     "sol_path": "Solutions/Too_many_Floors.cpp",
     "filename": "Too_many_Floors.cpp"
+  },
+  {
+    "id": "SMOL",
+    "name": "Smallest Possible Whole Number",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/SMOL",
+    "sol_path": "Solutions/Smallest_Possible_Whole_Number.cpp",
+    "filename": "Smallest_Possible_Whole_Number.cpp"
   },
   {
     "id": "Overspeeding_Fine",
