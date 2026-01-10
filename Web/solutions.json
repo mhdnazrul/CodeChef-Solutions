@@ -763,6 +763,13 @@
     "filename": "Right_There.cpp"
   },
   {
+    "id": "WEIGHTBL",
+    "name": "Weight Balance",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/WEIGHTBL",
+    "sol_path": "Solutions/Weight_Balance.cpp",
+    "filename": "Weight_Balance.cpp"
+  },
+  {
     "id": "SEPX",
     "name": "Separation",
     "q_link": "https://www.codechef.com/START213C/problems/SEPX",
@@ -1251,6 +1258,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
     "sol_path": "Solutions/Bus_Seat_Numbering.cpp",
     "filename": "Bus_Seat_Numbering.cpp"
+  },
+  {
+    "id": "CSTOCK",
+    "name": "Chef and Stock Prices",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CSTOCK",
+    "sol_path": "Solutions/Chef_and_Stock_Prices.cpp",
+    "filename": "Chef_and_Stock_Prices.cpp"
   },
   {
     "id": "XJUMP",

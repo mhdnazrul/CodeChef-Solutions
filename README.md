@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-261-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-263-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 261
+**Total Problems Solved:** 263
 
 ---
 
@@ -77,6 +77,7 @@
 | HELIUM3 | Chef and NextGen | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_NextGen.cpp) |
 | Chef_and_Races | Chef and Races | [View](https://www.codechef.com/problems/Chef_and_Races) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Races.cpp) |
 | CHFSPL | Chef and Spells | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CHFSPL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Spells.cpp) |
+| CSTOCK | Chef and Stock Prices | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CSTOCK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Stock_Prices.cpp) |
 | CHEFBOTTLE | Chef and Water Bottles | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Water_Bottles.cpp) |
 | Chef_and_Wire_Frames | Chef and Wire Frames | [View](https://www.codechef.com/problems/Chef_and_Wire_Frames) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_Wire_Frames.cpp) |
 | CHEFAPPS | Chef and his Apps | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Chef_and_his_Apps.cpp) |
@@ -280,6 +281,7 @@
 | Water_Filling | Water Filling | [View](https://www.codechef.com/problems/Water_Filling) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Filling.cpp) |
 | WTRMIXING | Water Mixing | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Mixing.cpp) |
 | Water_Requirement | Water Requirement | [View](https://www.codechef.com/problems/Water_Requirement) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Requirement.cpp) |
+| WEIGHTBL | Weight Balance | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/WEIGHTBL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weight_Balance.cpp) |
 | WGHTS | Weights | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weights.cpp) |
 | Who_is_taller | Who is taller | [View](https://www.codechef.com/problems/Who_is_taller) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Who_is_taller.cpp) |
 | WORDLE | Wordle | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Wordle.cpp) |
