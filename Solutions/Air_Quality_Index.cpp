@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/contest/1913/problem/A
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,23 +20,14 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    string s;      cin>>s;
-    string a = "";
-    for(int i=0; i<sz(s)-1; i++){
-        a += s[i];
-        string b = "";
-        for(int j=i+1; j<sz(s); j++) b+=s[j];
-        if(b[0]!='0' && stoll(a) < stoll(b)){
-            cout<<a<<" "<<b<<nl;
-            return;
-        }
-    }
-    out(-1);
+  int value;
+  cin >> value;
+  cout << (value < 100 ? "YES" : "NO") << endl;
 }
 
 int32_t main(){
     fastio();      int T=1; 
-    if(!(cin>>T))  return 0;
+    //if(!(cin>>T))  return 0;
     while(T--)     run_case();
     return 0;
 }

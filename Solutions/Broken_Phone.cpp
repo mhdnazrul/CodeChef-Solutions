@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,11 +20,13 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-  int age;
-  cin >> age;
-  cout << age - 10 << endl;
+  int a, b;
+  cin >> a >> b;
+  if (a == b)
+    cout << "ANY" << endl;
+  else
+    cout << (a > b ? "NEW PHONE" : "REPAIR") << endl;
 }
-
 int32_t main(){
     fastio();      int T=1; 
     if(!(cin>>T))  return 0;

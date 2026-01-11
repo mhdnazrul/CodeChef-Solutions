@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/problemset/problem/742/A
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,18 +20,17 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    int n;      cin>>n;
-    if(n==0)out(1);
-    else{
-        int arr[] = {8,4,2,6};
-        if(n%4==0)out(6);
-        else out(arr[(n%4)-1]);
-    }
+    ll n;
+    cin >> n;
+    if (n >= 67 && n <= 45000)
+        cout << "YES\n";
+    else
+        cout << "NO\n";
 }
 
 int32_t main(){
     fastio();      int T=1; 
-    //if(!(cin>>T))  return 0;
+    if(!(cin>>T))  return 0;
     while(T--)     run_case();
     return 0;
 }

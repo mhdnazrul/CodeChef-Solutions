@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BESTOFTWO
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,15 +20,12 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    vi a(3),b(3);
-    for(int i=0; i<3; i++)cin>>a[i];
-    for(int i=0; i<3; i++)cin>>b[i];
-    sort(all(a));       sort(all(b));
-    int alice = a[1]+a[2];
-    int bob = b[1]+b[2];
-    if(alice==bob)out("Tie");
-    else if(alice>bob)out("Alice");
-    else out("Bob");
+    int a, b;
+    cin >> a >> b;
+    if (a > b)
+        cout << a << endl;
+    else
+        cout << b << endl;
 }
 
 int32_t main(){

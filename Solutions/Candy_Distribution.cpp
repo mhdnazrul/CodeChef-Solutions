@@ -1,7 +1,7 @@
 /*
     author  : nazrulislam_7
-    created : 
-problem Name:  
+    created : Nazrul Islam
+problem Name: Candy Distribution
 problem link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CANDYDIST
 */
 #include <bits/stdc++.h>
