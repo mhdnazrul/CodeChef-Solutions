@@ -21,13 +21,6 @@
     "filename": "Good_Program.cpp"
   },
   {
-    "id": "Bull_or_Bear",
-    "name": "Bull or Bear",
-    "q_link": "https://www.codechef.com/problems/Bull_or_Bear",
-    "sol_path": "Solutions/Bull_or_Bear.cpp",
-    "filename": "Bull_or_Bear.cpp"
-  },
-  {
     "id": "Four_Tickets",
     "name": "Four Tickets",
     "q_link": "https://www.codechef.com/problems/Four_Tickets",
@@ -54,6 +47,13 @@
     "q_link": "https://www.codechef.com/problems/Chef_gives_Party",
     "sol_path": "Solutions/Chef_gives_Party.cpp",
     "filename": "Chef_gives_Party.cpp"
+  },
+  {
+    "id": "BATTERYLOW",
+    "name": "Battery Low",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BATTERYLOW",
+    "sol_path": "Solutions/Battery_Low.cpp",
+    "filename": "Battery_Low.cpp"
   },
   {
     "id": "Six_Friends",
@@ -168,6 +168,13 @@
     "filename": "Practice_problem_Fitness.cpp"
   },
   {
+    "id": "BIRYANI",
+    "name": "Biryani classes",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BIRYANI",
+    "sol_path": "Solutions/Biryani_classes.cpp",
+    "filename": "Biryani_classes.cpp"
+  },
+  {
     "id": "Volume_Control",
     "name": "Volume Control",
     "q_link": "https://www.codechef.com/problems/Volume_Control",
@@ -187,13 +194,6 @@
     "q_link": "https://www.codechef.com/problems/Reach_Home",
     "sol_path": "Solutions/Reach_Home.cpp",
     "filename": "Reach_Home.cpp"
-  },
-  {
-    "id": "Candy_Division",
-    "name": "Candy Division",
-    "q_link": "https://www.codechef.com/problems/Candy_Division",
-    "sol_path": "Solutions/Candy_Division.cpp",
-    "filename": "Candy_Division.cpp"
   },
   {
     "id": "DECINC",
@@ -264,13 +264,6 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BLACKJACK",
     "sol_path": "Solutions/Blackjack.cpp",
     "filename": "Blackjack.cpp"
-  },
-  {
-    "id": "Battery_Low",
-    "name": "Battery Low",
-    "q_link": "https://www.codechef.com/problems/Battery_Low",
-    "sol_path": "Solutions/Battery_Low.cpp",
-    "filename": "Battery_Low.cpp"
   },
   {
     "id": "BMCV201",
@@ -378,6 +371,13 @@
     "filename": "Rain_in_Chefland.cpp"
   },
   {
+    "id": "BULLBEAR",
+    "name": "Bull or Bear",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BULLBEAR",
+    "sol_path": "Solutions/Bull_or_Bear.cpp",
+    "filename": "Bull_or_Bear.cpp"
+  },
+  {
     "id": "Double_Rent",
     "name": "Double Rent",
     "q_link": "https://www.codechef.com/problems/Double_Rent",
@@ -469,11 +469,18 @@
     "filename": "Mario_and_Bullet.cpp"
   },
   {
-    "id": "Ageing",
+    "id": "AGEING",
     "name": "Ageing",
-    "q_link": "https://www.codechef.com/problems/Ageing",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING",
     "sol_path": "Solutions/Ageing.cpp",
     "filename": "Ageing.cpp"
+  },
+  {
+    "id": "BTRYHLTH",
+    "name": "Battery Health",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BTRYHLTH",
+    "sol_path": "Solutions/Battery_Health.cpp",
+    "filename": "Battery_Health.cpp"
   },
   {
     "id": "Search_an_element_in_an_array",
@@ -483,9 +490,9 @@
     "filename": "Search_an_element_in_an_array.cpp"
   },
   {
-    "id": "2000",
+    "id": "RIP2000",
     "name": "2000",
-    "q_link": "https://www.codechef.com/problems/2000",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIP2000",
     "sol_path": "Solutions/2000.cpp",
     "filename": "2000.cpp"
   },
@@ -574,6 +581,13 @@
     "filename": "Cup_Finals.cpp"
   },
   {
+    "id": "AIRINDEX",
+    "name": "Air Quality Index",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX",
+    "sol_path": "Solutions/Air_Quality_Index.cpp",
+    "filename": "Air_Quality_Index.cpp"
+  },
+  {
     "id": "Currency_Exchange",
     "name": "Currency Exchange",
     "q_link": "https://www.codechef.com/problems/Currency_Exchange",
@@ -602,6 +616,13 @@
     "filename": "Exams.cpp"
   },
   {
+    "id": "AUDIBLE",
+    "name": "Audible Range",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE",
+    "sol_path": "Solutions/Audible_Range.cpp",
+    "filename": "Audible_Range.cpp"
+  },
+  {
     "id": "EXPENSES",
     "name": "Expense List",
     "q_link": "https://www.codechef.com/problems/EXPENSES",
@@ -609,25 +630,11 @@
     "filename": "Expense_List.cpp"
   },
   {
-    "id": "Biryani_classes",
-    "name": "Biryani classes",
-    "q_link": "https://www.codechef.com/problems/Biryani_classes",
-    "sol_path": "Solutions/Biryani_classes.cpp",
-    "filename": "Biryani_classes.cpp"
-  },
-  {
     "id": "Water_Requirement",
     "name": "Water Requirement",
     "q_link": "https://www.codechef.com/problems/Water_Requirement",
     "sol_path": "Solutions/Water_Requirement.cpp",
     "filename": "Water_Requirement.cpp"
-  },
-  {
-    "id": "Bucket_and_Water_Flow",
-    "name": "Bucket and Water Flow",
-    "q_link": "https://www.codechef.com/problems/Bucket_and_Water_Flow",
-    "sol_path": "Solutions/Bucket_and_Water_Flow.cpp",
-    "filename": "Bucket_and_Water_Flow.cpp"
   },
   {
     "id": "EQUALELE",
@@ -651,6 +658,13 @@
     "filename": "Profit_Increment.cpp"
   },
   {
+    "id": "BOBBANK",
+    "name": "Bob at the Bank",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BOBBANK",
+    "sol_path": "Solutions/Bob_at_the_Bank.cpp",
+    "filename": "Bob_at_the_Bank.cpp"
+  },
+  {
     "id": "TLG",
     "name": "The Lead Game",
     "q_link": "https://www.codechef.com/problems/TLG",
@@ -665,9 +679,9 @@
     "filename": "Profits.cpp"
   },
   {
-    "id": "Bidding",
+    "id": "AUCTION",
     "name": "Bidding",
-    "q_link": "https://www.codechef.com/problems/Bidding",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUCTION",
     "sol_path": "Solutions/Bidding.cpp",
     "filename": "Bidding.cpp"
   },
@@ -749,18 +763,18 @@
     "filename": "Maximum_Submissions.cpp"
   },
   {
+    "id": "ERROR404",
+    "name": "404 Not Found",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ERROR404",
+    "sol_path": "Solutions/404_Not_Found.cpp",
+    "filename": "404_Not_Found.cpp"
+  },
+  {
     "id": "Enormous_Input_Test",
     "name": "Enormous Input Test",
     "q_link": "https://www.codechef.com/problems/Enormous_Input_Test",
     "sol_path": "Solutions/Enormous_Input_Test.cpp",
     "filename": "Enormous_Input_Test.cpp"
-  },
-  {
-    "id": "Broken_Phone",
-    "name": "Broken Phone",
-    "q_link": "https://www.codechef.com/problems/Broken_Phone",
-    "sol_path": "Solutions/Broken_Phone.cpp",
-    "filename": "Broken_Phone.cpp"
   },
   {
     "id": "Right_There",
@@ -824,6 +838,13 @@
     "q_link": "https://www.codechef.com/problems/Just_One_More_Episode",
     "sol_path": "Solutions/Just_One_More_Episode.cpp",
     "filename": "Just_One_More_Episode.cpp"
+  },
+  {
+    "id": "BNE_APT",
+    "name": "Bone Appetit",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BNE_APT",
+    "sol_path": "Solutions/Bone_Appetit.cpp",
+    "filename": "Bone_Appetit.cpp"
   },
   {
     "id": "HAPPYSTR",
@@ -994,13 +1015,6 @@
     "filename": "Devu_and_friendship_testing.cpp"
   },
   {
-    "id": "404_Not_Found",
-    "name": "404 Not Found",
-    "q_link": "https://www.codechef.com/problems/404_Not_Found",
-    "sol_path": "Solutions/404_Not_Found.cpp",
-    "filename": "404_Not_Found.cpp"
-  },
-  {
     "id": "FLOORS",
     "name": "Too many Floors",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS",
@@ -1055,6 +1069,13 @@
     "q_link": "https://www.codechef.com/problems/First_and_Last_Digit",
     "sol_path": "Solutions/First_and_Last_Digit.cpp",
     "filename": "First_and_Last_Digit.cpp"
+  },
+  {
+    "id": "CANDIVIDE",
+    "name": "Candy Division",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CANDIVIDE",
+    "sol_path": "Solutions/Candy_Division.cpp",
+    "filename": "Candy_Division.cpp"
   },
   {
     "id": "RCTGLD",
@@ -1162,13 +1183,6 @@
     "filename": "The_Cheaper_Cab.cpp"
   },
   {
-    "id": "Air_Quality_Index",
-    "name": "Air Quality Index",
-    "q_link": "https://www.codechef.com/problems/Air_Quality_Index",
-    "sol_path": "Solutions/Air_Quality_Index.cpp",
-    "filename": "Air_Quality_Index.cpp"
-  },
-  {
     "id": "CHEFAPPS",
     "name": "Chef and his Apps",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS",
@@ -1260,13 +1274,6 @@
     "filename": "TV_Discount.cpp"
   },
   {
-    "id": "SEATNUMBER",
-    "name": "Bus Seat Numbering",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
-    "sol_path": "Solutions/Bus_Seat_Numbering.cpp",
-    "filename": "Bus_Seat_Numbering.cpp"
-  },
-  {
     "id": "CSTOCK",
     "name": "Chef and Stock Prices",
     "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CSTOCK",
@@ -1281,9 +1288,9 @@
     "filename": "X_Jumps.cpp"
   },
   {
-    "id": "ATM",
+    "id": "HS08TEST",
     "name": "ATM",
-    "q_link": "https://www.codechef.com/problems/ATM",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST",
     "sol_path": "Solutions/ATM.cpp",
     "filename": "ATM.cpp"
   },
@@ -1337,9 +1344,9 @@
     "filename": "Small_Factorial.cpp"
   },
   {
-    "id": "DICEGAME2",
+    "id": "BESTOFTWO",
     "name": "Best of Two",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BESTOFTWO",
     "sol_path": "Solutions/Best_of_Two.cpp",
     "filename": "Best_of_Two.cpp"
   },
@@ -1428,13 +1435,6 @@
     "filename": "Clear_Day.cpp"
   },
   {
-    "id": "A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat",
-    "name": "A Arpa s hard exam and Mehrdad s naive cheat",
-    "q_link": "https://www.codechef.com/problems/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat",
-    "sol_path": "Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp",
-    "filename": "A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp"
-  },
-  {
     "id": "CHEFEREN",
     "name": "Chef Eren",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
@@ -1454,13 +1454,6 @@
     "q_link": "https://www.codechef.com/problems/Final_Population",
     "sol_path": "Solutions/Final_Population.cpp",
     "filename": "Final_Population.cpp"
-  },
-  {
-    "id": "Best_Coupon",
-    "name": "Best Coupon",
-    "q_link": "https://www.codechef.com/problems/Best_Coupon",
-    "sol_path": "Solutions/Best_Coupon.cpp",
-    "filename": "Best_Coupon.cpp"
   },
   {
     "id": "DISCUS",
@@ -1510,6 +1503,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALE",
     "sol_path": "Solutions/Get_Lowest_Free.cpp",
     "filename": "Get_Lowest_Free.cpp"
+  },
+  {
+    "id": "WATERFLOW",
+    "name": "Bucket and Water Flow",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERFLOW",
+    "sol_path": "Solutions/Bucket_and_Water_Flow.cpp",
+    "filename": "Bucket_and_Water_Flow.cpp"
   },
   {
     "id": "MOZZ",
@@ -1568,11 +1568,25 @@
     "filename": "Off_By_One.cpp"
   },
   {
+    "id": "SEATNUMBER",
+    "name": "Bus Seat Numbering",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
+    "sol_path": "Solutions/Bus_Seat_Numbering.cpp",
+    "filename": "Bus_Seat_Numbering.cpp"
+  },
+  {
     "id": "SPCP2",
     "name": "Airlines",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2",
     "sol_path": "Solutions/Airlines.cpp",
     "filename": "Airlines.cpp"
+  },
+  {
+    "id": "CHEAPFOOD",
+    "name": "Best Coupon",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD",
+    "sol_path": "Solutions/Best_Coupon.cpp",
+    "filename": "Best_Coupon.cpp"
   },
   {
     "id": "Puzzle_Hunt",
@@ -1587,13 +1601,6 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
     "sol_path": "Solutions/Car_or_Bike.cpp",
     "filename": "Car_or_Bike.cpp"
-  },
-  {
-    "id": "Audible_Range",
-    "name": "Audible Range",
-    "q_link": "https://www.codechef.com/problems/Audible_Range",
-    "sol_path": "Solutions/Audible_Range.cpp",
-    "filename": "Audible_Range.cpp"
   },
   {
     "id": "Parliament",
@@ -1645,11 +1652,11 @@
     "filename": "Messi_vs_Ronaldo.cpp"
   },
   {
-    "id": "Bob_at_the_Bank",
-    "name": "Bob at the Bank",
-    "q_link": "https://www.codechef.com/problems/Bob_at_the_Bank",
-    "sol_path": "Solutions/Bob_at_the_Bank.cpp",
-    "filename": "Bob_at_the_Bank.cpp"
+    "id": "BROKENPHONE",
+    "name": "Broken Phone",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE",
+    "sol_path": "Solutions/Broken_Phone.cpp",
+    "filename": "Broken_Phone.cpp"
   },
   {
     "id": "Chef_and_Gym",
@@ -1715,13 +1722,6 @@
     "filename": "Jenga_Night.cpp"
   },
   {
-    "id": "Bone_Appetit",
-    "name": "Bone Appetit",
-    "q_link": "https://www.codechef.com/problems/Bone_Appetit",
-    "sol_path": "Solutions/Bone_Appetit.cpp",
-    "filename": "Bone_Appetit.cpp"
-  },
-  {
     "id": "Pending_Assignments",
     "name": "Pending Assignments",
     "q_link": "https://www.codechef.com/problems/Pending_Assignments",
@@ -1785,13 +1785,6 @@
     "filename": "Chef_in_his_Office.cpp"
   },
   {
-    "id": "A_Rating_Increase",
-    "name": "A Rating Increase",
-    "q_link": "https://www.codechef.com/problems/A_Rating_Increase",
-    "sol_path": "Solutions/A_Rating_Increase.cpp",
-    "filename": "A_Rating_Increase.cpp"
-  },
-  {
     "id": "Problems_in_your_to_do_list",
     "name": "Problems in your to do list",
     "q_link": "https://www.codechef.com/problems/Problems_in_your_to_do_list",
@@ -1804,13 +1797,6 @@
     "q_link": "https://www.codechef.com/problems/Monopoly",
     "sol_path": "Solutions/Monopoly.cpp",
     "filename": "Monopoly.cpp"
-  },
-  {
-    "id": "Battery_Health",
-    "name": "Battery Health",
-    "q_link": "https://www.codechef.com/problems/Battery_Health",
-    "sol_path": "Solutions/Battery_Health.cpp",
-    "filename": "Battery_Health.cpp"
   },
   {
     "id": "EXREST",

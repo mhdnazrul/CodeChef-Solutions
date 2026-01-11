@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-265-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-263-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 265
+**Total Problems Solved:** 263
 
 ---
 
@@ -24,40 +24,38 @@
 
 | Problem ID | Problem Name | Question | Solution |
 | :---: | :--- | :---: | :---: |
-| 2000 | 2000 | [View](https://www.codechef.com/problems/2000) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/2000.cpp) |
-| 404_Not_Found | 404 Not Found | [View](https://www.codechef.com/problems/404_Not_Found) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
-| A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat | A Arpa s hard exam and Mehrdad s naive cheat | [View](https://www.codechef.com/problems/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp) |
-| A_Rating_Increase | A Rating Increase | [View](https://www.codechef.com/problems/A_Rating_Increase) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_Rating_Increase.cpp) |
+| RIP2000 | 2000 | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIP2000) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/2000.cpp) |
+| ERROR404 | 404 Not Found | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ERROR404) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
 | AORB | A or B | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_or_B.cpp) |
-| ATM | ATM | [View](https://www.codechef.com/problems/ATM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
+| HS08TEST | ATM | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
 | ADDONE | Add One | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Add_One.cpp) |
-| Ageing | Ageing | [View](https://www.codechef.com/problems/Ageing) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ageing.cpp) |
+| AGEING | Ageing | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ageing.cpp) |
 | ACTEMP | Air Conditioner Temperature | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Conditioner_Temperature.cpp) |
-| Air_Quality_Index | Air Quality Index | [View](https://www.codechef.com/problems/Air_Quality_Index) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Quality_Index.cpp) |
+| AIRINDEX | Air Quality Index | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Quality_Index.cpp) |
 | SPCP2 | Airlines | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Airlines.cpp) |
-| Audible_Range | Audible Range | [View](https://www.codechef.com/problems/Audible_Range) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Audible_Range.cpp) |
+| AUDIBLE | Audible Range | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Audible_Range.cpp) |
 | B_Swap_and_Delete | B Swap and Delete | [View](https://www.codechef.com/problems/B_Swap_and_Delete) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/B_Swap_and_Delete.cpp) |
 | BMCV201 | Basic math Addition and multiplication | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Basic_math_Addition_and_multiplication.cpp) |
 | BATH | Bath in Winters | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bath_in_Winters.cpp) |
-| Battery_Health | Battery Health | [View](https://www.codechef.com/problems/Battery_Health) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Health.cpp) |
-| Battery_Low | Battery Low | [View](https://www.codechef.com/problems/Battery_Low) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Low.cpp) |
-| Best_Coupon | Best Coupon | [View](https://www.codechef.com/problems/Best_Coupon) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Coupon.cpp) |
+| BTRYHLTH | Battery Health | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BTRYHLTH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Health.cpp) |
+| BATTERYLOW | Battery Low | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BATTERYLOW) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Low.cpp) |
+| CHEAPFOOD | Best Coupon | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Coupon.cpp) |
 | BESTSEATS | Best Seats | [View](https://www.codechef.com/START216D/problems/BESTSEATS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_Seats.cpp) |
-| DICEGAME2 | Best of Two | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_of_Two.cpp) |
-| Bidding | Bidding | [View](https://www.codechef.com/problems/Bidding) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bidding.cpp) |
+| BESTOFTWO | Best of Two | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BESTOFTWO) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Best_of_Two.cpp) |
+| AUCTION | Bidding | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUCTION) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bidding.cpp) |
 | BIN_BAT | Binary Battles | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Binary_Battles.cpp) |
-| Biryani_classes | Biryani classes | [View](https://www.codechef.com/problems/Biryani_classes) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Biryani_classes.cpp) |
+| BIRYANI | Biryani classes | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BIRYANI) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Biryani_classes.cpp) |
 | BLACKJACK | Blackjack | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BLACKJACK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Blackjack.cpp) |
-| Bob_at_the_Bank | Bob at the Bank | [View](https://www.codechef.com/problems/Bob_at_the_Bank) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bob_at_the_Bank.cpp) |
-| Bone_Appetit | Bone Appetit | [View](https://www.codechef.com/problems/Bone_Appetit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bone_Appetit.cpp) |
-| Broken_Phone | Broken Phone | [View](https://www.codechef.com/problems/Broken_Phone) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Broken_Phone.cpp) |
-| Bucket_and_Water_Flow | Bucket and Water Flow | [View](https://www.codechef.com/problems/Bucket_and_Water_Flow) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bucket_and_Water_Flow.cpp) |
+| BOBBANK | Bob at the Bank | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BOBBANK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bob_at_the_Bank.cpp) |
+| BNE_APT | Bone Appetit | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BNE_APT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bone_Appetit.cpp) |
+| BROKENPHONE | Broken Phone | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Broken_Phone.cpp) |
+| WATERFLOW | Bucket and Water Flow | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERFLOW) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bucket_and_Water_Flow.cpp) |
 | BUILDINGRACE | Building Race | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BUILDINGRACE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Building_Race.cpp) |
-| Bull_or_Bear | Bull or Bear | [View](https://www.codechef.com/problems/Bull_or_Bear) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bull_or_Bear.cpp) |
+| BULLBEAR | Bull or Bear | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BULLBEAR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bull_or_Bear.cpp) |
 | SEATNUMBER | Bus Seat Numbering | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bus_Seat_Numbering.cpp) |
 | CREDCOINS | CRED Coins | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/CRED_Coins.cpp) |
 | CANDYDIST | Candy Distribution | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CANDYDIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Candy_Distribution.cpp) |
-| Candy_Division | Candy Division | [View](https://www.codechef.com/problems/Candy_Division) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Candy_Division.cpp) |
+| CANDIVIDE | Candy Division | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CANDIVIDE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Candy_Division.cpp) |
 | CARCHOICE | Car Choice | [View](https://www.codechef.com/problems/CARCHOICE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_Choice.cpp) |
 | Car_Trip | Car Trip | [View](https://www.codechef.com/problems/Car_Trip) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_Trip.cpp) |
 | TRAVELFAST | Car or Bike | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_or_Bike.cpp) |
