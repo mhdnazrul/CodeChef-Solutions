@@ -9,18 +9,7 @@ using ll = long long;
 template<class T> void readV(vector<T>& v) { for(auto &x : v) cin >> x; }
 template<class T> void printV(const vector<T>& v) { for(auto x : v) cout << x << ' '; cout << '\n'; }
 
-void solve() {
-    int alice, bob, charlie;
-  cin >> alice >> bob >> charlie;
-  if (alice <= bob && charlie <= bob)
-  {
-    cout << "YES" << endl;
-  }
-  else
-  {
-    cout << "NO" << endl;
-  }
-}
+void solve() 
 
 int32_t main() {
     ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
