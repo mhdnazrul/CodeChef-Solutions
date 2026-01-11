@@ -49,6 +49,13 @@
     "filename": "Chef_and_Donation.cpp"
   },
   {
+    "id": "CUREX",
+    "name": "Currency Exchange",
+    "q_link": "https://www.codechef.com/problems/CUREX",
+    "sol_path": "Solutions/Currency_Exchange.cpp",
+    "filename": "Currency_Exchange.cpp"
+  },
+  {
     "id": "BATTERYLOW",
     "name": "Battery Low",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BATTERYLOW",
@@ -96,6 +103,13 @@
     "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF",
     "sol_path": "Solutions/The_Two_Dishes.cpp",
     "filename": "The_Two_Dishes.cpp"
+  },
+  {
+    "id": "DECDISC",
+    "name": "Decoration Discount",
+    "q_link": "https://www.codechef.com/problems/DECDISC",
+    "sol_path": "Solutions/Decoration_Discount.cpp",
+    "filename": "Decoration_Discount.cpp"
   },
   {
     "id": "IPL_Ticket_Rush",
@@ -392,13 +406,6 @@
     "filename": "Binary_Battles.cpp"
   },
   {
-    "id": "Decoration_Discount",
-    "name": "Decoration Discount",
-    "q_link": "https://www.codechef.com/problems/Decoration_Discount",
-    "sol_path": "Solutions/Decoration_Discount.cpp",
-    "filename": "Decoration_Discount.cpp"
-  },
-  {
     "id": "CARTRIP",
     "name": "Car Trip",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP",
@@ -546,9 +553,9 @@
     "filename": "Gem_Bundles.cpp"
   },
   {
-    "id": "Discount",
+    "id": "DISCNT",
     "name": "Discount",
-    "q_link": "https://www.codechef.com/problems/Discount",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT",
     "sol_path": "Solutions/Discount.cpp",
     "filename": "Discount.cpp"
   },
@@ -565,13 +572,6 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX",
     "sol_path": "Solutions/Air_Quality_Index.cpp",
     "filename": "Air_Quality_Index.cpp"
-  },
-  {
-    "id": "Currency_Exchange",
-    "name": "Currency Exchange",
-    "q_link": "https://www.codechef.com/problems/Currency_Exchange",
-    "sol_path": "Solutions/Currency_Exchange.cpp",
-    "filename": "Currency_Exchange.cpp"
   },
   {
     "id": "MOVIE2X",
@@ -938,13 +938,6 @@
     "filename": "Fever.cpp"
   },
   {
-    "id": "Determine_the_Score",
-    "name": "Determine the Score",
-    "q_link": "https://www.codechef.com/problems/Determine_the_Score",
-    "sol_path": "Solutions/Determine_the_Score.cpp",
-    "filename": "Determine_the_Score.cpp"
-  },
-  {
     "id": "Good_Investment_or_Not",
     "name": "Good Investment or Not",
     "q_link": "https://www.codechef.com/problems/Good_Investment_or_Not",
@@ -1083,6 +1076,13 @@
     "q_link": "https://www.codechef.com/problems/RCTGLD",
     "sol_path": "Solutions/Rectangled.cpp",
     "filename": "Rectangled.cpp"
+  },
+  {
+    "id": "DISCUS",
+    "name": "Discus Throw",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
+    "sol_path": "Solutions/Discus_Throw.cpp",
+    "filename": "Discus_Throw.cpp"
   },
   {
     "id": "Second_Max_of_Three_Numbers",
@@ -1244,6 +1244,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS",
     "sol_path": "Solutions/Minimum_number_of_coins.cpp",
     "filename": "Minimum_number_of_coins.cpp"
+  },
+  {
+    "id": "DETSCORE",
+    "name": "Determine the Score",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DETSCORE",
+    "sol_path": "Solutions/Determine_the_Score.cpp",
+    "filename": "Determine_the_Score.cpp"
   },
   {
     "id": "Qualify_the_round",
@@ -1447,13 +1454,6 @@
     "q_link": "https://www.codechef.com/problems/Final_Population",
     "sol_path": "Solutions/Final_Population.cpp",
     "filename": "Final_Population.cpp"
-  },
-  {
-    "id": "DISCUS",
-    "name": "Discus Throw",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
-    "sol_path": "Solutions/Discus_Throw.cpp",
-    "filename": "Discus_Throw.cpp"
   },
   {
     "id": "Ezio_and_Guards",
