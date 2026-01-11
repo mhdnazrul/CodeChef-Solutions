@@ -1,5 +1,12 @@
 [
   {
+    "id": "OFFICE",
+    "name": "Chef in his Office",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
+    "sol_path": "Solutions/Chef_in_his_Office.cpp",
+    "filename": "Chef_in_his_Office.cpp"
+  },
+  {
     "id": "NO4S",
     "name": "No 4 Please",
     "q_link": "https://www.codechef.com/START213C/problems/NO4S",
@@ -35,18 +42,18 @@
     "filename": "EXML_Race.cpp"
   },
   {
+    "id": "DNATION",
+    "name": "Chef and Donation",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DNATION",
+    "sol_path": "Solutions/Chef_and_Donation.cpp",
+    "filename": "Chef_and_Donation.cpp"
+  },
+  {
     "id": "Counting_Words",
     "name": "Counting Words",
     "q_link": "https://www.codechef.com/problems/Counting_Words",
     "sol_path": "Solutions/Counting_Words.cpp",
     "filename": "Counting_Words.cpp"
-  },
-  {
-    "id": "Chef_gives_Party",
-    "name": "Chef gives Party",
-    "q_link": "https://www.codechef.com/problems/Chef_gives_Party",
-    "sol_path": "Solutions/Chef_gives_Party.cpp",
-    "filename": "Chef_gives_Party.cpp"
   },
   {
     "id": "BATTERYLOW",
@@ -82,13 +89,6 @@
     "q_link": "https://www.codechef.com/problems/B_Swap_and_Delete",
     "sol_path": "Solutions/B_Swap_and_Delete.cpp",
     "filename": "B_Swap_and_Delete.cpp"
-  },
-  {
-    "id": "Chef_On_Date",
-    "name": "Chef On Date",
-    "q_link": "https://www.codechef.com/problems/Chef_On_Date",
-    "sol_path": "Solutions/Chef_On_Date.cpp",
-    "filename": "Chef_On_Date.cpp"
   },
   {
     "id": "CHEFVACATION",
@@ -301,13 +301,6 @@
     "filename": "Two_Dishes.cpp"
   },
   {
-    "id": "CHEFCAND",
-    "name": "Chef and Candies",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
-    "sol_path": "Solutions/Chef_and_Candies.cpp",
-    "filename": "Chef_and_Candies.cpp"
-  },
-  {
     "id": "Donation_Rewards",
     "name": "Donation Rewards",
     "q_link": "https://www.codechef.com/problems/Donation_Rewards",
@@ -392,13 +385,6 @@
     "filename": "Convert_String_to_Title_Case.cpp"
   },
   {
-    "id": "HELIUM3",
-    "name": "Chef and NextGen",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
-    "sol_path": "Solutions/Chef_and_NextGen.cpp",
-    "filename": "Chef_and_NextGen.cpp"
-  },
-  {
     "id": "FSQRT",
     "name": "Finding Square Roots",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT",
@@ -427,6 +413,13 @@
     "filename": "Decoration_Discount.cpp"
   },
   {
+    "id": "CARTRIP",
+    "name": "Car Trip",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP",
+    "sol_path": "Solutions/Car_Trip.cpp",
+    "filename": "Car_Trip.cpp"
+  },
+  {
     "id": "FCTRL2",
     "name": "Small factorials",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2",
@@ -446,13 +439,6 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH",
     "sol_path": "Solutions/Possible_Victory.cpp",
     "filename": "Possible_Victory.cpp"
-  },
-  {
-    "id": "Chef_and_Chocolates",
-    "name": "Chef and Chocolates",
-    "q_link": "https://www.codechef.com/problems/Chef_and_Chocolates",
-    "sol_path": "Solutions/Chef_and_Chocolates.cpp",
-    "filename": "Chef_and_Chocolates.cpp"
   },
   {
     "id": "FIZZBUZZ2303",
@@ -651,6 +637,13 @@
     "filename": "Practice_makes_us_perfect.cpp"
   },
   {
+    "id": "CMASKS",
+    "name": "Chef and Masks",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CMASKS",
+    "sol_path": "Solutions/Chef_and_Masks.cpp",
+    "filename": "Chef_and_Masks.cpp"
+  },
+  {
     "id": "Profit_Increment",
     "name": "Profit Increment",
     "q_link": "https://www.codechef.com/problems/Profit_Increment",
@@ -679,6 +672,13 @@
     "filename": "Profits.cpp"
   },
   {
+    "id": "HELIUM3",
+    "name": "Chef and NextGen",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
+    "sol_path": "Solutions/Chef_and_NextGen.cpp",
+    "filename": "Chef_and_NextGen.cpp"
+  },
+  {
     "id": "AUCTION",
     "name": "Bidding",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUCTION",
@@ -698,6 +698,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING",
     "sol_path": "Solutions/Water_Mixing.cpp",
     "filename": "Water_Mixing.cpp"
+  },
+  {
+    "id": "TRAVELFAST",
+    "name": "Car or Bike",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
+    "sol_path": "Solutions/Car_or_Bike.cpp",
+    "filename": "Car_or_Bike.cpp"
   },
   {
     "id": "Course_Registration",
@@ -805,6 +812,13 @@
     "filename": "Reach_fast.cpp"
   },
   {
+    "id": "CWIREFRAME",
+    "name": "Chef and Wire Frames",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWIREFRAME",
+    "sol_path": "Solutions/Chef_and_Wire_Frames.cpp",
+    "filename": "Chef_and_Wire_Frames.cpp"
+  },
+  {
     "id": "MYSERVE",
     "name": "It is My Serve",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MYSERVE",
@@ -845,6 +859,13 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BNE_APT",
     "sol_path": "Solutions/Bone_Appetit.cpp",
     "filename": "Bone_Appetit.cpp"
+  },
+  {
+    "id": "PARTY2",
+    "name": "Chef gives Party",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARTY2",
+    "sol_path": "Solutions/Chef_gives_Party.cpp",
+    "filename": "Chef_gives_Party.cpp"
   },
   {
     "id": "HAPPYSTR",
@@ -938,13 +959,6 @@
     "filename": "Parity.cpp"
   },
   {
-    "id": "Chef_and_Chapters",
-    "name": "Chef and Chapters",
-    "q_link": "https://www.codechef.com/problems/Chef_and_Chapters",
-    "sol_path": "Solutions/Chef_and_Chapters.cpp",
-    "filename": "Chef_and_Chapters.cpp"
-  },
-  {
     "id": "Fever",
     "name": "Fever",
     "q_link": "https://www.codechef.com/problems/Fever",
@@ -978,6 +992,13 @@
     "q_link": "https://www.codechef.com/problems/Mahasena",
     "sol_path": "Solutions/Mahasena.cpp",
     "filename": "Mahasena.cpp"
+  },
+  {
+    "id": "CHEFCHOCO",
+    "name": "Chef and Chocolates",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEFCHOCO",
+    "sol_path": "Solutions/Chef_and_Chocolates.cpp",
+    "filename": "Chef_and_Chocolates.cpp"
   },
   {
     "id": "PRB01",
@@ -1085,13 +1106,6 @@
     "filename": "Rectangled.cpp"
   },
   {
-    "id": "Chef_and_Wire_Frames",
-    "name": "Chef and Wire Frames",
-    "q_link": "https://www.codechef.com/problems/Chef_and_Wire_Frames",
-    "sol_path": "Solutions/Chef_and_Wire_Frames.cpp",
-    "filename": "Chef_and_Wire_Frames.cpp"
-  },
-  {
     "id": "Second_Max_of_Three_Numbers",
     "name": "Second Max of Three Numbers",
     "q_link": "https://www.codechef.com/problems/Second_Max_of_Three_Numbers",
@@ -1141,6 +1155,13 @@
     "filename": "Speciality.cpp"
   },
   {
+    "id": "SEMCOURSES",
+    "name": "Chef and Chapters",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SEMCOURSES",
+    "sol_path": "Solutions/Chef_and_Chapters.cpp",
+    "filename": "Chef_and_Chapters.cpp"
+  },
+  {
     "id": "PASSORFAIL",
     "name": "Pass or Fail",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PASSORFAIL",
@@ -1155,11 +1176,25 @@
     "filename": "Multivitamin_Tablets.cpp"
   },
   {
+    "id": "CHEFCAND",
+    "name": "Chef and Candies",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND",
+    "sol_path": "Solutions/Chef_and_Candies.cpp",
+    "filename": "Chef_and_Candies.cpp"
+  },
+  {
     "id": "Find_Remainder",
     "name": "Find Remainder",
     "q_link": "https://www.codechef.com/problems/Find_Remainder",
     "sol_path": "Solutions/Find_Remainder.cpp",
     "filename": "Find_Remainder.cpp"
+  },
+  {
+    "id": "CGYM",
+    "name": "Chef and Gym",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CGYM",
+    "sol_path": "Solutions/Chef_and_Gym.cpp",
+    "filename": "Chef_and_Gym.cpp"
   },
   {
     "id": "Valid_Stack_Operations",
@@ -1246,13 +1281,6 @@
     "filename": "Chef_and_Races.cpp"
   },
   {
-    "id": "Chairs_Requirement",
-    "name": "Chairs Requirement",
-    "q_link": "https://www.codechef.com/problems/Chairs_Requirement",
-    "sol_path": "Solutions/Chairs_Requirement.cpp",
-    "filename": "Chairs_Requirement.cpp"
-  },
-  {
     "id": "Insurance",
     "name": "Insurance",
     "q_link": "https://www.codechef.com/problems/Insurance",
@@ -1293,13 +1321,6 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST",
     "sol_path": "Solutions/ATM.cpp",
     "filename": "ATM.cpp"
-  },
-  {
-    "id": "Chef_and_Masks",
-    "name": "Chef and Masks",
-    "q_link": "https://www.codechef.com/problems/Chef_and_Masks",
-    "sol_path": "Solutions/Chef_and_Masks.cpp",
-    "filename": "Chef_and_Masks.cpp"
   },
   {
     "id": "CANDYDIST",
@@ -1370,6 +1391,13 @@
     "q_link": "https://www.codechef.com/problems/Lucky_Seven",
     "sol_path": "Solutions/Lucky_Seven.cpp",
     "filename": "Lucky_Seven.cpp"
+  },
+  {
+    "id": "CHAIRS_",
+    "name": "Chairs Requirement",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHAIRS_",
+    "sol_path": "Solutions/Chairs_Requirement.cpp",
+    "filename": "Chairs_Requirement.cpp"
   },
   {
     "id": "XMASTREE",
@@ -1540,25 +1568,11 @@
     "filename": "Flip_the_cards.cpp"
   },
   {
-    "id": "Car_Trip",
-    "name": "Car Trip",
-    "q_link": "https://www.codechef.com/problems/Car_Trip",
-    "sol_path": "Solutions/Car_Trip.cpp",
-    "filename": "Car_Trip.cpp"
-  },
-  {
     "id": "Greater_Average",
     "name": "Greater Average",
     "q_link": "https://www.codechef.com/problems/Greater_Average",
     "sol_path": "Solutions/Greater_Average.cpp",
     "filename": "Greater_Average.cpp"
-  },
-  {
-    "id": "Chef_and_Donation",
-    "name": "Chef and Donation",
-    "q_link": "https://www.codechef.com/problems/Chef_and_Donation",
-    "sol_path": "Solutions/Chef_and_Donation.cpp",
-    "filename": "Chef_and_Donation.cpp"
   },
   {
     "id": "Off_By_One",
@@ -1594,13 +1608,6 @@
     "q_link": "https://www.codechef.com/problems/Puzzle_Hunt",
     "sol_path": "Solutions/Puzzle_Hunt.cpp",
     "filename": "Puzzle_Hunt.cpp"
-  },
-  {
-    "id": "TRAVELFAST",
-    "name": "Car or Bike",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
-    "sol_path": "Solutions/Car_or_Bike.cpp",
-    "filename": "Car_or_Bike.cpp"
   },
   {
     "id": "Parliament",
@@ -1657,13 +1664,6 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE",
     "sol_path": "Solutions/Broken_Phone.cpp",
     "filename": "Broken_Phone.cpp"
-  },
-  {
-    "id": "Chef_and_Gym",
-    "name": "Chef and Gym",
-    "q_link": "https://www.codechef.com/problems/Chef_and_Gym",
-    "sol_path": "Solutions/Chef_and_Gym.cpp",
-    "filename": "Chef_and_Gym.cpp"
   },
   {
     "id": "Is_it_hot_or_cold",
@@ -1778,18 +1778,18 @@
     "filename": "Chessboard_Distance.cpp"
   },
   {
-    "id": "OFFICE",
-    "name": "Chef in his Office",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
-    "sol_path": "Solutions/Chef_in_his_Office.cpp",
-    "filename": "Chef_in_his_Office.cpp"
-  },
-  {
     "id": "Problems_in_your_to_do_list",
     "name": "Problems in your to do list",
     "q_link": "https://www.codechef.com/problems/Problems_in_your_to_do_list",
     "sol_path": "Solutions/Problems_in_your_to_do_list.cpp",
     "filename": "Problems_in_your_to_do_list.cpp"
+  },
+  {
+    "id": "CHEFONDATE",
+    "name": "Chef On Date",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEFONDATE",
+    "sol_path": "Solutions/Chef_On_Date.cpp",
+    "filename": "Chef_On_Date.cpp"
   },
   {
     "id": "Monopoly",
