@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-263-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-265-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 263
+**Total Problems Solved:** 265
 
 ---
 
@@ -27,6 +27,7 @@
 | 2000 | 2000 | [View](https://www.codechef.com/problems/2000) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/2000.cpp) |
 | 404_Not_Found | 404 Not Found | [View](https://www.codechef.com/problems/404_Not_Found) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
 | A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat | A Arpa s hard exam and Mehrdad s naive cheat | [View](https://www.codechef.com/problems/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp) |
+| A_Rating_Increase | A Rating Increase | [View](https://www.codechef.com/problems/A_Rating_Increase) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_Rating_Increase.cpp) |
 | AORB | A or B | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_or_B.cpp) |
 | ATM | ATM | [View](https://www.codechef.com/problems/ATM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
 | ADDONE | Add One | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Add_One.cpp) |
@@ -35,6 +36,7 @@
 | Air_Quality_Index | Air Quality Index | [View](https://www.codechef.com/problems/Air_Quality_Index) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Quality_Index.cpp) |
 | SPCP2 | Airlines | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Airlines.cpp) |
 | Audible_Range | Audible Range | [View](https://www.codechef.com/problems/Audible_Range) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Audible_Range.cpp) |
+| B_Swap_and_Delete | B Swap and Delete | [View](https://www.codechef.com/problems/B_Swap_and_Delete) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/B_Swap_and_Delete.cpp) |
 | BMCV201 | Basic math Addition and multiplication | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Basic_math_Addition_and_multiplication.cpp) |
 | BATH | Bath in Winters | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Bath_in_Winters.cpp) |
 | Battery_Health | Battery Health | [View](https://www.codechef.com/problems/Battery_Health) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Battery_Health.cpp) |

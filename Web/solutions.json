@@ -77,6 +77,13 @@
     "filename": "Valentine_is_Coming.cpp"
   },
   {
+    "id": "B_Swap_and_Delete",
+    "name": "B Swap and Delete",
+    "q_link": "https://www.codechef.com/problems/B_Swap_and_Delete",
+    "sol_path": "Solutions/B_Swap_and_Delete.cpp",
+    "filename": "B_Swap_and_Delete.cpp"
+  },
+  {
     "id": "Chef_On_Date",
     "name": "Chef On Date",
     "q_link": "https://www.codechef.com/problems/Chef_On_Date",
@@ -1776,6 +1783,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
     "sol_path": "Solutions/Chef_in_his_Office.cpp",
     "filename": "Chef_in_his_Office.cpp"
+  },
+  {
+    "id": "A_Rating_Increase",
+    "name": "A Rating Increase",
+    "q_link": "https://www.codechef.com/problems/A_Rating_Increase",
+    "sol_path": "Solutions/A_Rating_Increase.cpp",
+    "filename": "A_Rating_Increase.cpp"
   },
   {
     "id": "Problems_in_your_to_do_list",
