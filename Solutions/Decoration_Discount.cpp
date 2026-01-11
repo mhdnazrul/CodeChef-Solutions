@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT
+  │Problem Link: https://www.codechef.com/problems/DECDISC
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,10 +20,35 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-  int n;
-  cin >> n;
-  cout << 100 - n << endl;
+ int n;
+ cin >> n;
+ vi a(n);
+ for (int i = 0; i < n; ++i)
+  cin >> a[i];
+
+ int min_val = INT_MAX;
+ for (int i = 0; i < n; ++i)
+ {
+  for (int j = 0; j < n; ++j)
+  {
+   if (i == j)
+    continue;
+   int cost;
+   if (j == i + 1)
+   {
+    cost = a[i] + a[j] / 2;
+   }
+   else
+   {
+    cost = a[i] + a[j];
+   }
+   min_val = min(min_val, cost);
+  }
+ }
+
+ cout << min_val << endl;
 }
+
 int32_t main(){
     fastio();      int T=1; 
     if(!(cin>>T))  return 0;

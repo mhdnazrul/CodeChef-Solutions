@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT
+  │Problem Link: https://www.codechef.com/problems/CUREX?utm_source=youtube&utm_medium=video&utm_campaign=contest_solutions_2025&utm_content=starter_198
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,9 +20,17 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-  int n;
-  cin >> n;
-  cout << 100 - n << endl;
+ ll A1, B1, A2, B2;
+ cin >> A1 >> B1 >> A2 >> B2;
+
+ ll frt = 5 * A1 + B1;
+ ll scnd = 5 * A2 + B2;
+
+ if (frt >= scnd && (frt - scnd) % 6 == 0)
+  cout << "Yes\n";
+
+ else
+ cout << "No\n";
 }
 int32_t main(){
     fastio();      int T=1; 

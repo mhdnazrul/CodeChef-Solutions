@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT
+  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,9 +20,8 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-  int n;
-  cin >> n;
-  cout << 100 - n << endl;
+    int a,b,c;cin>>a>>b>>c;
+    cout<<max(a,max(b,c))<<endl;
 }
 int32_t main(){
     fastio();      int T=1; 
