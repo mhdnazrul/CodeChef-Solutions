@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-267-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-269-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 267
+**Total Problems Solved:** 269
 
 ---
 
@@ -200,6 +200,7 @@
 | NOTECNT | Notebook Counting | [View](https://www.codechef.com/START210D/problems/NOTECNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Notebook_Counting.cpp) |
 | Number_Mirror | Number Mirror | [View](https://www.codechef.com/problems/Number_Mirror) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Number_Mirror.cpp) |
 | October_Marathon | October Marathon | [View](https://www.codechef.com/problems/October_Marathon) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/October_Marathon.cpp) |
+| LMP2 | Odd String | [View](https://www.codechef.com/START221C/problems/LMP2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Odd_String.cpp) |
 | Off_By_One | Off By One | [View](https://www.codechef.com/problems/Off_By_One) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Off_By_One.cpp) |
 | Overspeeding_Fine | Overspeeding Fine | [View](https://www.codechef.com/problems/Overspeeding_Fine) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Overspeeding_Fine.cpp) |
 | Parity | Parity | [View](https://www.codechef.com/problems/Parity) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Parity.cpp) |
@@ -288,6 +289,7 @@
 | WEIGHTBL | Weight Balance | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/WEIGHTBL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weight_Balance.cpp) |
 | WGHTS | Weights | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weights.cpp) |
 | Who_is_taller | Who is taller | [View](https://www.codechef.com/problems/Who_is_taller) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Who_is_taller.cpp) |
+| LMP2E | Winter is Coming | [View](https://www.codechef.com/START221C/problems/LMP2E) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Winter_is_Coming.cpp) |
 | WORDLE | Wordle | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Wordle.cpp) |
 | WCC | World Chess Championship | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WCC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/World_Chess_Championship.cpp) |
 | XJUMP | X Jumps | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/XJUMP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/X_Jumps.cpp) |

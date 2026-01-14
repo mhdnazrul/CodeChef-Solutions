@@ -196,6 +196,13 @@
     "filename": "Reach_Home.cpp"
   },
   {
+    "id": "LMP2E",
+    "name": "Winter is Coming",
+    "q_link": "https://www.codechef.com/START221C/problems/LMP2E",
+    "sol_path": "Solutions/Winter_is_Coming.cpp",
+    "filename": "Winter_is_Coming.cpp"
+  },
+  {
     "id": "DECINC",
     "name": "Decrement OR Increment",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DECINC",
@@ -1503,6 +1510,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS",
     "sol_path": "Solutions/The_Last_Levels.cpp",
     "filename": "The_Last_Levels.cpp"
+  },
+  {
+    "id": "LMP2",
+    "name": "Odd String",
+    "q_link": "https://www.codechef.com/START221C/problems/LMP2",
+    "sol_path": "Solutions/Odd_String.cpp",
+    "filename": "Odd_String.cpp"
   },
   {
     "id": "ENTERTAIN",
