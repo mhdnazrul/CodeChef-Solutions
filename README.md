@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-263-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-267-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 263
+**Total Problems Solved:** 267
 
 ---
 
@@ -116,6 +116,7 @@
 | DIFFCONSEC | Different Consecutive Characters | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/DIFFCONSEC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Different_Consecutive_Characters.cpp) |
 | DISCNT | Discount | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Discount.cpp) |
 | DISCUS | Discus Throw | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Discus_Throw.cpp) |
+| MANYSUMS | Distinct Pair Sums | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MANYSUMS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Distinct_Pair_Sums.cpp) |
 | DOMINANT | Dominant Army | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOMINANT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Dominant_Army.cpp) |
 | DONDRIVE | Donation Drive | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DONDRIVE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Donation_Drive.cpp) |
 | DOREWARD | Donation Rewards | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOREWARD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Donation_Rewards.cpp) |
@@ -177,6 +178,7 @@
 | BULLET | Mario and Bullet | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mario_and_Bullet.cpp) |
 | Masterchef_finals | Masterchef finals | [View](https://www.codechef.com/problems/Masterchef_finals) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Masterchef_finals.cpp) |
 | MAXTASTE | Maximise the Tastiness | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximise_the_Tastiness.cpp) |
+| MXEVNSUB | Maximum Length Even Subarray | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MXEVNSUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximum_Length_Even_Subarray.cpp) |
 | Maximum_Submissions | Maximum Submissions | [View](https://www.codechef.com/problems/Maximum_Submissions) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximum_Submissions.cpp) |
 | Messi_vs_Ronaldo | Messi vs Ronaldo | [View](https://www.codechef.com/problems/Messi_vs_Ronaldo) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Messi_vs_Ronaldo.cpp) |
 | Miami_GP | Miami GP | [View](https://www.codechef.com/problems/Miami_GP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Miami_GP.cpp) |
@@ -264,12 +266,14 @@
 | The_Three_Topics | The Three Topics | [View](https://www.codechef.com/problems/The_Three_Topics) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Three_Topics.cpp) |
 | MAX_DIFF | The Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Two_Dishes.cpp) |
 | Time_Complexity | Time Complexity | [View](https://www.codechef.com/problems/Time_Complexity) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Time_Complexity.cpp) |
+| TANDJ1 | Tom And Jerry 1 | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_And_Jerry_1.cpp) |
 | Tom_and_Jerry_Chase | Tom and Jerry Chase | [View](https://www.codechef.com/problems/Tom_and_Jerry_Chase) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_and_Jerry_Chase.cpp) |
 | FLOORS | Too many Floors | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_Floors.cpp) |
 | POLYBAGS | Too many items | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_items.cpp) |
 | Total_Prize_Money | Total Prize Money | [View](https://www.codechef.com/problems/Total_Prize_Money) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Total_Prize_Money.cpp) |
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
 | True_and_False_Paper | True and False Paper | [View](https://www.codechef.com/problems/True_and_False_Paper) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |
+| NFS | Turn It | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/NFS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Turn_It.cpp) |
 | TWODISH | Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Dishes.cpp) |
 | TWOPLG | Two Pile Game | [View](https://www.codechef.com/START220D/problems/TWOPLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Pile_Game.cpp) |
 | Tyre_problem | Tyre problem | [View](https://www.codechef.com/problems/Tyre_problem) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tyre_problem.cpp) |

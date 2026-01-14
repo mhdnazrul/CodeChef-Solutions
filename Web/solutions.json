@@ -322,6 +322,13 @@
     "filename": "Count_the_Notebooks.cpp"
   },
   {
+    "id": "MANYSUMS",
+    "name": "Distinct Pair Sums",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MANYSUMS",
+    "sol_path": "Solutions/Distinct_Pair_Sums.cpp",
+    "filename": "Distinct_Pair_Sums.cpp"
+  },
+  {
     "id": "Masterchef_finals",
     "name": "Masterchef finals",
     "q_link": "https://www.codechef.com/problems/Masterchef_finals",
@@ -383,6 +390,13 @@
     "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE",
     "sol_path": "Solutions/Convert_String_to_Title_Case.cpp",
     "filename": "Convert_String_to_Title_Case.cpp"
+  },
+  {
+    "id": "NFS",
+    "name": "Turn It",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/NFS",
+    "sol_path": "Solutions/Turn_It.cpp",
+    "filename": "Turn_It.cpp"
   },
   {
     "id": "FSQRT",
@@ -742,6 +756,13 @@
     "filename": "Maximise_the_Tastiness.cpp"
   },
   {
+    "id": "TANDJ1",
+    "name": "Tom And Jerry 1",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1",
+    "sol_path": "Solutions/Tom_And_Jerry_1.cpp",
+    "filename": "Tom_And_Jerry_1.cpp"
+  },
+  {
     "id": "NOTECNT",
     "name": "Notebook Counting",
     "q_link": "https://www.codechef.com/START210D/problems/NOTECNT",
@@ -1041,6 +1062,13 @@
     "q_link": "https://www.codechef.com/problems/Who_is_taller",
     "sol_path": "Solutions/Who_is_taller.cpp",
     "filename": "Who_is_taller.cpp"
+  },
+  {
+    "id": "MXEVNSUB",
+    "name": "Maximum Length Even Subarray",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MXEVNSUB",
+    "sol_path": "Solutions/Maximum_Length_Even_Subarray.cpp",
+    "filename": "Maximum_Length_Even_Subarray.cpp"
   },
   {
     "id": "October_Marathon",
