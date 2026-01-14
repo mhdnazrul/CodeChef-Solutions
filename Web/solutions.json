@@ -168,6 +168,13 @@
     "filename": "Practice_problem_Fitness.cpp"
   },
   {
+    "id": "LMP1",
+    "name": "Protein Diet",
+    "q_link": "https://www.codechef.com/START221C/problems/LMP1",
+    "sol_path": "Solutions/Protein_Diet.cpp",
+    "filename": "Protein_Diet.cpp"
+  },
+  {
     "id": "BIRYANI",
     "name": "Biryani classes",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BIRYANI",

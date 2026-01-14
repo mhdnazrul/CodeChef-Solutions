@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-269-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-270-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 269
+**Total Problems Solved:** 270
 
 ---
 
@@ -218,6 +218,7 @@
 | Problems_in_your_to_do_list | Problems in your to do list | [View](https://www.codechef.com/problems/Problems_in_your_to_do_list) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problems_in_your_to_do_list.cpp) |
 | Profit_Increment | Profit Increment | [View](https://www.codechef.com/problems/Profit_Increment) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profit_Increment.cpp) |
 | PROFIT | Profits | [View](https://www.codechef.com/START210C/problems/PROFIT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profits.cpp) |
+| LMP1 | Protein Diet | [View](https://www.codechef.com/START221C/problems/LMP1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Protein_Diet.cpp) |
 | Puzzle_Hunt | Puzzle Hunt | [View](https://www.codechef.com/problems/Puzzle_Hunt) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Puzzle_Hunt.cpp) |
 | Qualify_the_round | Qualify the round | [View](https://www.codechef.com/problems/Qualify_the_round) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Qualify_the_round.cpp) |
 | Rain_in_Chefland | Rain in Chefland | [View](https://www.codechef.com/problems/Rain_in_Chefland) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rain_in_Chefland.cpp) |
