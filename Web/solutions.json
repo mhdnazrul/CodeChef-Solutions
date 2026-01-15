@@ -56,6 +56,13 @@
     "filename": "Chef_and_Spells.cpp"
   },
   {
+    "id": "QUALIFY",
+    "name": "Qualify the round",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/QUALIFY",
+    "sol_path": "Solutions/Qualify_the_round.cpp",
+    "filename": "Qualify_the_round.cpp"
+  },
+  {
     "id": "VALENTINE",
     "name": "Valentine is Coming",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE",
@@ -147,6 +154,13 @@
     "filename": "Double_Rent.cpp"
   },
   {
+    "id": "PUZHUNT",
+    "name": "Puzzle Hunt",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PUZHUNT",
+    "sol_path": "Solutions/Puzzle_Hunt.cpp",
+    "filename": "Puzzle_Hunt.cpp"
+  },
+  {
     "id": "LMP2E",
     "name": "Winter is Coming",
     "q_link": "https://www.codechef.com/START221C/problems/LMP2E",
@@ -201,6 +215,13 @@
     "q_link": "https://www.codechef.com/practice/course/company-prep/PJA11/problems/JADEBUG11",
     "sol_path": "Solutions/Get_Subscription.cpp",
     "filename": "Get_Subscription.cpp"
+  },
+  {
+    "id": "RAINFALL1",
+    "name": "Rain in Chefland",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RAINFALL1",
+    "sol_path": "Solutions/Rain_in_Chefland.cpp",
+    "filename": "Rain_in_Chefland.cpp"
   },
   {
     "id": "BMCV201",
@@ -546,6 +567,13 @@
     "filename": "Chef_and_Masks.cpp"
   },
   {
+    "id": "PRACTICEPERF",
+    "name": "Practice makes us perfect",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACTICEPERF",
+    "sol_path": "Solutions/Practice_makes_us_perfect.cpp",
+    "filename": "Practice_makes_us_perfect.cpp"
+  },
+  {
     "id": "BOBBANK",
     "name": "Bob at the Bank",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BOBBANK",
@@ -812,11 +840,32 @@
     "filename": "Coloured_Balloons.cpp"
   },
   {
+    "id": "FINE",
+    "name": "Overspeeding Fine",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FINE",
+    "sol_path": "Solutions/Overspeeding_Fine.cpp",
+    "filename": "Overspeeding_Fine.cpp"
+  },
+  {
     "id": "ONEMORE",
     "name": "Just One More Episode",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ONEMORE",
     "sol_path": "Solutions/Just_One_More_Episode.cpp",
     "filename": "Just_One_More_Episode.cpp"
+  },
+  {
+    "id": "PAR2",
+    "name": "Parity",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PAR2",
+    "sol_path": "Solutions/Parity.cpp",
+    "filename": "Parity.cpp"
+  },
+  {
+    "id": "OFFBY1",
+    "name": "Off By One",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OFFBY1",
+    "sol_path": "Solutions/Off_By_One.cpp",
+    "filename": "Off_By_One.cpp"
   },
   {
     "id": "FEVER",
@@ -889,6 +938,13 @@
     "filename": "Couple_Game.cpp"
   },
   {
+    "id": "OCTATHON",
+    "name": "October Marathon",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OCTATHON",
+    "sol_path": "Solutions/October_Marathon.cpp",
+    "filename": "October_Marathon.cpp"
+  },
+  {
     "id": "NUGGET",
     "name": "Moneymaking",
     "q_link": "https://www.codechef.com/problems/NUGGET",
@@ -929,6 +985,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
     "sol_path": "Solutions/Discus_Throw.cpp",
     "filename": "Discus_Throw.cpp"
+  },
+  {
+    "id": "ASSIGNMNT",
+    "name": "Pending Assignments",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ASSIGNMNT",
+    "sol_path": "Solutions/Pending_Assignments.cpp",
+    "filename": "Pending_Assignments.cpp"
   },
   {
     "id": "KTTABLE",
@@ -1120,6 +1183,13 @@
     "filename": "Best_of_Two.cpp"
   },
   {
+    "id": "FAIRPASS",
+    "name": "Passes for Fair",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FAIRPASS",
+    "sol_path": "Solutions/Passes_for_Fair.cpp",
+    "filename": "Passes_for_Fair.cpp"
+  },
+  {
     "id": "DISCOUNTT",
     "name": "Take discount or Not",
     "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT",
@@ -1181,6 +1251,13 @@
     "q_link": "https://www.codechef.com/problems/RECENTCONT",
     "sol_path": "Solutions/Recent_contest_problems.cpp",
     "filename": "Recent_contest_problems.cpp"
+  },
+  {
+    "id": "START01",
+    "name": "Number Mirror",
+    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP01/problems/START01",
+    "sol_path": "Solutions/Number_Mirror.cpp",
+    "filename": "Number_Mirror.cpp"
   },
   {
     "id": "JASSIGNMENTS",
@@ -1309,11 +1386,25 @@
     "filename": "Donation_Rewards.cpp"
   },
   {
+    "id": "PARLIAMENT",
+    "name": "Parliament",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARLIAMENT",
+    "sol_path": "Solutions/Parliament.cpp",
+    "filename": "Parliament.cpp"
+  },
+  {
     "id": "OPMIN",
     "name": "MIN To MAX",
     "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN",
     "sol_path": "Solutions/MIN_To_MAX.cpp",
     "filename": "MIN_To_MAX.cpp"
+  },
+  {
+    "id": "SONGS",
+    "name": "Playlist",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SONGS",
+    "sol_path": "Solutions/Playlist.cpp",
+    "filename": "Playlist.cpp"
   },
   {
     "id": "FILLCANDIES",
@@ -1386,6 +1477,13 @@
     "filename": "Chefland_Games.cpp"
   },
   {
+    "id": "TODOLIST",
+    "name": "Problems in your to do list",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST",
+    "sol_path": "Solutions/Problems_in_your_to_do_list.cpp",
+    "filename": "Problems_in_your_to_do_list.cpp"
+  },
+  {
     "id": "SELFDEF",
     "name": "Self Defence Training",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF",
@@ -1426,6 +1524,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHESSDIST",
     "sol_path": "Solutions/Chessboard_Distance.cpp",
     "filename": "Chessboard_Distance.cpp"
+  },
+  {
+    "id": "PROINC",
+    "name": "Profit Increment",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PROINC",
+    "sol_path": "Solutions/Profit_Increment.cpp",
+    "filename": "Profit_Increment.cpp"
   },
   {
     "id": "MANAPTS",

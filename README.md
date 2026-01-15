@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-218-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-233-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 218
+**Total Problems Solved:** 233
 
 ---
 
@@ -197,15 +197,30 @@
 | NETFLIX | Netflix | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/NETFLIX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Netflix.cpp) |
 | NO4S | No 4 Please | [View](https://www.codechef.com/START213C/problems/NO4S) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/No_4_Please.cpp) |
 | NOTECNT | Notebook Counting | [View](https://www.codechef.com/START210D/problems/NOTECNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Notebook_Counting.cpp) |
+| START01 | Number Mirror | [View](https://www.codechef.com/practice/course/cpp/PCPP01/problems/START01) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Number_Mirror.cpp) |
+| OCTATHON | October Marathon | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OCTATHON) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/October_Marathon.cpp) |
 | LMP2 | Odd String | [View](https://www.codechef.com/START221C/problems/LMP2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Odd_String.cpp) |
+| OFFBY1 | Off By One | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OFFBY1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Off_By_One.cpp) |
+| FINE | Overspeeding Fine | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FINE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Overspeeding_Fine.cpp) |
+| PAR2 | Parity | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PAR2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Parity.cpp) |
+| PARLIAMENT | Parliament | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARLIAMENT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Parliament.cpp) |
 | PASSORFAIL | Pass or Fail | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PASSORFAIL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Pass_or_Fail.cpp) |
+| FAIRPASS | Passes for Fair | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FAIRPASS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Passes_for_Fair.cpp) |
+| ASSIGNMNT | Pending Assignments | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ASSIGNMNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Pending_Assignments.cpp) |
+| SONGS | Playlist | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SONGS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Playlist.cpp) |
 | POLTHIEF | Police and Thief | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Police_and_Thief.cpp) |
 | T20MCH | Possible Victory | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Possible_Victory.cpp) |
+| PRACTICEPERF | Practice makes us perfect | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACTICEPERF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_makes_us_perfect.cpp) |
 | BMCV206 | Practice problem Fitness | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_problem_Fitness.cpp) |
 | PRB01 | Primality Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Primality_Test.cpp) |
 | PROBCAT | Problem Category | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/PROBCAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problem_Category.cpp) |
+| TODOLIST | Problems in your to do list | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Problems_in_your_to_do_list.cpp) |
+| PROINC | Profit Increment | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PROINC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profit_Increment.cpp) |
 | PROFIT | Profits | [View](https://www.codechef.com/START210C/problems/PROFIT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Profits.cpp) |
 | LMP1 | Protein Diet | [View](https://www.codechef.com/START221C/problems/LMP1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Protein_Diet.cpp) |
+| PUZHUNT | Puzzle Hunt | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PUZHUNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Puzzle_Hunt.cpp) |
+| QUALIFY | Qualify the round | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/QUALIFY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Qualify_the_round.cpp) |
+| RAINFALL1 | Rain in Chefland | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RAINFALL1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rain_in_Chefland.cpp) |
 | REACHFAST | Reach fast | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/REACHFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_fast.cpp) |
 | RECENTCONT | Recent contest problems | [View](https://www.codechef.com/problems/RECENTCONT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Recent_contest_problems.cpp) |
 | RCTGLD | Rectangled | [View](https://www.codechef.com/problems/RCTGLD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rectangled.cpp) |
