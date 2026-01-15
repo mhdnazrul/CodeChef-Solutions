@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/REACH-THE-TARGET
+  │Problem Link:
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <iostream>

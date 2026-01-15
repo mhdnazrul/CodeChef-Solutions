@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/OCTOBER MARATHON
+  │Problem Link:
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <iostream>

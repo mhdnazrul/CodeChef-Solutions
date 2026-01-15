@@ -1,31 +1,44 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/MANA POINTS
+  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <iostream>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
-#define FAST_IO ios::sync_with_stdio(false); cin.tie(nullptr);
+#define FAST_IO                \
+  ios::sync_with_stdio(false); \
+  cin.tie(nullptr);
 using ll = long long;
 using vi = vector<int>;
 using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
-void solve() {
-  int attacks,mana_point;
-  cin >> attacks >> mana_point;
-  cout << mana_point / attacks << endl;
+void solve(int n)
+{
+  int even_cnt = 0, odd_cnt = 0;
+  for (int i = 0; i < n; ++i)
+  {
+    int tp;
+    cin >> tp;
+    if (tp % 2 == 0)
+      even_cnt++;
+    if (tp % 2 != 0)
+      odd_cnt++;
+  }
+  if (even_cnt > odd_cnt)
+  {
+    cout << "READY FOR BATTLE" << endl;
+    return;
+  }
+  cout << "NOT READY" << endl;
 }
 
-int main() {
+int main()
+{
   FAST_IO;
-  int T; cin >> T;
-  for (int i = 1; i <= T; ++i) {
-    // cout << "Case " << i << ": ";
-    solve();
-  }
+  int T;
+  cin >> T; // while(T--)
+  solve(T);
   return 0;
 }

@@ -1,10 +1,12 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/JANMANSH AND ASSIGNMENTS
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include<vector>
+#include<string>
 using namespace std;
 #define FAST_IO ios::sync_with_stdio(false); cin.tie(nullptr);
 using ll = long long;
@@ -13,14 +15,13 @@ using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
 void solve() {
-  int time;
-  cin >> time;
-  cout << (time + 3 <= 10 ? "YES" : "NO") << endl;
+  string str;
+  cin >> str;
+  cout << str[6] << endl;
 }
 
 int main() {
-  FAST_IO;
-  int T; cin >> T;while(T--)
-    solve();
-  return 0;
+FAST_IO;
+solve();
+return 0;
 }

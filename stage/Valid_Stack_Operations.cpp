@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/VALID_STACK_OPERATIONS
+  │Problem Link:
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 // https://vjudge.net/contest/756123#problem/A

@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/LUNCHTIME
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <iostream>
@@ -18,20 +18,17 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int time;
-  cin >> time;
-  cout << (time <= 4 ? "YES" : "NO") << endl;
+  int x, n;
+  cin >> x >> n;
+  cout << n - x << endl;
 }
 
 int main()
 {
   FAST_IO;
-  int T;
-  cin >> T;
-  for (int i = 1; i <= T; ++i)
-  {
-    // cout << "Case " << i << ": ";
+  int t;
+  cin >> t;
+  while (t--)
     solve();
-  }
   return 0;
 }

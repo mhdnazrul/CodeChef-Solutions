@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link: https://www.codechef.com/problems/IS THE SCORE CONSISTENT
+  │Problem Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -13,13 +13,9 @@ using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
 void solve() {
-  int a, b, c, d;
-  cin >> a >> b >> c >> d;
-  if(a<=c&&b<=d){
-    cout<<"POSSIBLE"<<endl;
-    return;
-  }
-  cout<<"IMPOSSIBLE"<<endl;
+  int time;
+  cin >> time;
+  cout << (time + 3 <= 10 ? "YES" : "NO") << endl;
 }
 
 int main() {
