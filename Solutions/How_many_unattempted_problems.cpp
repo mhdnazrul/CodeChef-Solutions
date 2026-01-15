@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSURANCE
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACLIST
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -22,12 +22,11 @@ template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++)
 void run_case(){
   int a, b;
   cin >> a >> b;
-  cout << min(a, b) << endl;
+  cout << a - b << endl;
 }
-
 int32_t main(){
     fastio();      int T=1; 
-    if(!(cin>>T))  return 0;
+    //if(!(cin>>T))  return 0;
     while(T--)     run_case();
     return 0;
 }
