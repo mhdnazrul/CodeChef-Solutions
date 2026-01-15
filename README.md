@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-204-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-218-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 204
+**Total Problems Solved:** 218
 
 ---
 
@@ -168,19 +168,33 @@
 | KITCHENTIME | Kitchen Timings | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timings.cpp) |
 | LUCKYSEVEN | Lucky Seven | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lucky_Seven.cpp) |
 | LTIME | Lunchtime | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lunchtime.cpp) |
+| M1ENROL | MATH1 Enrolment | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/M1ENROL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MATH1_Enrolment.cpp) |
 | OPMIN | MIN To MAX | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MIN_To_MAX.cpp) |
 | AMR15A | Mahasena | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mahasena.cpp) |
 | INCAT | Make Cat | [View](https://www.codechef.com/problems/INCAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Cat.cpp) |
 | MAKESUB | Make Subarray | [View](https://www.codechef.com/START207D/problems/MAKESUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Subarray.cpp) |
 | MANAPTS | Mana Points | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANAPTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mana_Points.cpp) |
 | BULLET | Mario and Bullet | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mario_and_Bullet.cpp) |
+| TOP10 | Masterchef finals | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TOP10) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Masterchef_finals.cpp) |
 | MAXTASTE | Maximise the Tastiness | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximise_the_Tastiness.cpp) |
 | MXEVNSUB | Maximum Length Even Subarray | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MXEVNSUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximum_Length_Even_Subarray.cpp) |
+| MAXIMUMSUBS | Maximum Submissions | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MAXIMUMSUBS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximum_Submissions.cpp) |
+| MVR | Messi vs Ronaldo | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MVR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Messi_vs_Ronaldo.cpp) |
+| F1RULE | Miami GP | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/F1RULE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Miami_GP.cpp) |
+| MINCOINSREQ | Minimum Coins | [View](https://www.codechef.com/problems/MINCOINSREQ) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_Coins.cpp) |
+| MINPIZZA | Minimum Pizzas | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINPIZZA) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_Pizzas.cpp) |
 | MINFLIPS | Minimum number of Flips | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINFLIPS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_number_of_Flips.cpp) |
 | MINCOINS | Minimum number of coins | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Minimum_number_of_coins.cpp) |
+| NUGGET | Moneymaking | [View](https://www.codechef.com/problems/NUGGET) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Moneymaking.cpp) |
+| Monopoly | Monopoly | [View](https://www.codechef.com/problems/Monopoly) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monopoly.cpp) |
+| MONOPOLY | Monopoly in Chefland | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MONOPOLY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monopoly_in_Chefland.cpp) |
+| BUDGET_ | Monthly Budget | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BUDGET_) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Monthly_Budget.cpp) |
 | MOOCHEF | Moody Chef | [View](https://www.codechef.com/problems/MOOCHEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Moody_Chef.cpp) |
 | IMDB | Motivation | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/IMDB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Motivation.cpp) |
+| MONOPOLY2 | Multivitamin Tablets | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MONOPOLY2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Multivitamin_Tablets.cpp) |
 | CHN15A | Mutated Minions | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mutated_Minions.cpp) |
+| NEARESTEXIT | Nearest Exit | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NEARESTEXIT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Nearest_Exit.cpp) |
+| NETFLIX | Netflix | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/NETFLIX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Netflix.cpp) |
 | NO4S | No 4 Please | [View](https://www.codechef.com/START213C/problems/NO4S) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/No_4_Please.cpp) |
 | NOTECNT | Notebook Counting | [View](https://www.codechef.com/START210D/problems/NOTECNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Notebook_Counting.cpp) |
 | LMP2 | Odd String | [View](https://www.codechef.com/START221C/problems/LMP2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Odd_String.cpp) |

@@ -301,6 +301,13 @@
     "filename": "Convert_String_to_Title_Case.cpp"
   },
   {
+    "id": "MONOPOLY2",
+    "name": "Multivitamin Tablets",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MONOPOLY2",
+    "sol_path": "Solutions/Multivitamin_Tablets.cpp",
+    "filename": "Multivitamin_Tablets.cpp"
+  },
+  {
     "id": "NFS",
     "name": "Turn It",
     "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/NFS",
@@ -546,6 +553,13 @@
     "filename": "Bob_at_the_Bank.cpp"
   },
   {
+    "id": "NEARESTEXIT",
+    "name": "Nearest Exit",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NEARESTEXIT",
+    "sol_path": "Solutions/Nearest_Exit.cpp",
+    "filename": "Nearest_Exit.cpp"
+  },
+  {
     "id": "TLG",
     "name": "The Lead Game",
     "q_link": "https://www.codechef.com/problems/TLG",
@@ -651,6 +665,13 @@
     "filename": "404_Not_Found.cpp"
   },
   {
+    "id": "BUDGET_",
+    "name": "Monthly Budget",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BUDGET_",
+    "sol_path": "Solutions/Monthly_Budget.cpp",
+    "filename": "Monthly_Budget.cpp"
+  },
+  {
     "id": "TRUESCORE",
     "name": "Is the Score Consistent",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
@@ -714,6 +735,13 @@
     "filename": "Chef_Plays_Ludo.cpp"
   },
   {
+    "id": "MONOPOLY",
+    "name": "Monopoly in Chefland",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MONOPOLY",
+    "sol_path": "Solutions/Monopoly_in_Chefland.cpp",
+    "filename": "Monopoly_in_Chefland.cpp"
+  },
+  {
     "id": "CYCLICQD",
     "name": "Cyclic Quadrilateral",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CYCLICQD",
@@ -740,6 +768,13 @@
     "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR",
     "sol_path": "Solutions/Chef_and_Happy_String.cpp",
     "filename": "Chef_and_Happy_String.cpp"
+  },
+  {
+    "id": "TOP10",
+    "name": "Masterchef finals",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TOP10",
+    "sol_path": "Solutions/Masterchef_finals.cpp",
+    "filename": "Masterchef_finals.cpp"
   },
   {
     "id": "FLOW002",
@@ -854,6 +889,13 @@
     "filename": "Couple_Game.cpp"
   },
   {
+    "id": "NUGGET",
+    "name": "Moneymaking",
+    "q_link": "https://www.codechef.com/problems/NUGGET",
+    "sol_path": "Solutions/Moneymaking.cpp",
+    "filename": "Moneymaking.cpp"
+  },
+  {
     "id": "TWOPLG",
     "name": "Two Pile Game",
     "q_link": "https://www.codechef.com/START220D/problems/TWOPLG",
@@ -945,6 +987,13 @@
     "filename": "Chef_and_Gym.cpp"
   },
   {
+    "id": "F1RULE",
+    "name": "Miami GP",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/F1RULE",
+    "sol_path": "Solutions/Miami_GP.cpp",
+    "filename": "Miami_GP.cpp"
+  },
+  {
     "id": "INCRIQ",
     "name": "Increase IQ",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INCRIQ",
@@ -978,6 +1027,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS",
     "sol_path": "Solutions/Minimum_number_of_coins.cpp",
     "filename": "Minimum_number_of_coins.cpp"
+  },
+  {
+    "id": "MINPIZZA",
+    "name": "Minimum Pizzas",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINPIZZA",
+    "sol_path": "Solutions/Minimum_Pizzas.cpp",
+    "filename": "Minimum_Pizzas.cpp"
   },
   {
     "id": "DETSCORE",
@@ -1113,6 +1169,13 @@
     "filename": "Gross_Salary.cpp"
   },
   {
+    "id": "MINCOINSREQ",
+    "name": "Minimum Coins",
+    "q_link": "https://www.codechef.com/problems/MINCOINSREQ",
+    "sol_path": "Solutions/Minimum_Coins.cpp",
+    "filename": "Minimum_Coins.cpp"
+  },
+  {
     "id": "RECENTCONT",
     "name": "Recent contest problems",
     "q_link": "https://www.codechef.com/problems/RECENTCONT",
@@ -1132,6 +1195,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
     "sol_path": "Solutions/Chef_Eren.cpp",
     "filename": "Chef_Eren.cpp"
+  },
+  {
+    "id": "MVR",
+    "name": "Messi vs Ronaldo",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MVR",
+    "sol_path": "Solutions/Messi_vs_Ronaldo.cpp",
+    "filename": "Messi_vs_Ronaldo.cpp"
   },
   {
     "id": "COMP4",
@@ -1223,6 +1293,13 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD",
     "sol_path": "Solutions/Best_Coupon.cpp",
     "filename": "Best_Coupon.cpp"
+  },
+  {
+    "id": "MAXIMUMSUBS",
+    "name": "Maximum Submissions",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MAXIMUMSUBS",
+    "sol_path": "Solutions/Maximum_Submissions.cpp",
+    "filename": "Maximum_Submissions.cpp"
   },
   {
     "id": "DOREWARD",
@@ -1372,6 +1449,13 @@
     "filename": "Chef_On_Date.cpp"
   },
   {
+    "id": "Monopoly",
+    "name": "Monopoly",
+    "q_link": "https://www.codechef.com/problems/Monopoly",
+    "sol_path": "Solutions/Monopoly.cpp",
+    "filename": "Monopoly.cpp"
+  },
+  {
     "id": "INTRDSGN",
     "name": "Interior Design",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTRDSGN",
@@ -1426,5 +1510,19 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HEIGHTRATION",
     "sol_path": "Solutions/Height_of_Rationals.cpp",
     "filename": "Height_of_Rationals.cpp"
+  },
+  {
+    "id": "NETFLIX",
+    "name": "Netflix",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/NETFLIX",
+    "sol_path": "Solutions/Netflix.cpp",
+    "filename": "Netflix.cpp"
+  },
+  {
+    "id": "M1ENROL",
+    "name": "MATH1 Enrolment",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/M1ENROL",
+    "sol_path": "Solutions/MATH1_Enrolment.cpp",
+    "filename": "MATH1_Enrolment.cpp"
   }
 ]
