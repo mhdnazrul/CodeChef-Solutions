@@ -1,0 +1,35 @@
+/*┌────────────────────────────────────────────────────────────────────────────────────┐
+  │                        >   Handle:- nazrulislam_7
+  │                        >   Author:- Nazrul Islam
+  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_
+  └────────────────────────────────────────────────────────────────────────────────────┘*/
+
+#include <bits/stdc++.h>
+using namespace std;
+#define FAST_IO                \
+  ios::sync_with_stdio(false); \
+  cin.tie(nullptr);
+using ll = long long;
+using vi = vector<int>;
+using vll = vector<ll>;
+const ll mod = 1e9 + 7;
+
+void solve()
+{
+  int n, x;
+  cin >> n >> x;
+
+  int sub = ceil((double)n / 6);
+  int answer = sub * x;
+  cout << answer << endl;
+}
+
+int main()
+{
+  FAST_IO;
+  int T;
+  cin >> T;
+  while (T--)
+    solve();
+  return 0;
+}
