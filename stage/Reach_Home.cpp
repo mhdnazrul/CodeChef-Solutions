@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/REACH HOME
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -16,9 +16,10 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int l, k, fuel;
+  cin >> l >> k;
+  fuel = l * 5;
+  cout << (fuel >= k ? "YES" : "NO") << endl;
 }
 
 int main()

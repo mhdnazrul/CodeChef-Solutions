@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/MONEYMAKING
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -14,19 +14,12 @@ using vi = vector<int>;
 using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
-void solve()
-{
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
-}
-
 int main()
 {
   FAST_IO;
-  int T;
-  cin >> T;
-  while (T--)
-    solve();
+  ll a, b;
+  cin >> a >> b;
+  ll ans = (a * 5000) + (b * 9800);
+  cout << ans << endl;
   return 0;
 }

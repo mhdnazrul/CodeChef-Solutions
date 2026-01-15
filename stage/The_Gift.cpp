@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/THE GIFT
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -18,15 +18,13 @@ void solve()
 {
   int a, b, c;
   cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  cout << (a + a < b ? "NO" : "YES") << endl;
 }
 
 int main()
 {
   FAST_IO;
-  int T;
-  cin >> T;
-  while (T--)
-    solve();
+  // int T; cin >> T;while(T--)
+  solve();
   return 0;
 }

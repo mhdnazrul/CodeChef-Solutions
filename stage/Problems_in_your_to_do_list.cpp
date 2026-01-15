@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/PROBLEMS IN YOUR TO-DO LIST
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -16,9 +16,18 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int n;
+  cin >> n;
+  // vector<int> a(n);
+  int cnt = 0;
+  for (int i = 0; i < n; i++)
+  {
+    int tp;
+    cin >> tp;
+    if (tp >= 1000)
+      cnt++;
+  }
+  cout << cnt << "\n";
 }
 
 int main()

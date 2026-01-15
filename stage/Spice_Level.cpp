@@ -1,10 +1,12 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/SPICE LEVEL
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -16,17 +18,25 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int n;
+  cin >> n;
+  if (n < 4)
+    cout << "MILD" << endl;
+  else if (n < 7)
+    cout << "MEDIUM" << endl;
+  else
+    cout << "HOT" << endl;
 }
 
 int main()
 {
   FAST_IO;
-  int T;
-  cin >> T;
-  while (T--)
+  int Test_case;
+  cin >> Test_case;
+  for (int i = 1; i <= Test_case; ++i)
+  {
+    // cout << "Case " << i << ": ";
     solve();
+  }
   return 0;
 }

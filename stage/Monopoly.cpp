@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/MONOPOLY
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -16,9 +16,18 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int a, b, c, d;
+  cin >> a >> b >> c >> d;
+  int max_val = max(a, max(b, max(c, d)));
+  ll ans = (a + b + c + d) - max_val;
+  if (ans >= max_val)
+  {
+    cout << "NO" << endl;
+  }
+  else
+  {
+    cout << "YES" << endl;
+  }
 }
 
 int main()

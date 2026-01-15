@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/TV DISCOUNT
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -16,9 +16,15 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int tv1, tv2, discount1, discount2;
+  cin >> tv1 >> tv2 >> discount1 >> discount2;
+  ll forTV1 = tv1 - discount1, forTV2 = tv2 - discount2;
+  if (forTV1 == forTV2)
+    cout << "Any" << endl;
+  else if (forTV1 < forTV2)
+    cout << "First" << endl;
+  else
+    cout << "Second" << endl;
 }
 
 int main()

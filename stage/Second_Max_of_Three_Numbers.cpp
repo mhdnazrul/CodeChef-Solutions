@@ -1,10 +1,12 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/SECOND MAX OF THREE NUMBERS
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include<algorithm>
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -16,9 +18,12 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  vi nums(3);
+  for (int i = 0; i < 3; ++i)
+    cin >> nums[i];
+
+  sort(nums.begin(), nums.end());
+  cout << nums[1] << endl;
 }
 
 int main()
@@ -26,7 +31,10 @@ int main()
   FAST_IO;
   int T;
   cin >> T;
-  while (T--)
+  for (int i = 1; i <= T; ++i)
+  {
+    // cout << "Case " << i << ": ";
     solve();
+  }
   return 0;
 }

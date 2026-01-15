@@ -1,10 +1,12 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/IPLTRSH
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -16,9 +18,13 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int n, m, ans;
+  cin >> n >> m;
+  ans = n - m;
+  if (ans < 0)
+    cout << 0 << endl;
+  else
+    cout << n - m << endl;
 }
 
 int main()

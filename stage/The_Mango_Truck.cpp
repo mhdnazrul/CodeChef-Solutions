@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF
+  │Problem Link: https://www.codechef.com/problems/THE MANGO TRUCK
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -18,7 +18,14 @@ void solve()
 {
   int a, b, c;
   cin >> a >> b >> c;
-  cout << (a * b < c * 2 ? "YES" : "NO") << endl;
+  int flag = 0;
+  for (int i = 1; i <= c - b; ++i)
+  {
+    if (i * a + b > c)
+      break;
+    flag++;
+  }
+  cout << flag << endl;
 }
 
 int main()
