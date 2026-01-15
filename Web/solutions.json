@@ -21,13 +21,6 @@
     "filename": "Moody_Chef.cpp"
   },
   {
-    "id": "Good_Program",
-    "name": "Good Program",
-    "q_link": "https://www.codechef.com/problems/Good_Program",
-    "sol_path": "Solutions/Good_Program.cpp",
-    "filename": "Good_Program.cpp"
-  },
-  {
     "id": "EXMLF1",
     "name": "EXML Race",
     "q_link": "https://www.codechef.com/START213C/problems/EXMLF1",
@@ -210,6 +203,13 @@
     "filename": "Decrement_OR_Increment.cpp"
   },
   {
+    "id": "INVESTMENT",
+    "name": "Good Investment or Not",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INVESTMENT",
+    "sol_path": "Solutions/Good_Investment_or_Not.cpp",
+    "filename": "Good_Investment_or_Not.cpp"
+  },
+  {
     "id": "Sleep_deprivation",
     "name": "Sleep deprivation",
     "q_link": "https://www.codechef.com/problems/Sleep_deprivation",
@@ -252,9 +252,9 @@
     "filename": "Complementary_Strand_in_a_DNA.cpp"
   },
   {
-    "id": "Instagram",
+    "id": "INSTAGRAM",
     "name": "Instagram",
-    "q_link": "https://www.codechef.com/problems/Instagram",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSTAGRAM",
     "sol_path": "Solutions/Instagram.cpp",
     "filename": "Instagram.cpp"
   },
@@ -264,6 +264,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BLACKJACK",
     "sol_path": "Solutions/Blackjack.cpp",
     "filename": "Blackjack.cpp"
+  },
+  {
+    "id": "JADEBUG11",
+    "name": "Get Subscription",
+    "q_link": "https://www.codechef.com/practice/course/company-prep/PJA11/problems/JADEBUG11",
+    "sol_path": "Solutions/Get_Subscription.cpp",
+    "filename": "Get_Subscription.cpp"
   },
   {
     "id": "BMCV201",
@@ -448,6 +455,13 @@
     "filename": "Small_factorials.cpp"
   },
   {
+    "id": "PRACLIST",
+    "name": "How many unattempted problems",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACLIST",
+    "sol_path": "Solutions/How_many_unattempted_problems.cpp",
+    "filename": "How_many_unattempted_problems.cpp"
+  },
+  {
     "id": "ACTEMP",
     "name": "Air Conditioner Temperature",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP",
@@ -516,13 +530,6 @@
     "q_link": "https://www.codechef.com/START216D/problems/SCORING",
     "sol_path": "Solutions/Scoring.cpp",
     "filename": "Scoring.cpp"
-  },
-  {
-    "id": "Interior_Design",
-    "name": "Interior Design",
-    "q_link": "https://www.codechef.com/problems/Interior_Design",
-    "sol_path": "Solutions/Interior_Design.cpp",
-    "filename": "Interior_Design.cpp"
   },
   {
     "id": "True_and_False_Paper",
@@ -628,6 +635,13 @@
     "q_link": "https://www.codechef.com/problems/EXPENSES",
     "sol_path": "Solutions/Expense_List.cpp",
     "filename": "Expense_List.cpp"
+  },
+  {
+    "id": "NIBBLE",
+    "name": "Good Program",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
+    "sol_path": "Solutions/Good_Program.cpp",
+    "filename": "Good_Program.cpp"
   },
   {
     "id": "Water_Requirement",
@@ -910,13 +924,6 @@
     "filename": "Lunchtime.cpp"
   },
   {
-    "id": "Increase_IQ",
-    "name": "Increase IQ",
-    "q_link": "https://www.codechef.com/problems/Increase_IQ",
-    "sol_path": "Solutions/Increase_IQ.cpp",
-    "filename": "Increase_IQ.cpp"
-  },
-  {
     "id": "Reach_on_Time",
     "name": "Reach on Time",
     "q_link": "https://www.codechef.com/problems/Reach_on_Time",
@@ -936,6 +943,13 @@
     "q_link": "https://www.codechef.com/problems/MATH1_Enrolment",
     "sol_path": "Solutions/MATH1_Enrolment.cpp",
     "filename": "MATH1_Enrolment.cpp"
+  },
+  {
+    "id": "AVGPROBLEM",
+    "name": "Greater Average",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM",
+    "sol_path": "Solutions/Greater_Average.cpp",
+    "filename": "Greater_Average.cpp"
   },
   {
     "id": "Tom_and_Jerry_Chase",
@@ -971,13 +985,6 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FEVER",
     "sol_path": "Solutions/Fever.cpp",
     "filename": "Fever.cpp"
-  },
-  {
-    "id": "Good_Investment_or_Not",
-    "name": "Good Investment or Not",
-    "q_link": "https://www.codechef.com/problems/Good_Investment_or_Not",
-    "sol_path": "Solutions/Good_Investment_or_Not.cpp",
-    "filename": "Good_Investment_or_Not.cpp"
   },
   {
     "id": "BUILDINGRACE",
@@ -1225,6 +1232,13 @@
     "filename": "The_Cheaper_Cab.cpp"
   },
   {
+    "id": "INCRIQ",
+    "name": "Increase IQ",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INCRIQ",
+    "sol_path": "Solutions/Increase_IQ.cpp",
+    "filename": "Increase_IQ.cpp"
+  },
+  {
     "id": "CHEFAPPS",
     "name": "Chef and his Apps",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS",
@@ -1302,9 +1316,9 @@
     "filename": "Cricket_World_Cup_Qualifier.cpp"
   },
   {
-    "id": "Insurance",
+    "id": "INSURANCE",
     "name": "Insurance",
-    "q_link": "https://www.codechef.com/problems/Insurance",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSURANCE",
     "sol_path": "Solutions/Insurance.cpp",
     "filename": "Insurance.cpp"
   },
@@ -1386,6 +1400,13 @@
     "filename": "Take_discount_or_Not.cpp"
   },
   {
+    "id": "FLIPCARDS",
+    "name": "Flip the cards",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS",
+    "sol_path": "Solutions/Flip_the_cards.cpp",
+    "filename": "Flip_the_cards.cpp"
+  },
+  {
     "id": "PROC18A",
     "name": "The Great Run",
     "q_link": "https://www.codechef.com/problems/PROC18A",
@@ -1449,13 +1470,6 @@
     "filename": "Recent_contest_problems.cpp"
   },
   {
-    "id": "How_many_unattempted_problems",
-    "name": "How many unattempted problems",
-    "q_link": "https://www.codechef.com/problems/How_many_unattempted_problems",
-    "sol_path": "Solutions/How_many_unattempted_problems.cpp",
-    "filename": "How_many_unattempted_problems.cpp"
-  },
-  {
     "id": "Number_Mirror",
     "name": "Number Mirror",
     "q_link": "https://www.codechef.com/problems/Number_Mirror",
@@ -1463,25 +1477,11 @@
     "filename": "Number_Mirror.cpp"
   },
   {
-    "id": "Get_Subscription",
-    "name": "Get Subscription",
-    "q_link": "https://www.codechef.com/problems/Get_Subscription",
-    "sol_path": "Solutions/Get_Subscription.cpp",
-    "filename": "Get_Subscription.cpp"
-  },
-  {
     "id": "CHEFEREN",
     "name": "Chef Eren",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
     "sol_path": "Solutions/Chef_Eren.cpp",
     "filename": "Chef_Eren.cpp"
-  },
-  {
-    "id": "Height_of_Rationals",
-    "name": "Height of Rationals",
-    "q_link": "https://www.codechef.com/problems/Height_of_Rationals",
-    "sol_path": "Solutions/Height_of_Rationals.cpp",
-    "filename": "Height_of_Rationals.cpp"
   },
   {
     "id": "Nearest_Exit",
@@ -1566,20 +1566,6 @@
     "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/MISSP",
     "sol_path": "Solutions/Chef_and_Dolls.cpp",
     "filename": "Chef_and_Dolls.cpp"
-  },
-  {
-    "id": "FLIPCARDS",
-    "name": "Flip the cards",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS",
-    "sol_path": "Solutions/Flip_the_cards.cpp",
-    "filename": "Flip_the_cards.cpp"
-  },
-  {
-    "id": "Greater_Average",
-    "name": "Greater Average",
-    "q_link": "https://www.codechef.com/problems/Greater_Average",
-    "sol_path": "Solutions/Greater_Average.cpp",
-    "filename": "Greater_Average.cpp"
   },
   {
     "id": "Off_By_One",
@@ -1834,6 +1820,13 @@
     "filename": "Monopoly.cpp"
   },
   {
+    "id": "INTRDSGN",
+    "name": "Interior Design",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTRDSGN",
+    "sol_path": "Solutions/Interior_Design.cpp",
+    "filename": "Interior_Design.cpp"
+  },
+  {
     "id": "EXREST",
     "name": "Exercise and Rest",
     "q_link": "https://www.codechef.com/problems/EXREST",
@@ -1881,6 +1874,13 @@
     "q_link": "https://www.codechef.com/problems/Total_Prize_Money",
     "sol_path": "Solutions/Total_Prize_Money.cpp",
     "filename": "Total_Prize_Money.cpp"
+  },
+  {
+    "id": "HEIGHTRATION",
+    "name": "Height of Rationals",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HEIGHTRATION",
+    "sol_path": "Solutions/Height_of_Rationals.cpp",
+    "filename": "Height_of_Rationals.cpp"
   },
   {
     "id": "Netflix",
