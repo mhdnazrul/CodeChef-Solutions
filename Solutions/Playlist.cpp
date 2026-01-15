@@ -1,37 +1,26 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SONGS
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <iostream>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
-#define FAST_IO                \
-  ios::sync_with_stdio(false); \
-  cin.tie(nullptr);
+#define FAST_IO ios::sync_with_stdio(false); cin.tie(nullptr);
 using ll = long long;
 using vi = vector<int>;
 using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
-void solve()
-{
-  int a;
-  cin >> a;
-  cout << (a % 2 == 0 ? "YES\n" : "NO\n");
+void solve() {
+  int time, song;
+  cin >> time >> song;
+  cout << time / (song * 3) << endl;
 }
 
-int main()
-{
+int main() {
   FAST_IO;
-  int T;
-  cin >> T;
-  for (int i = 1; i <= T; ++i)
-  {
-    // cout << "Case " << i << ": ";
+  int T; cin >> T;while(T--)
     solve();
-  }
   return 0;
 }

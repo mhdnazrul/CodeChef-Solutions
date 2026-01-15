@@ -1,12 +1,10 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PROINC
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <iostream>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -18,14 +16,11 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int hour;
-  cin >> hour;
-  if (hour <= 70)
-    cout << 0 << endl;
-  else if (hour <= 100)
-    cout << 500 << endl;
-  else
-    cout << 2000 << endl;
+  int fruit, price, d, ans;
+  cin >> fruit >> price;
+  d = (fruit * 0.10) + fruit;
+  ans = fruit - price;
+  cout << d - ans << endl;
 }
 
 int main()
@@ -33,10 +28,7 @@ int main()
   FAST_IO;
   int T;
   cin >> T;
-  for (int i = 1; i <= T; ++i)
-  {
-    // cout << "Case " << i << ": ";
+  while (T--)
     solve();
-  }
   return 0;
 }

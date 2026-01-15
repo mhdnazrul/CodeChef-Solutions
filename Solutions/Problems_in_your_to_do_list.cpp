@@ -1,12 +1,10 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <iostream>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -18,14 +16,26 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c = 1;
-  cin >> a >> b;
-  cout << a + b << c << endl;
+  int n;
+  cin >> n;
+  // vector<int> a(n);
+  int cnt = 0;
+  for (int i = 0; i < n; i++)
+  {
+    int tp;
+    cin >> tp;
+    if (tp >= 1000)
+      cnt++;
+  }
+  cout << cnt << "\n";
 }
 
 int main()
 {
   FAST_IO;
-  solve();
+  int T;
+  cin >> T;
+  while (T--)
+    solve();
   return 0;
 }

@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ASSIGNMNT
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -16,11 +16,10 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int fruit, price, d, ans;
-  cin >> fruit >> price;
-  d = (fruit * 0.10) + fruit;
-  ans = fruit - price;
-  cout << d - ans << endl;
+  int ass, time, day;
+  cin >> ass >> time >> day;
+  ll total_times = ass * time, total_days = day * 24 * 60;
+  cout << (total_times <= total_days ? "YES" : "NO") << endl;
 }
 
 int main()

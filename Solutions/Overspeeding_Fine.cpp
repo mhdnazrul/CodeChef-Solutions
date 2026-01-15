@@ -1,10 +1,12 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FINE
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -16,10 +18,14 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int ass, time, day;
-  cin >> ass >> time >> day;
-  ll total_times = ass * time, total_days = day * 24 * 60;
-  cout << (total_times <= total_days ? "YES" : "NO") << endl;
+  int hour;
+  cin >> hour;
+  if (hour <= 70)
+    cout << 0 << endl;
+  else if (hour <= 100)
+    cout << 500 << endl;
+  else
+    cout << 2000 << endl;
 }
 
 int main()
@@ -27,7 +33,10 @@ int main()
   FAST_IO;
   int T;
   cin >> T;
-  while (T--)
+  for (int i = 1; i <= T; ++i)
+  {
+    // cout << "Case " << i << ": ";
     solve();
+  }
   return 0;
 }

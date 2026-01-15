@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RAINFALL1
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <iostream>
@@ -18,19 +18,25 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int n;
-  cin >> n;
-  if (n < 3)
-    cout << "GOLD\n";
-  else if (n < 6)
-    cout << "SILVER\n";
+  int hour;
+  cin >> hour;
+  if (hour < 3)
+    cout << "LIGHT\n";
+  else if (hour < 7)
+    cout << "MODERATE\n";
   else
-    cout << "BRONZE\n";
+    cout << "HEAVY\n";
 }
 
 int main()
 {
   FAST_IO;
-  solve();
+  int T;
+  cin >> T;
+  for (int i = 1; i <= T; ++i)
+  {
+    // cout << "Case " << i << ": ";
+    solve();
+  }
   return 0;
 }
