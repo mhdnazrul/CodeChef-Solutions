@@ -28,13 +28,6 @@
     "filename": "Good_Program.cpp"
   },
   {
-    "id": "Four_Tickets",
-    "name": "Four Tickets",
-    "q_link": "https://www.codechef.com/problems/Four_Tickets",
-    "sol_path": "Solutions/Four_Tickets.cpp",
-    "filename": "Four_Tickets.cpp"
-  },
-  {
     "id": "EXMLF1",
     "name": "EXML Race",
     "q_link": "https://www.codechef.com/START213C/problems/EXMLF1",
@@ -224,13 +217,6 @@
     "filename": "Sleep_deprivation.cpp"
   },
   {
-    "id": "Fill_the_Bucket",
-    "name": "Fill the Bucket",
-    "q_link": "https://www.codechef.com/problems/Fill_the_Bucket",
-    "sol_path": "Solutions/Fill_the_Bucket.cpp",
-    "filename": "Fill_the_Bucket.cpp"
-  },
-  {
     "id": "Saving_Taxes",
     "name": "Saving Taxes",
     "q_link": "https://www.codechef.com/problems/Saving_Taxes",
@@ -292,6 +278,13 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOMINANT",
     "sol_path": "Solutions/Dominant_Army.cpp",
     "filename": "Dominant_Army.cpp"
+  },
+  {
+    "id": "FBC",
+    "name": "Fill the Bucket",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FBC",
+    "sol_path": "Solutions/Fill_the_Bucket.cpp",
+    "filename": "Fill_the_Bucket.cpp"
   },
   {
     "id": "The_Mango_Truck",
@@ -742,13 +735,6 @@
     "filename": "Motivation.cpp"
   },
   {
-    "id": "Expert_Setter",
-    "name": "Expert Setter",
-    "q_link": "https://www.codechef.com/problems/Expert_Setter",
-    "sol_path": "Solutions/Expert_Setter.cpp",
-    "filename": "Expert_Setter.cpp"
-  },
-  {
     "id": "FAIRSHARE",
     "name": "Fair Share Settlement",
     "q_link": "https://www.codechef.com/problems/FAIRSHARE",
@@ -803,6 +789,13 @@
     "q_link": "https://www.codechef.com/problems/Right_There",
     "sol_path": "Solutions/Right_There.cpp",
     "filename": "Right_There.cpp"
+  },
+  {
+    "id": "POPULATION",
+    "name": "Final Population",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/POPULATION",
+    "sol_path": "Solutions/Final_Population.cpp",
+    "filename": "Final_Population.cpp"
   },
   {
     "id": "WEIGHTBL",
@@ -903,6 +896,13 @@
     "filename": "Sugarcane_Juice_Business.cpp"
   },
   {
+    "id": "FLOW002",
+    "name": "Find Remainder",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW002",
+    "sol_path": "Solutions/Find_Remainder.cpp",
+    "filename": "Find_Remainder.cpp"
+  },
+  {
     "id": "Lunchtime",
     "name": "Lunchtime",
     "q_link": "https://www.codechef.com/problems/Lunchtime",
@@ -966,9 +966,9 @@
     "filename": "Parity.cpp"
   },
   {
-    "id": "Fever",
+    "id": "FEVER",
     "name": "Fever",
-    "q_link": "https://www.codechef.com/problems/Fever",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FEVER",
     "sol_path": "Solutions/Fever.cpp",
     "filename": "Fever.cpp"
   },
@@ -1197,13 +1197,6 @@
     "filename": "Chef_and_Candies.cpp"
   },
   {
-    "id": "Find_Remainder",
-    "name": "Find Remainder",
-    "q_link": "https://www.codechef.com/problems/Find_Remainder",
-    "sol_path": "Solutions/Find_Remainder.cpp",
-    "filename": "Find_Remainder.cpp"
-  },
-  {
     "id": "CGYM",
     "name": "Chef and Gym",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CGYM",
@@ -1414,6 +1407,13 @@
     "filename": "Chairs_Requirement.cpp"
   },
   {
+    "id": "MANIPULATE",
+    "name": "Ezio and Guards",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANIPULATE",
+    "sol_path": "Solutions/Ezio_and_Guards.cpp",
+    "filename": "Ezio_and_Guards.cpp"
+  },
+  {
     "id": "XMASTREE",
     "name": "Christmas Trees",
     "q_link": "https://www.codechef.com/problems/XMASTREE",
@@ -1484,20 +1484,6 @@
     "filename": "Height_of_Rationals.cpp"
   },
   {
-    "id": "Final_Population",
-    "name": "Final Population",
-    "q_link": "https://www.codechef.com/problems/Final_Population",
-    "sol_path": "Solutions/Final_Population.cpp",
-    "filename": "Final_Population.cpp"
-  },
-  {
-    "id": "Ezio_and_Guards",
-    "name": "Ezio and Guards",
-    "q_link": "https://www.codechef.com/problems/Ezio_and_Guards",
-    "sol_path": "Solutions/Ezio_and_Guards.cpp",
-    "filename": "Ezio_and_Guards.cpp"
-  },
-  {
     "id": "Nearest_Exit",
     "name": "Nearest Exit",
     "q_link": "https://www.codechef.com/problems/Nearest_Exit",
@@ -1559,6 +1545,20 @@
     "q_link": "https://www.codechef.com/problems/Waiting_Time",
     "sol_path": "Solutions/Waiting_Time.cpp",
     "filename": "Waiting_Time.cpp"
+  },
+  {
+    "id": "EXPERT",
+    "name": "Expert Setter",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT",
+    "sol_path": "Solutions/Expert_Setter.cpp",
+    "filename": "Expert_Setter.cpp"
+  },
+  {
+    "id": "FOURTICKETS",
+    "name": "Four Tickets",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FOURTICKETS",
+    "sol_path": "Solutions/Four_Tickets.cpp",
+    "filename": "Four_Tickets.cpp"
   },
   {
     "id": "MISSP",

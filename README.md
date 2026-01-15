@@ -131,18 +131,18 @@
 | Exams | Exams | [View](https://www.codechef.com/problems/Exams) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exams.cpp) |
 | EXREST | Exercise and Rest | [View](https://www.codechef.com/problems/EXREST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Exercise_and_Rest.cpp) |
 | EXPENSES | Expense List | [View](https://www.codechef.com/problems/EXPENSES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Expense_List.cpp) |
-| Expert_Setter | Expert Setter | [View](https://www.codechef.com/problems/Expert_Setter) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Expert_Setter.cpp) |
-| Ezio_and_Guards | Ezio and Guards | [View](https://www.codechef.com/problems/Ezio_and_Guards) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ezio_and_Guards.cpp) |
+| EXPERT | Expert Setter | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXPERT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Expert_Setter.cpp) |
+| MANIPULATE | Ezio and Guards | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANIPULATE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ezio_and_Guards.cpp) |
 | FAIRSHARE | Fair Share Settlement | [View](https://www.codechef.com/problems/FAIRSHARE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fair_Share_Settlement.cpp) |
-| Fever | Fever | [View](https://www.codechef.com/problems/Fever) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fever.cpp) |
+| FEVER | Fever | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FEVER) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fever.cpp) |
 | FILLCANDIES | Fill Candies | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fill_Candies.cpp) |
-| Fill_the_Bucket | Fill the Bucket | [View](https://www.codechef.com/problems/Fill_the_Bucket) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fill_the_Bucket.cpp) |
-| Final_Population | Final Population | [View](https://www.codechef.com/problems/Final_Population) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Final_Population.cpp) |
-| Find_Remainder | Find Remainder | [View](https://www.codechef.com/problems/Find_Remainder) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Find_Remainder.cpp) |
+| FBC | Fill the Bucket | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FBC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Fill_the_Bucket.cpp) |
+| POPULATION | Final Population | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/POPULATION) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Final_Population.cpp) |
+| FLOW002 | Find Remainder | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW002) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Find_Remainder.cpp) |
 | FSQRT | Finding Square Roots | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Finding_Square_Roots.cpp) |
 | First_and_Last_Digit | First and Last Digit | [View](https://www.codechef.com/problems/First_and_Last_Digit) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/First_and_Last_Digit.cpp) |
 | FLIPCARDS | Flip the cards | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Flip_the_cards.cpp) |
-| Four_Tickets | Four Tickets | [View](https://www.codechef.com/problems/Four_Tickets) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Four_Tickets.cpp) |
+| FOURTICKETS | Four Tickets | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FOURTICKETS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Four_Tickets.cpp) |
 | GEMBUND | Gem Bundles | [View](https://www.codechef.com/problems/GEMBUND) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Gem_Bundles.cpp) |
 | SALE | Get Lowest Free | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Get_Lowest_Free.cpp) |
 | Get_Subscription | Get Subscription | [View](https://www.codechef.com/problems/Get_Subscription) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Get_Subscription.cpp) |
