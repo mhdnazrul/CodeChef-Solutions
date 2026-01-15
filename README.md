@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-233-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-269-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 233
+**Total Problems Solved:** 269
 
 ---
 
@@ -221,38 +221,74 @@
 | PUZHUNT | Puzzle Hunt | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PUZHUNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Puzzle_Hunt.cpp) |
 | QUALIFY | Qualify the round | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/QUALIFY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Qualify_the_round.cpp) |
 | RAINFALL1 | Rain in Chefland | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RAINFALL1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rain_in_Chefland.cpp) |
+| REACH_HOME | Reach Home | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACH_HOME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_Home.cpp) |
 | REACHFAST | Reach fast | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/REACHFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_fast.cpp) |
+| TIMELY | Reach on Time | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TIMELY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_on_Time.cpp) |
+| REACHTARGET | Reach the Target | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACHTARGET) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reach_the_Target.cpp) |
+| READPAGES | Read Pages | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/READPAGES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Read_Pages.cpp) |
 | RECENTCONT | Recent contest problems | [View](https://www.codechef.com/problems/RECENTCONT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Recent_contest_problems.cpp) |
 | RCTGLD | Rectangled | [View](https://www.codechef.com/problems/RCTGLD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rectangled.cpp) |
+| FLOW007 | Reverse The Number | [View](https://www.codechef.com/problems/FLOW007) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reverse_The_Number.cpp) |
+| RIGHTTHERE | Right There | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIGHTTHERE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Right_There.cpp) |
+| CPPDEBUG07 | Roller Coaster | [View](https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG07) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Roller_Coaster.cpp) |
+| SALESEASON | Sale Season | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sale_Season.cpp) |
+| SST | Sasta Shark Tank | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sasta_Shark_Tank.cpp) |
+| TAXSAVING | Saving Taxes | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TAXSAVING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Saving_Taxes.cpp) |
 | SCORING | Scoring | [View](https://www.codechef.com/START216D/problems/SCORING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Scoring.cpp) |
+| SEARCHINARR | Search an element in an array | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SEARCHINARR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Search_an_element_in_an_array.cpp) |
 | FLOW017 | Second Largest | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Largest.cpp) |
+| SNDMAX | Second Max of Three Numbers | [View](https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/SNDMAX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Max_of_Three_Numbers.cpp) |
 | SELFDEF | Self Defence Training | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Self_Defence_Training.cpp) |
 | SEPX | Separation | [View](https://www.codechef.com/START213C/problems/SEPX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Separation.cpp) |
 | SINGLENUM | Single number in multiple numbers | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SINGLENUM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_number_in_multiple_numbers.cpp) |
 | SINGLEUSE | Single use Attack | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SINGLEUSE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Single_use_Attack.cpp) |
+| SIXFRIENDS | Six Friends | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SIXFRIENDS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Six_Friends.cpp) |
+| SLEEP | Sleep deprivation | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SLEEP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sleep_deprivation.cpp) |
 | FLOW018 | Small Factorial | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_Factorial.cpp) |
 | FCTRL2 | Small factorials | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_factorials.cpp) |
 | SMOL | Smallest Possible Whole Number | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/SMOL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Smallest_Possible_Whole_Number.cpp) |
 | SPECIALITY | Speciality | [View](https://www.codechef.com/problems/SPECIALITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speciality.cpp) |
 | SPEEDTEST | Speed Limit Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speed_Limit_Test.cpp) |
+| KITCHENSPICE | Spice Level | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENSPICE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Spice_Level.cpp) |
 | STOPCOUNT | Stop The Count | [View](https://www.codechef.com/problems/STOPCOUNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Stop_The_Count.cpp) |
+| SUBSCRIBE_ | Subscriptions | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Subscriptions.cpp) |
+| SUGARCANE | Sugarcane Juice Business | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sugarcane_Juice_Business.cpp) |
+| SUMM | Sum it | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SUMM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_it.cpp) |
+| FLOW006 | Sum of Digits | [View](https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/FLOW006) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_of_Digits.cpp) |
+| TVDISC | TV Discount | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TVDISC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/TV_Discount.cpp) |
 | DISCOUNTT | Take discount or Not | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Take_discount_or_Not.cpp) |
+| CHEFSCORE | Test Score | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFSCORE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Test_Score.cpp) |
+| CABS | The Cheaper Cab | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CABS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Cheaper_Cab.cpp) |
+| CS2023_GIFT | The Gift | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CS2023_GIFT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Gift.cpp) |
 | PROC18A | The Great Run | [View](https://www.codechef.com/problems/PROC18A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Great_Run.cpp) |
 | LASTLEVELS | The Last Levels | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Last_Levels.cpp) |
 | TLG | The Lead Game | [View](https://www.codechef.com/problems/TLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Lead_Game.cpp) |
+| MANGOES | The Mango Truck | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANGOES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Mango_Truck.cpp) |
+| THREETOPICS | The Three Topics | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/THREETOPICS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Three_Topics.cpp) |
 | MAX_DIFF | The Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/The_Two_Dishes.cpp) |
+| COMPLEXITY | Time Complexity | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COMPLEXITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Time_Complexity.cpp) |
 | TANDJ1 | Tom And Jerry 1 | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_And_Jerry_1.cpp) |
+| JERRYCHASE | Tom and Jerry Chase | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/JERRYCHASE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tom_and_Jerry_Chase.cpp) |
 | FLOORS | Too many Floors | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_Floors.cpp) |
 | POLYBAGS | Too many items | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Too_many_items.cpp) |
+| PRIZEPOOL | Total Prize Money | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRIZEPOOL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Total_Prize_Money.cpp) |
 | TOURIST | Tourist | [View](https://www.codechef.com/START207D/problems/TOURIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tourist.cpp) |
+| TFPAPER | True and False Paper | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TFPAPER) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/True_and_False_Paper.cpp) |
 | NFS | Turn It | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/NFS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Turn_It.cpp) |
 | TWODISH | Two Dishes | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Dishes.cpp) |
 | TWOPLG | Two Pile Game | [View](https://www.codechef.com/START220D/problems/TWOPLG) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Two_Pile_Game.cpp) |
+| TYRE | Tyre problem | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TYRE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Tyre_problem.cpp) |
 | VALENTINE | Valentine is Coming | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valentine_is_Coming.cpp) |
+| VALIDSTK | Valid Stack Operations | [View](https://www.codechef.com/practice/course/icpc/ICPCTR23/problems/VALIDSTK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Valid_Stack_Operations.cpp) |
+| VOLCONTROL | Volume Control | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/VOLCONTROL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Volume_Control.cpp) |
+| WAITTIME | Waiting Time | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WAITTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Waiting_Time.cpp) |
 | MOVIE2X | Watching Movies at 2x | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Watching_Movies_at_2x.cpp) |
+| WATERFILLING | Water Filling | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Filling.cpp) |
 | WTRMIXING | Water Mixing | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Mixing.cpp) |
+| WATERREQ | Water Requirement | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERREQ) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Water_Requirement.cpp) |
 | WEIGHTBL | Weight Balance | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/WEIGHTBL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weight_Balance.cpp) |
 | WGHTS | Weights | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Weights.cpp) |
+| CPPDEBUG04 | Who is taller | [View](https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG04) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Who_is_taller.cpp) |
 | LMP2E | Winter is Coming | [View](https://www.codechef.com/START221C/problems/LMP2E) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Winter_is_Coming.cpp) |
 | WORDLE | Wordle | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Wordle.cpp) |
 | WCC | World Chess Championship | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/WCC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/World_Chess_Championship.cpp) |
