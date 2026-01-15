@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-193-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-204-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 193
+**Total Problems Solved:** 204
 
 ---
 
@@ -153,15 +153,26 @@
 | PRIMEDICE | Hackerman | [View](https://www.codechef.com/problems/PRIMEDICE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Hackerman.cpp) |
 | HEIGHTRATION | Height of Rationals | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HEIGHTRATION) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Height_of_Rationals.cpp) |
 | PRACLIST | How many unattempted problems | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACLIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/How_many_unattempted_problems.cpp) |
+| IPLTRSH | IPL Ticket Rush | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/IPLTRSH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/IPL_Ticket_Rush.cpp) |
 | INCRIQ | Increase IQ | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INCRIQ) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Increase_IQ.cpp) |
 | INSTAGRAM | Instagram | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSTAGRAM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Instagram.cpp) |
 | INSURANCE | Insurance | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSURANCE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Insurance.cpp) |
 | INTRDSGN | Interior Design | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTRDSGN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Interior_Design.cpp) |
+| HOTCOLD | Is it hot or cold | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HOTCOLD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Is_it_hot_or_cold.cpp) |
+| TRUESCORE | Is the Score Consistent | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Is_the_Score_Consistent.cpp) |
 | MYSERVE | It is My Serve | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MYSERVE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/It_is_My_Serve.cpp) |
+| JASSIGNMENTS | Janmansh and Assignments | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Janmansh_and_Assignments.cpp) |
 | JENGA | Jenga Night | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Jenga_Night.cpp) |
+| ONEMORE | Just One More Episode | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ONEMORE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Just_One_More_Episode.cpp) |
 | KTTABLE | Kitchen Timetable | [View](https://www.codechef.com/problems/KTTABLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timetable.cpp) |
+| KITCHENTIME | Kitchen Timings | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timings.cpp) |
+| LUCKYSEVEN | Lucky Seven | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lucky_Seven.cpp) |
+| LTIME | Lunchtime | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lunchtime.cpp) |
 | OPMIN | MIN To MAX | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MIN_To_MAX.cpp) |
+| AMR15A | Mahasena | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mahasena.cpp) |
+| INCAT | Make Cat | [View](https://www.codechef.com/problems/INCAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Cat.cpp) |
 | MAKESUB | Make Subarray | [View](https://www.codechef.com/START207D/problems/MAKESUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Make_Subarray.cpp) |
+| MANAPTS | Mana Points | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANAPTS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mana_Points.cpp) |
 | BULLET | Mario and Bullet | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mario_and_Bullet.cpp) |
 | MAXTASTE | Maximise the Tastiness | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximise_the_Tastiness.cpp) |
 | MXEVNSUB | Maximum Length Even Subarray | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MXEVNSUB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Maximum_Length_Even_Subarray.cpp) |

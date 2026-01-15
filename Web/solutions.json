@@ -63,6 +63,13 @@
     "filename": "Valentine_is_Coming.cpp"
   },
   {
+    "id": "HOTCOLD",
+    "name": "Is it hot or cold",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HOTCOLD",
+    "sol_path": "Solutions/Is_it_hot_or_cold.cpp",
+    "filename": "Is_it_hot_or_cold.cpp"
+  },
+  {
     "id": "CHEFVACATION",
     "name": "Chef on Vacation",
     "q_link": "https://www.codechef.com/problems/CHEFVACATION",
@@ -315,6 +322,13 @@
     "filename": "Single_use_Attack.cpp"
   },
   {
+    "id": "IPLTRSH",
+    "name": "IPL Ticket Rush",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/IPLTRSH",
+    "sol_path": "Solutions/IPL_Ticket_Rush.cpp",
+    "filename": "IPL_Ticket_Rush.cpp"
+  },
+  {
     "id": "BIN_BAT",
     "name": "Binary Battles",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT",
@@ -476,6 +490,13 @@
     "filename": "Elections_in_Chefland.cpp"
   },
   {
+    "id": "LUCKYSEVEN",
+    "name": "Lucky Seven",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN",
+    "sol_path": "Solutions/Lucky_Seven.cpp",
+    "filename": "Lucky_Seven.cpp"
+  },
+  {
     "id": "EXAMCHEF",
     "name": "Exams",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF",
@@ -530,6 +551,13 @@
     "q_link": "https://www.codechef.com/problems/TLG",
     "sol_path": "Solutions/The_Lead_Game.cpp",
     "filename": "The_Lead_Game.cpp"
+  },
+  {
+    "id": "INCAT",
+    "name": "Make Cat",
+    "q_link": "https://www.codechef.com/problems/INCAT",
+    "sol_path": "Solutions/Make_Cat.cpp",
+    "filename": "Make_Cat.cpp"
   },
   {
     "id": "PROFIT",
@@ -623,6 +651,13 @@
     "filename": "404_Not_Found.cpp"
   },
   {
+    "id": "TRUESCORE",
+    "name": "Is the Score Consistent",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
+    "sol_path": "Solutions/Is_the_Score_Consistent.cpp",
+    "filename": "Is_the_Score_Consistent.cpp"
+  },
+  {
     "id": "POPULATION",
     "name": "Final Population",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/POPULATION",
@@ -714,6 +749,13 @@
     "filename": "Find_Remainder.cpp"
   },
   {
+    "id": "LTIME",
+    "name": "Lunchtime",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME",
+    "sol_path": "Solutions/Lunchtime.cpp",
+    "filename": "Lunchtime.cpp"
+  },
+  {
     "id": "AORB",
     "name": "A or B",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB",
@@ -735,6 +777,13 @@
     "filename": "Coloured_Balloons.cpp"
   },
   {
+    "id": "ONEMORE",
+    "name": "Just One More Episode",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ONEMORE",
+    "sol_path": "Solutions/Just_One_More_Episode.cpp",
+    "filename": "Just_One_More_Episode.cpp"
+  },
+  {
     "id": "FEVER",
     "name": "Fever",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FEVER",
@@ -747,6 +796,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BUILDINGRACE",
     "sol_path": "Solutions/Building_Race.cpp",
     "filename": "Building_Race.cpp"
+  },
+  {
+    "id": "AMR15A",
+    "name": "Mahasena",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A",
+    "sol_path": "Solutions/Mahasena.cpp",
+    "filename": "Mahasena.cpp"
   },
   {
     "id": "CHEFCHOCO",
@@ -1064,6 +1120,13 @@
     "filename": "Recent_contest_problems.cpp"
   },
   {
+    "id": "JASSIGNMENTS",
+    "name": "Janmansh and Assignments",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
+    "sol_path": "Solutions/Janmansh_and_Assignments.cpp",
+    "filename": "Janmansh_and_Assignments.cpp"
+  },
+  {
     "id": "CHEFEREN",
     "name": "Chef Eren",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
@@ -1288,6 +1351,13 @@
     "filename": "Chessboard_Distance.cpp"
   },
   {
+    "id": "MANAPTS",
+    "name": "Mana Points",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANAPTS",
+    "sol_path": "Solutions/Mana_Points.cpp",
+    "filename": "Mana_Points.cpp"
+  },
+  {
     "id": "FLOW004",
     "name": "First and Last Digit",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW004",
@@ -1335,6 +1405,13 @@
     "q_link": "https://www.codechef.com/problems/STOPCOUNT",
     "sol_path": "Solutions/Stop_The_Count.cpp",
     "filename": "Stop_The_Count.cpp"
+  },
+  {
+    "id": "KITCHENTIME",
+    "name": "Kitchen Timings",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME",
+    "sol_path": "Solutions/Kitchen_Timings.cpp",
+    "filename": "Kitchen_Timings.cpp"
   },
   {
     "id": "AIRLINES",
