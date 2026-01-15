@@ -1,10 +1,12 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TOP10
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -16,26 +18,20 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c, d;
-  cin >> a >> b >> c >> d;
-  int max_val = max(a, max(b, max(c, d)));
-  ll ans = (a + b + c + d) - max_val;
-  if (ans >= max_val)
-  {
-    cout << "NO" << endl;
-  }
+  int a;
+  cin >> a;
+  if (a > 10)
+    cout << "NO\n";
   else
-  {
-    cout << "YES" << endl;
-  }
+    cout << "YES\n";
 }
 
 int main()
 {
   FAST_IO;
-  int T;
-  cin >> T;
-  while (T--)
+  int t;
+  cin >> t;
+  while (t--)
     solve();
   return 0;
 }

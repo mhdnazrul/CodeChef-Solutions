@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/problems/MINCOINSREQ
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <iostream>
@@ -18,17 +18,20 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b;
-  cin >> a >> b;
-  cout << (a < b ? b - a : 0) << endl;
+  int n;
+  cin >> n;
+  if (n >= 10)
+    cout << n % 10 << endl;
+  else
+    cout << n << endl;
 }
 
 int main()
 {
   FAST_IO;
-  int T;
-  cin >> T;
-  for (int i = 1; i <= T; ++i)
+  int Test_case;
+  cin >> Test_case;
+  for (int i = 1; i <= Test_case; ++i)
   {
     // cout << "Case " << i << ": ";
     solve();

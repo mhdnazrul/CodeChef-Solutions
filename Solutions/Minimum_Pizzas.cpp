@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINPIZZA
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -16,11 +16,11 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b, c;
-  cin >> a >> b >> c;
-  int max_val = max(a, max(b, c));
-  int min2val = (a + b + c) - max_val;
-  cout << (min2val < max_val ? "YES" : "NO") << endl;
+  int n, x;
+  cin >> n >> x;
+  int total_slices = n * x;
+  int min_pizzas = ceil((double)total_slices / 4.0);
+  cout << min_pizzas << endl;
 }
 
 int main()

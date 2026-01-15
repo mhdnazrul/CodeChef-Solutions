@@ -1,12 +1,10 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NEARESTEXIT
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
-#include <iostream>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -18,20 +16,20 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a;
-  cin >> a;
-  if (a > 10)
-    cout << "NO\n";
-  else
-    cout << "YES\n";
+  int n;
+  cin >> n;
+  if (n <= 50)
+    cout << "Left" << endl;
+  else if (n <= 100)
+    cout << "Right" << endl;
 }
 
 int main()
 {
   FAST_IO;
-  int t;
-  cin >> t;
-  while (t--)
+  int T;
+  cin >> T;
+  while (T--)
     solve();
   return 0;
 }

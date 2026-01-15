@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/F1RULE
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
@@ -13,10 +13,9 @@ using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
 void solve() {
-  int T;
-  cin >> T;
-  int time = T * 60;
-  cout << time / 30 << endl;
+  float a, b;
+  cin >> a >> b;
+  cout << (a * 1.07 >= b ? "YES" : "NO") << endl;
 }
 
 int main() {

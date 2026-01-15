@@ -1,33 +1,27 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
-  │Problem Link:
+  │Problem Link:https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MAXIMUMSUBS
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 
 #include <bits/stdc++.h>
 using namespace std;
-#define FAST_IO                \
-  ios::sync_with_stdio(false); \
-  cin.tie(nullptr);
+#define FAST_IO ios::sync_with_stdio(false); cin.tie(nullptr);
 using ll = long long;
 using vi = vector<int>;
 using vll = vector<ll>;
 const ll mod = 1e9 + 7;
 
-void solve()
-{
-  int flag, a;
-  cin >> flag >> a;
-  ll n = a * 30;
-  cout << (n <= flag ? "YES" : "NO") << endl;
-}
-
-int main()
-{
-  FAST_IO;
+void solve() {
   int T;
   cin >> T;
-  while (T--)
+  int time = T * 60;
+  cout << time / 30 << endl;
+}
+
+int main() {
+  FAST_IO;
+  int T; cin >> T;while(T--)
     solve();
   return 0;
 }
