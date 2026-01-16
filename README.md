@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-269-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-272-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 269
+**Total Problems Solved:** 272
 
 ---
 
@@ -28,6 +28,7 @@
 | ERROR404 | 404 Not Found | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ERROR404) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
 | AORB | A or B | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_or_B.cpp) |
 | HS08TEST | ATM | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
+| ATM2 | ATM Machine | [View](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/ATM2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM_Machine.cpp) |
 | ADDONE | Add One | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Add_One.cpp) |
 | AGEING | Ageing | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ageing.cpp) |
 | ACTEMP | Air Conditioner Temperature | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Conditioner_Temperature.cpp) |
@@ -122,6 +123,7 @@
 | DOUBLERENT | Double Rent | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOUBLERENT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Double_Rent.cpp) |
 | CHEAT | Dracula Eats | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEAT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Dracula_Eats.cpp) |
 | EXMLF1 | EXML Race | [View](https://www.codechef.com/START213C/problems/EXMLF1) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/EXML_Race.cpp) |
+| EZSPEAK | Easy Pronunciation | [View](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/EZSPEAK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Easy_Pronunciation.cpp) |
 | ELECTN | Elections in Chefland | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Elections_in_Chefland.cpp) |
 | MOZZ | Endless Appetizers | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Endless_Appetizers.cpp) |
 | INTEST | Enormous Input Test | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Enormous_Input_Test.cpp) |
@@ -255,6 +257,7 @@
 | SUGARCANE | Sugarcane Juice Business | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sugarcane_Juice_Business.cpp) |
 | SUMM | Sum it | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SUMM) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_it.cpp) |
 | FLOW006 | Sum of Digits | [View](https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/FLOW006) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sum_of_Digits.cpp) |
+| EXAMTIME | TCS Examination | [View](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/EXAMTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/TCS_Examination.cpp) |
 | TVDISC | TV Discount | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TVDISC) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/TV_Discount.cpp) |
 | DISCOUNTT | Take discount or Not | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Take_discount_or_Not.cpp) |
 | CHEFSCORE | Test Score | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFSCORE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Test_Score.cpp) |

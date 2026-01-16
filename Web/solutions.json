@@ -196,6 +196,13 @@
     "filename": "Good_Investment_or_Not.cpp"
   },
   {
+    "id": "EZSPEAK",
+    "name": "Easy Pronunciation",
+    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/EZSPEAK",
+    "sol_path": "Solutions/Easy_Pronunciation.cpp",
+    "filename": "Easy_Pronunciation.cpp"
+  },
+  {
     "id": "ADDONE",
     "name": "Add One",
     "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE",
@@ -446,6 +453,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2",
     "sol_path": "Solutions/Small_factorials.cpp",
     "filename": "Small_factorials.cpp"
+  },
+  {
+    "id": "ATM2",
+    "name": "ATM Machine",
+    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/ATM2",
+    "sol_path": "Solutions/ATM_Machine.cpp",
+    "filename": "ATM_Machine.cpp"
   },
   {
     "id": "PRACLIST",
@@ -845,6 +859,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/REACHFAST",
     "sol_path": "Solutions/Reach_fast.cpp",
     "filename": "Reach_fast.cpp"
+  },
+  {
+    "id": "EXAMTIME",
+    "name": "TCS Examination",
+    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/EXAMTIME",
+    "sol_path": "Solutions/TCS_Examination.cpp",
+    "filename": "TCS_Examination.cpp"
   },
   {
     "id": "CWIREFRAME",
