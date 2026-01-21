@@ -91,6 +91,13 @@
     "filename": "Chef_on_Vacation.cpp"
   },
   {
+    "id": "SORTPREF",
+    "name": "Sorting Prefixes",
+    "q_link": "https://www.codechef.com/START222D/problems/SORTPREF",
+    "sol_path": "Solutions/Sorting_Prefixes.cpp",
+    "filename": "Sorting_Prefixes.cpp"
+  },
+  {
     "id": "MAX_DIFF",
     "name": "The Two Dishes",
     "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF",
@@ -334,6 +341,13 @@
     "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MANYSUMS",
     "sol_path": "Solutions/Distinct_Pair_Sums.cpp",
     "filename": "Distinct_Pair_Sums.cpp"
+  },
+  {
+    "id": "POPCORN7",
+    "name": "Popcorn Buying",
+    "q_link": "https://www.codechef.com/START222D/problems/POPCORN7",
+    "sol_path": "Solutions/Popcorn_Buying.cpp",
+    "filename": "Popcorn_Buying.cpp"
   },
   {
     "id": "POLTHIEF",
@@ -1659,6 +1673,13 @@
     "filename": "Degree_of_Polynomial.cpp"
   },
   {
+    "id": "CANDYTYPE",
+    "name": "Candy Types",
+    "q_link": "https://www.codechef.com/START222D/problems/CANDYTYPE",
+    "sol_path": "Solutions/Candy_Types.cpp",
+    "filename": "Candy_Types.cpp"
+  },
+  {
     "id": "BROKENPHONE",
     "name": "Broken Phone",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE",
@@ -1671,6 +1692,13 @@
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COURSEREG",
     "sol_path": "Solutions/Course_Registration.cpp",
     "filename": "Course_Registration.cpp"
+  },
+  {
+    "id": "LAYERCAKE",
+    "name": "Layered Cake",
+    "q_link": "https://www.codechef.com/START222D/problems/LAYERCAKE",
+    "sol_path": "Solutions/Layered_Cake.cpp",
+    "filename": "Layered_Cake.cpp"
   },
   {
     "id": "CHN15A",

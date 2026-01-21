@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-272-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-276-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 272
+**Total Problems Solved:** 276
 
 ---
 
@@ -56,6 +56,7 @@
 | CREDCOINS | CRED Coins | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/CRED_Coins.cpp) |
 | CANDYDIST | Candy Distribution | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CANDYDIST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Candy_Distribution.cpp) |
 | CANDIVIDE | Candy Division | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CANDIVIDE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Candy_Division.cpp) |
+| CANDYTYPE | Candy Types | [View](https://www.codechef.com/START222D/problems/CANDYTYPE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Candy_Types.cpp) |
 | CARCHOICE | Car Choice | [View](https://www.codechef.com/problems/CARCHOICE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_Choice.cpp) |
 | CARTRIP | Car Trip | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_Trip.cpp) |
 | TRAVELFAST | Car or Bike | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Car_or_Bike.cpp) |
@@ -168,6 +169,7 @@
 | ONEMORE | Just One More Episode | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ONEMORE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Just_One_More_Episode.cpp) |
 | KTTABLE | Kitchen Timetable | [View](https://www.codechef.com/problems/KTTABLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timetable.cpp) |
 | KITCHENTIME | Kitchen Timings | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timings.cpp) |
+| LAYERCAKE | Layered Cake | [View](https://www.codechef.com/START222D/problems/LAYERCAKE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Layered_Cake.cpp) |
 | LUCKYSEVEN | Lucky Seven | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lucky_Seven.cpp) |
 | LTIME | Lunchtime | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lunchtime.cpp) |
 | M1ENROL | MATH1 Enrolment | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/M1ENROL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MATH1_Enrolment.cpp) |
@@ -211,6 +213,7 @@
 | ASSIGNMNT | Pending Assignments | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ASSIGNMNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Pending_Assignments.cpp) |
 | SONGS | Playlist | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SONGS) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Playlist.cpp) |
 | POLTHIEF | Police and Thief | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Police_and_Thief.cpp) |
+| POPCORN7 | Popcorn Buying | [View](https://www.codechef.com/START222D/problems/POPCORN7) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Popcorn_Buying.cpp) |
 | T20MCH | Possible Victory | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Possible_Victory.cpp) |
 | PRACTICEPERF | Practice makes us perfect | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACTICEPERF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_makes_us_perfect.cpp) |
 | BMCV206 | Practice problem Fitness | [View](https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Practice_problem_Fitness.cpp) |
@@ -249,6 +252,7 @@
 | FLOW018 | Small Factorial | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_Factorial.cpp) |
 | FCTRL2 | Small factorials | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Small_factorials.cpp) |
 | SMOL | Smallest Possible Whole Number | [View](https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/SMOL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Smallest_Possible_Whole_Number.cpp) |
+| SORTPREF | Sorting Prefixes | [View](https://www.codechef.com/START222D/problems/SORTPREF) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sorting_Prefixes.cpp) |
 | SPECIALITY | Speciality | [View](https://www.codechef.com/problems/SPECIALITY) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speciality.cpp) |
 | SPEEDTEST | Speed Limit Test | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Speed_Limit_Test.cpp) |
 | KITCHENSPICE | Spice Level | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENSPICE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Spice_Level.cpp) |
