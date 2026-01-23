@@ -413,6 +413,13 @@
     "filename": "Test_Score.cpp"
   },
   {
+    "id": "PALINDRCHECK",
+    "name": "Reverse Words in a String",
+    "q_link": "http://codechef.com/practice/course/strings/STRINGS/problems/PALINDRCHECK",
+    "sol_path": "Solutions/Reverse_Words_in_a_String.cpp",
+    "filename": "Reverse_Words_in_a_String.cpp"
+  },
+  {
     "id": "FSQRT",
     "name": "Finding Square Roots",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT",
@@ -502,6 +509,13 @@
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303",
     "sol_path": "Solutions/Chef_Fantasy_11.cpp",
     "filename": "Chef_Fantasy_11.cpp"
+  },
+  {
+    "id": "REMOVEPAREN",
+    "name": "Remove Outermost Parentheses",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/REMOVEPAREN",
+    "sol_path": "Solutions/Remove_Outermost_Parentheses.cpp",
+    "filename": "Remove_Outermost_Parentheses.cpp"
   },
   {
     "id": "BULLET",

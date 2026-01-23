@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-276-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-278-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 276
+**Total Problems Solved:** 278
 
 ---
 
@@ -233,7 +233,9 @@
 | READPAGES | Read Pages | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/READPAGES) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Read_Pages.cpp) |
 | RECENTCONT | Recent contest problems | [View](https://www.codechef.com/problems/RECENTCONT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Recent_contest_problems.cpp) |
 | RCTGLD | Rectangled | [View](https://www.codechef.com/problems/RCTGLD) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Rectangled.cpp) |
+| REMOVEPAREN | Remove Outermost Parentheses | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/REMOVEPAREN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Remove_Outermost_Parentheses.cpp) |
 | FLOW007 | Reverse The Number | [View](https://www.codechef.com/problems/FLOW007) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reverse_The_Number.cpp) |
+| PALINDRCHECK | Reverse Words in a String | [View](http://codechef.com/practice/course/strings/STRINGS/problems/PALINDRCHECK) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Reverse_Words_in_a_String.cpp) |
 | RIGHTTHERE | Right There | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIGHTTHERE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Right_There.cpp) |
 | CPPDEBUG07 | Roller Coaster | [View](https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG07) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Roller_Coaster.cpp) |
 | SALESEASON | Sale Season | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sale_Season.cpp) |
