@@ -1,115 +1,17 @@
 [
   {
-    "id": "OFFICE",
-    "name": "Chef in his Office",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
-    "sol_path": "Solutions/Chef_in_his_Office.cpp",
-    "filename": "Chef_in_his_Office.cpp"
+    "id": "HAPPYSTR",
+    "name": "Chef and Happy String",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR",
+    "sol_path": "Solutions/Chef_and_Happy_String.cpp",
+    "filename": "Chef_and_Happy_String.cpp"
   },
   {
-    "id": "NO4S",
-    "name": "No 4 Please",
-    "q_link": "https://www.codechef.com/START213C/problems/NO4S",
-    "sol_path": "Solutions/No_4_Please.cpp",
-    "filename": "No_4_Please.cpp"
-  },
-  {
-    "id": "MOOCHEF",
-    "name": "Moody Chef",
-    "q_link": "https://www.codechef.com/problems/MOOCHEF",
-    "sol_path": "Solutions/Moody_Chef.cpp",
-    "filename": "Moody_Chef.cpp"
-  },
-  {
-    "id": "EXMLF1",
-    "name": "EXML Race",
-    "q_link": "https://www.codechef.com/START213C/problems/EXMLF1",
-    "sol_path": "Solutions/EXML_Race.cpp",
-    "filename": "EXML_Race.cpp"
-  },
-  {
-    "id": "DNATION",
-    "name": "Chef and Donation",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DNATION",
-    "sol_path": "Solutions/Chef_and_Donation.cpp",
-    "filename": "Chef_and_Donation.cpp"
-  },
-  {
-    "id": "CUREX",
-    "name": "Currency Exchange",
-    "q_link": "https://www.codechef.com/problems/CUREX",
-    "sol_path": "Solutions/Currency_Exchange.cpp",
-    "filename": "Currency_Exchange.cpp"
-  },
-  {
-    "id": "RIGHTTHERE",
-    "name": "Right There",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIGHTTHERE",
-    "sol_path": "Solutions/Right_There.cpp",
-    "filename": "Right_There.cpp"
-  },
-  {
-    "id": "BATTERYLOW",
-    "name": "Battery Low",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BATTERYLOW",
-    "sol_path": "Solutions/Battery_Low.cpp",
-    "filename": "Battery_Low.cpp"
-  },
-  {
-    "id": "CHFSPL",
-    "name": "Chef and Spells",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CHFSPL",
-    "sol_path": "Solutions/Chef_and_Spells.cpp",
-    "filename": "Chef_and_Spells.cpp"
-  },
-  {
-    "id": "QUALIFY",
-    "name": "Qualify the round",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/QUALIFY",
-    "sol_path": "Solutions/Qualify_the_round.cpp",
-    "filename": "Qualify_the_round.cpp"
-  },
-  {
-    "id": "VALENTINE",
-    "name": "Valentine is Coming",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE",
-    "sol_path": "Solutions/Valentine_is_Coming.cpp",
-    "filename": "Valentine_is_Coming.cpp"
-  },
-  {
-    "id": "HOTCOLD",
-    "name": "Is it hot or cold",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HOTCOLD",
-    "sol_path": "Solutions/Is_it_hot_or_cold.cpp",
-    "filename": "Is_it_hot_or_cold.cpp"
-  },
-  {
-    "id": "CHEFVACATION",
-    "name": "Chef on Vacation",
-    "q_link": "https://www.codechef.com/problems/CHEFVACATION",
-    "sol_path": "Solutions/Chef_on_Vacation.cpp",
-    "filename": "Chef_on_Vacation.cpp"
-  },
-  {
-    "id": "SORTPREF",
-    "name": "Sorting Prefixes",
-    "q_link": "https://www.codechef.com/START222D/problems/SORTPREF",
-    "sol_path": "Solutions/Sorting_Prefixes.cpp",
-    "filename": "Sorting_Prefixes.cpp"
-  },
-  {
-    "id": "MAX_DIFF",
-    "name": "The Two Dishes",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF",
-    "sol_path": "Solutions/The_Two_Dishes.cpp",
-    "filename": "The_Two_Dishes.cpp"
-  },
-  {
-    "id": "DECDISC",
-    "name": "Decoration Discount",
-    "q_link": "https://www.codechef.com/problems/DECDISC",
-    "sol_path": "Solutions/Decoration_Discount.cpp",
-    "filename": "Decoration_Discount.cpp"
+    "id": "BESTOFTWO",
+    "name": "Best of Two",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BESTOFTWO",
+    "sol_path": "Solutions/Best_of_Two.cpp",
+    "filename": "Best_of_Two.cpp"
   },
   {
     "id": "PRIMEDICE",
@@ -119,130 +21,11 @@
     "filename": "Hackerman.cpp"
   },
   {
-    "id": "WCC",
-    "name": "World Chess Championship",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/WCC",
-    "sol_path": "Solutions/World_Chess_Championship.cpp",
-    "filename": "World_Chess_Championship.cpp"
-  },
-  {
-    "id": "BATH",
-    "name": "Bath in Winters",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
-    "sol_path": "Solutions/Bath_in_Winters.cpp",
-    "filename": "Bath_in_Winters.cpp"
-  },
-  {
-    "id": "POLYBAGS",
-    "name": "Too many items",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS",
-    "sol_path": "Solutions/Too_many_items.cpp",
-    "filename": "Too_many_items.cpp"
-  },
-  {
-    "id": "BMCV206",
-    "name": "Practice problem Fitness",
-    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206",
-    "sol_path": "Solutions/Practice_problem_Fitness.cpp",
-    "filename": "Practice_problem_Fitness.cpp"
-  },
-  {
-    "id": "LMP1",
-    "name": "Protein Diet",
-    "q_link": "https://www.codechef.com/START221C/problems/LMP1",
-    "sol_path": "Solutions/Protein_Diet.cpp",
-    "filename": "Protein_Diet.cpp"
-  },
-  {
-    "id": "BIRYANI",
-    "name": "Biryani classes",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BIRYANI",
-    "sol_path": "Solutions/Biryani_classes.cpp",
-    "filename": "Biryani_classes.cpp"
-  },
-  {
-    "id": "DOUBLERENT",
-    "name": "Double Rent",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOUBLERENT",
-    "sol_path": "Solutions/Double_Rent.cpp",
-    "filename": "Double_Rent.cpp"
-  },
-  {
-    "id": "PUZHUNT",
-    "name": "Puzzle Hunt",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PUZHUNT",
-    "sol_path": "Solutions/Puzzle_Hunt.cpp",
-    "filename": "Puzzle_Hunt.cpp"
-  },
-  {
-    "id": "LMP2E",
-    "name": "Winter is Coming",
-    "q_link": "https://www.codechef.com/START221C/problems/LMP2E",
-    "sol_path": "Solutions/Winter_is_Coming.cpp",
-    "filename": "Winter_is_Coming.cpp"
-  },
-  {
-    "id": "SUMM",
-    "name": "Sum it",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SUMM",
-    "sol_path": "Solutions/Sum_it.cpp",
-    "filename": "Sum_it.cpp"
-  },
-  {
-    "id": "DECINC",
-    "name": "Decrement OR Increment",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DECINC",
-    "sol_path": "Solutions/Decrement_OR_Increment.cpp",
-    "filename": "Decrement_OR_Increment.cpp"
-  },
-  {
-    "id": "INVESTMENT",
-    "name": "Good Investment or Not",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INVESTMENT",
-    "sol_path": "Solutions/Good_Investment_or_Not.cpp",
-    "filename": "Good_Investment_or_Not.cpp"
-  },
-  {
-    "id": "EZSPEAK",
-    "name": "Easy Pronunciation",
-    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/EZSPEAK",
-    "sol_path": "Solutions/Easy_Pronunciation.cpp",
-    "filename": "Easy_Pronunciation.cpp"
-  },
-  {
-    "id": "ADDONE",
-    "name": "Add One",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE",
-    "sol_path": "Solutions/Add_One.cpp",
-    "filename": "Add_One.cpp"
-  },
-  {
-    "id": "FLOW007",
-    "name": "Reverse The Number",
-    "q_link": "https://www.codechef.com/problems/FLOW007",
-    "sol_path": "Solutions/Reverse_The_Number.cpp",
-    "filename": "Reverse_The_Number.cpp"
-  },
-  {
-    "id": "SALESEASON",
-    "name": "Sale Season",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON",
-    "sol_path": "Solutions/Sale_Season.cpp",
-    "filename": "Sale_Season.cpp"
-  },
-  {
-    "id": "DNASTRAND",
-    "name": "Complementary Strand in a DNA",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DNASTRAND",
-    "sol_path": "Solutions/Complementary_Strand_in_a_DNA.cpp",
-    "filename": "Complementary_Strand_in_a_DNA.cpp"
-  },
-  {
-    "id": "INSTAGRAM",
-    "name": "Instagram",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSTAGRAM",
-    "sol_path": "Solutions/Instagram.cpp",
-    "filename": "Instagram.cpp"
+    "id": "SUGARCANE",
+    "name": "Sugarcane Juice Business",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE",
+    "sol_path": "Solutions/Sugarcane_Juice_Business.cpp",
+    "filename": "Sugarcane_Juice_Business.cpp"
   },
   {
     "id": "BLACKJACK",
@@ -252,55 +35,6 @@
     "filename": "Blackjack.cpp"
   },
   {
-    "id": "CPPDEBUG04",
-    "name": "Who is taller",
-    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG04",
-    "sol_path": "Solutions/Who_is_taller.cpp",
-    "filename": "Who_is_taller.cpp"
-  },
-  {
-    "id": "PRIZEPOOL",
-    "name": "Total Prize Money",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRIZEPOOL",
-    "sol_path": "Solutions/Total_Prize_Money.cpp",
-    "filename": "Total_Prize_Money.cpp"
-  },
-  {
-    "id": "JADEBUG11",
-    "name": "Get Subscription",
-    "q_link": "https://www.codechef.com/practice/course/company-prep/PJA11/problems/JADEBUG11",
-    "sol_path": "Solutions/Get_Subscription.cpp",
-    "filename": "Get_Subscription.cpp"
-  },
-  {
-    "id": "RAINFALL1",
-    "name": "Rain in Chefland",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RAINFALL1",
-    "sol_path": "Solutions/Rain_in_Chefland.cpp",
-    "filename": "Rain_in_Chefland.cpp"
-  },
-  {
-    "id": "BMCV201",
-    "name": "Basic math Addition and multiplication",
-    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201",
-    "sol_path": "Solutions/Basic_math_Addition_and_multiplication.cpp",
-    "filename": "Basic_math_Addition_and_multiplication.cpp"
-  },
-  {
-    "id": "DOMINANT",
-    "name": "Dominant Army",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOMINANT",
-    "sol_path": "Solutions/Dominant_Army.cpp",
-    "filename": "Dominant_Army.cpp"
-  },
-  {
-    "id": "FBC",
-    "name": "Fill the Bucket",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FBC",
-    "sol_path": "Solutions/Fill_the_Bucket.cpp",
-    "filename": "Fill_the_Bucket.cpp"
-  },
-  {
     "id": "WGHTS",
     "name": "Weights",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS",
@@ -308,186 +42,18 @@
     "filename": "Weights.cpp"
   },
   {
-    "id": "TWODISH",
-    "name": "Two Dishes",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH",
-    "sol_path": "Solutions/Two_Dishes.cpp",
-    "filename": "Two_Dishes.cpp"
+    "id": "JASSIGNMENTS",
+    "name": "Janmansh and Assignments",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
+    "sol_path": "Solutions/Janmansh_and_Assignments.cpp",
+    "filename": "Janmansh_and_Assignments.cpp"
   },
   {
-    "id": "DNASTORAGE",
-    "name": "DNA Storage",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE",
-    "sol_path": "Solutions/DNA_Storage.cpp",
-    "filename": "DNA_Storage.cpp"
-  },
-  {
-    "id": "NOTEBOOK",
-    "name": "Count the Notebooks",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK",
-    "sol_path": "Solutions/Count_the_Notebooks.cpp",
-    "filename": "Count_the_Notebooks.cpp"
-  },
-  {
-    "id": "SST",
-    "name": "Sasta Shark Tank",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SST",
-    "sol_path": "Solutions/Sasta_Shark_Tank.cpp",
-    "filename": "Sasta_Shark_Tank.cpp"
-  },
-  {
-    "id": "MANYSUMS",
-    "name": "Distinct Pair Sums",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MANYSUMS",
-    "sol_path": "Solutions/Distinct_Pair_Sums.cpp",
-    "filename": "Distinct_Pair_Sums.cpp"
-  },
-  {
-    "id": "POPCORN7",
-    "name": "Popcorn Buying",
-    "q_link": "https://www.codechef.com/START222D/problems/POPCORN7",
-    "sol_path": "Solutions/Popcorn_Buying.cpp",
-    "filename": "Popcorn_Buying.cpp"
-  },
-  {
-    "id": "POLTHIEF",
-    "name": "Police and Thief",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF",
-    "sol_path": "Solutions/Police_and_Thief.cpp",
-    "filename": "Police_and_Thief.cpp"
-  },
-  {
-    "id": "CLEARDAY",
-    "name": "Clear Day",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CLEARDAY",
-    "sol_path": "Solutions/Clear_Day.cpp",
-    "filename": "Clear_Day.cpp"
-  },
-  {
-    "id": "GOODWEAT",
-    "name": "Good Weather",
-    "q_link": "https://www.codechef.com/problems/GOODWEAT",
-    "sol_path": "Solutions/Good_Weather.cpp",
-    "filename": "Good_Weather.cpp"
-  },
-  {
-    "id": "CARCHOICE",
-    "name": "Car Choice",
-    "q_link": "https://www.codechef.com/problems/CARCHOICE",
-    "sol_path": "Solutions/Car_Choice.cpp",
-    "filename": "Car_Choice.cpp"
-  },
-  {
-    "id": "BULLBEAR",
-    "name": "Bull or Bear",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BULLBEAR",
-    "sol_path": "Solutions/Bull_or_Bear.cpp",
-    "filename": "Bull_or_Bear.cpp"
-  },
-  {
-    "id": "TITLECASE",
-    "name": "Convert String to Title Case",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE",
-    "sol_path": "Solutions/Convert_String_to_Title_Case.cpp",
-    "filename": "Convert_String_to_Title_Case.cpp"
-  },
-  {
-    "id": "MONOPOLY2",
-    "name": "Multivitamin Tablets",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MONOPOLY2",
-    "sol_path": "Solutions/Multivitamin_Tablets.cpp",
-    "filename": "Multivitamin_Tablets.cpp"
-  },
-  {
-    "id": "NFS",
-    "name": "Turn It",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/NFS",
-    "sol_path": "Solutions/Turn_It.cpp",
-    "filename": "Turn_It.cpp"
-  },
-  {
-    "id": "CHEFSCORE",
-    "name": "Test Score",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFSCORE",
-    "sol_path": "Solutions/Test_Score.cpp",
-    "filename": "Test_Score.cpp"
-  },
-  {
-    "id": "PALINDRCHECK",
-    "name": "Reverse Words in a String",
-    "q_link": "http://codechef.com/practice/course/strings/STRINGS/problems/PALINDRCHECK",
-    "sol_path": "Solutions/Reverse_Words_in_a_String.cpp",
-    "filename": "Reverse_Words_in_a_String.cpp"
-  },
-  {
-    "id": "FSQRT",
-    "name": "Finding Square Roots",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT",
-    "sol_path": "Solutions/Finding_Square_Roots.cpp",
-    "filename": "Finding_Square_Roots.cpp"
-  },
-  {
-    "id": "SINGLEUSE",
-    "name": "Single use Attack",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SINGLEUSE",
-    "sol_path": "Solutions/Single_use_Attack.cpp",
-    "filename": "Single_use_Attack.cpp"
-  },
-  {
-    "id": "SUGARCANE",
-    "name": "Sugarcane Juice Business",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE",
-    "sol_path": "Solutions/Sugarcane_Juice_Business.cpp",
-    "filename": "Sugarcane_Juice_Business.cpp"
-  },
-  {
-    "id": "IPLTRSH",
-    "name": "IPL Ticket Rush",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/IPLTRSH",
-    "sol_path": "Solutions/IPL_Ticket_Rush.cpp",
-    "filename": "IPL_Ticket_Rush.cpp"
-  },
-  {
-    "id": "BIN_BAT",
-    "name": "Binary Battles",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT",
-    "sol_path": "Solutions/Binary_Battles.cpp",
-    "filename": "Binary_Battles.cpp"
-  },
-  {
-    "id": "DONDRIVE",
-    "name": "Donation Drive",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DONDRIVE",
-    "sol_path": "Solutions/Donation_Drive.cpp",
-    "filename": "Donation_Drive.cpp"
-  },
-  {
-    "id": "CARTRIP",
-    "name": "Car Trip",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP",
-    "sol_path": "Solutions/Car_Trip.cpp",
-    "filename": "Car_Trip.cpp"
-  },
-  {
-    "id": "FCTRL2",
-    "name": "Small factorials",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2",
-    "sol_path": "Solutions/Small_factorials.cpp",
-    "filename": "Small_factorials.cpp"
-  },
-  {
-    "id": "ATM2",
-    "name": "ATM Machine",
-    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/ATM2",
-    "sol_path": "Solutions/ATM_Machine.cpp",
-    "filename": "ATM_Machine.cpp"
-  },
-  {
-    "id": "PRACLIST",
-    "name": "How many unattempted problems",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACLIST",
-    "sol_path": "Solutions/How_many_unattempted_problems.cpp",
-    "filename": "How_many_unattempted_problems.cpp"
+    "id": "FLOORS",
+    "name": "Too many Floors",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS",
+    "sol_path": "Solutions/Too_many_Floors.cpp",
+    "filename": "Too_many_Floors.cpp"
   },
   {
     "id": "ACTEMP",
@@ -497,158 +63,39 @@
     "filename": "Air_Conditioner_Temperature.cpp"
   },
   {
-    "id": "T20MCH",
-    "name": "Possible Victory",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH",
-    "sol_path": "Solutions/Possible_Victory.cpp",
-    "filename": "Possible_Victory.cpp"
+    "id": "KTTABLE",
+    "name": "Kitchen Timetable",
+    "q_link": "https://www.codechef.com/problems/KTTABLE",
+    "sol_path": "Solutions/Kitchen_Timetable.cpp",
+    "filename": "Kitchen_Timetable.cpp"
   },
   {
-    "id": "FIZZBUZZ2303",
-    "name": "Chef Fantasy 11",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303",
-    "sol_path": "Solutions/Chef_Fantasy_11.cpp",
-    "filename": "Chef_Fantasy_11.cpp"
+    "id": "DIFFCONSEC",
+    "name": "Different Consecutive Characters",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/DIFFCONSEC",
+    "sol_path": "Solutions/Different_Consecutive_Characters.cpp",
+    "filename": "Different_Consecutive_Characters.cpp"
   },
   {
-    "id": "REMOVEPAREN",
-    "name": "Remove Outermost Parentheses",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/REMOVEPAREN",
-    "sol_path": "Solutions/Remove_Outermost_Parentheses.cpp",
-    "filename": "Remove_Outermost_Parentheses.cpp"
+    "id": "AVGPROBLEM",
+    "name": "Greater Average",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM",
+    "sol_path": "Solutions/Greater_Average.cpp",
+    "filename": "Greater_Average.cpp"
   },
   {
-    "id": "BULLET",
-    "name": "Mario and Bullet",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET",
-    "sol_path": "Solutions/Mario_and_Bullet.cpp",
-    "filename": "Mario_and_Bullet.cpp"
+    "id": "POPCORN7",
+    "name": "Popcorn Buying",
+    "q_link": "https://www.codechef.com/START222D/problems/POPCORN7",
+    "sol_path": "Solutions/Popcorn_Buying.cpp",
+    "filename": "Popcorn_Buying.cpp"
   },
   {
-    "id": "AGEING",
-    "name": "Ageing",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING",
-    "sol_path": "Solutions/Ageing.cpp",
-    "filename": "Ageing.cpp"
-  },
-  {
-    "id": "BTRYHLTH",
-    "name": "Battery Health",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BTRYHLTH",
-    "sol_path": "Solutions/Battery_Health.cpp",
-    "filename": "Battery_Health.cpp"
-  },
-  {
-    "id": "RIP2000",
-    "name": "2000",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIP2000",
-    "sol_path": "Solutions/2000.cpp",
-    "filename": "2000.cpp"
-  },
-  {
-    "id": "CHEAT",
-    "name": "Dracula Eats",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEAT",
-    "sol_path": "Solutions/Dracula_Eats.cpp",
-    "filename": "Dracula_Eats.cpp"
-  },
-  {
-    "id": "SCORING",
-    "name": "Scoring",
-    "q_link": "https://www.codechef.com/START216D/problems/SCORING",
-    "sol_path": "Solutions/Scoring.cpp",
-    "filename": "Scoring.cpp"
-  },
-  {
-    "id": "P1HOME",
-    "name": "Dice Play",
-    "q_link": "https://www.codechef.com/problems/P1HOME",
-    "sol_path": "Solutions/Dice_Play.cpp",
-    "filename": "Dice_Play.cpp"
-  },
-  {
-    "id": "PROBCAT",
-    "name": "Problem Category",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/PROBCAT",
-    "sol_path": "Solutions/Problem_Category.cpp",
-    "filename": "Problem_Category.cpp"
-  },
-  {
-    "id": "SPEEDTEST",
-    "name": "Speed Limit Test",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST",
-    "sol_path": "Solutions/Speed_Limit_Test.cpp",
-    "filename": "Speed_Limit_Test.cpp"
-  },
-  {
-    "id": "SNDMAX",
-    "name": "Second Max of Three Numbers",
-    "q_link": "https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/SNDMAX",
-    "sol_path": "Solutions/Second_Max_of_Three_Numbers.cpp",
-    "filename": "Second_Max_of_Three_Numbers.cpp"
-  },
-  {
-    "id": "GEMBUND",
-    "name": "Gem Bundles",
-    "q_link": "https://www.codechef.com/problems/GEMBUND",
-    "sol_path": "Solutions/Gem_Bundles.cpp",
-    "filename": "Gem_Bundles.cpp"
-  },
-  {
-    "id": "DISCNT",
-    "name": "Discount",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT",
-    "sol_path": "Solutions/Discount.cpp",
-    "filename": "Discount.cpp"
-  },
-  {
-    "id": "CRICUP",
-    "name": "Cup Finals",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CRICUP",
-    "sol_path": "Solutions/Cup_Finals.cpp",
-    "filename": "Cup_Finals.cpp"
-  },
-  {
-    "id": "AIRINDEX",
-    "name": "Air Quality Index",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX",
-    "sol_path": "Solutions/Air_Quality_Index.cpp",
-    "filename": "Air_Quality_Index.cpp"
-  },
-  {
-    "id": "MOVIE2X",
-    "name": "Watching Movies at 2x",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X",
-    "sol_path": "Solutions/Watching_Movies_at_2x.cpp",
-    "filename": "Watching_Movies_at_2x.cpp"
-  },
-  {
-    "id": "ELECTN",
-    "name": "Elections in Chefland",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN",
-    "sol_path": "Solutions/Elections_in_Chefland.cpp",
-    "filename": "Elections_in_Chefland.cpp"
-  },
-  {
-    "id": "LUCKYSEVEN",
-    "name": "Lucky Seven",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN",
-    "sol_path": "Solutions/Lucky_Seven.cpp",
-    "filename": "Lucky_Seven.cpp"
-  },
-  {
-    "id": "EXAMCHEF",
-    "name": "Exams",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF",
-    "sol_path": "Solutions/Exams.cpp",
-    "filename": "Exams.cpp"
-  },
-  {
-    "id": "AUDIBLE",
-    "name": "Audible Range",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE",
-    "sol_path": "Solutions/Audible_Range.cpp",
-    "filename": "Audible_Range.cpp"
+    "id": "KITCHENTIME",
+    "name": "Kitchen Timings",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME",
+    "sol_path": "Solutions/Kitchen_Timings.cpp",
+    "filename": "Kitchen_Timings.cpp"
   },
   {
     "id": "TVDISC",
@@ -658,228 +105,25 @@
     "filename": "TV_Discount.cpp"
   },
   {
-    "id": "EXPENSES",
-    "name": "Expense List",
-    "q_link": "https://www.codechef.com/problems/EXPENSES",
-    "sol_path": "Solutions/Expense_List.cpp",
-    "filename": "Expense_List.cpp"
+    "id": "MAXIMUMSUBS",
+    "name": "Maximum Submissions",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MAXIMUMSUBS",
+    "sol_path": "Solutions/Maximum_Submissions.cpp",
+    "filename": "Maximum_Submissions.cpp"
   },
   {
-    "id": "NIBBLE",
-    "name": "Good Program",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
-    "sol_path": "Solutions/Good_Program.cpp",
-    "filename": "Good_Program.cpp"
+    "id": "REMOVEPAREN",
+    "name": "Remove Outermost Parentheses",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/REMOVEPAREN",
+    "sol_path": "Solutions/Remove_Outermost_Parentheses.cpp",
+    "filename": "Remove_Outermost_Parentheses.cpp"
   },
   {
-    "id": "EQUALELE",
-    "name": "Equal Elements",
-    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE",
-    "sol_path": "Solutions/Equal_Elements.cpp",
-    "filename": "Equal_Elements.cpp"
-  },
-  {
-    "id": "CMASKS",
-    "name": "Chef and Masks",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CMASKS",
-    "sol_path": "Solutions/Chef_and_Masks.cpp",
-    "filename": "Chef_and_Masks.cpp"
-  },
-  {
-    "id": "PRACTICEPERF",
-    "name": "Practice makes us perfect",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACTICEPERF",
-    "sol_path": "Solutions/Practice_makes_us_perfect.cpp",
-    "filename": "Practice_makes_us_perfect.cpp"
-  },
-  {
-    "id": "BOBBANK",
-    "name": "Bob at the Bank",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BOBBANK",
-    "sol_path": "Solutions/Bob_at_the_Bank.cpp",
-    "filename": "Bob_at_the_Bank.cpp"
-  },
-  {
-    "id": "NEARESTEXIT",
-    "name": "Nearest Exit",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NEARESTEXIT",
-    "sol_path": "Solutions/Nearest_Exit.cpp",
-    "filename": "Nearest_Exit.cpp"
-  },
-  {
-    "id": "TLG",
-    "name": "The Lead Game",
-    "q_link": "https://www.codechef.com/problems/TLG",
-    "sol_path": "Solutions/The_Lead_Game.cpp",
-    "filename": "The_Lead_Game.cpp"
-  },
-  {
-    "id": "INCAT",
-    "name": "Make Cat",
-    "q_link": "https://www.codechef.com/problems/INCAT",
-    "sol_path": "Solutions/Make_Cat.cpp",
-    "filename": "Make_Cat.cpp"
-  },
-  {
-    "id": "PROFIT",
-    "name": "Profits",
-    "q_link": "https://www.codechef.com/START210C/problems/PROFIT",
-    "sol_path": "Solutions/Profits.cpp",
-    "filename": "Profits.cpp"
-  },
-  {
-    "id": "TAXSAVING",
-    "name": "Saving Taxes",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TAXSAVING",
-    "sol_path": "Solutions/Saving_Taxes.cpp",
-    "filename": "Saving_Taxes.cpp"
-  },
-  {
-    "id": "HELIUM3",
-    "name": "Chef and NextGen",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
-    "sol_path": "Solutions/Chef_and_NextGen.cpp",
-    "filename": "Chef_and_NextGen.cpp"
-  },
-  {
-    "id": "AUCTION",
-    "name": "Bidding",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUCTION",
-    "sol_path": "Solutions/Bidding.cpp",
-    "filename": "Bidding.cpp"
-  },
-  {
-    "id": "REACHTARGET",
-    "name": "Reach the Target",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACHTARGET",
-    "sol_path": "Solutions/Reach_the_Target.cpp",
-    "filename": "Reach_the_Target.cpp"
-  },
-  {
-    "id": "MAKESUB",
-    "name": "Make Subarray",
-    "q_link": "https://www.codechef.com/START207D/problems/MAKESUB",
-    "sol_path": "Solutions/Make_Subarray.cpp",
-    "filename": "Make_Subarray.cpp"
-  },
-  {
-    "id": "WTRMIXING",
-    "name": "Water Mixing",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING",
-    "sol_path": "Solutions/Water_Mixing.cpp",
-    "filename": "Water_Mixing.cpp"
-  },
-  {
-    "id": "TRAVELFAST",
-    "name": "Car or Bike",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
-    "sol_path": "Solutions/Car_or_Bike.cpp",
-    "filename": "Car_or_Bike.cpp"
-  },
-  {
-    "id": "IMDB",
-    "name": "Motivation",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/IMDB",
-    "sol_path": "Solutions/Motivation.cpp",
-    "filename": "Motivation.cpp"
-  },
-  {
-    "id": "FAIRSHARE",
-    "name": "Fair Share Settlement",
-    "q_link": "https://www.codechef.com/problems/FAIRSHARE",
-    "sol_path": "Solutions/Fair_Share_Settlement.cpp",
-    "filename": "Fair_Share_Settlement.cpp"
-  },
-  {
-    "id": "FLOW017",
-    "name": "Second Largest",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017",
-    "sol_path": "Solutions/Second_Largest.cpp",
-    "filename": "Second_Largest.cpp"
-  },
-  {
-    "id": "MAXTASTE",
-    "name": "Maximise the Tastiness",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
-    "sol_path": "Solutions/Maximise_the_Tastiness.cpp",
-    "filename": "Maximise_the_Tastiness.cpp"
-  },
-  {
-    "id": "TANDJ1",
-    "name": "Tom And Jerry 1",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1",
-    "sol_path": "Solutions/Tom_And_Jerry_1.cpp",
-    "filename": "Tom_And_Jerry_1.cpp"
-  },
-  {
-    "id": "WATERFILLING",
-    "name": "Water Filling",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING",
-    "sol_path": "Solutions/Water_Filling.cpp",
-    "filename": "Water_Filling.cpp"
-  },
-  {
-    "id": "NOTECNT",
-    "name": "Notebook Counting",
-    "q_link": "https://www.codechef.com/START210D/problems/NOTECNT",
-    "sol_path": "Solutions/Notebook_Counting.cpp",
-    "filename": "Notebook_Counting.cpp"
-  },
-  {
-    "id": "ERROR404",
-    "name": "404 Not Found",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ERROR404",
-    "sol_path": "Solutions/404_Not_Found.cpp",
-    "filename": "404_Not_Found.cpp"
-  },
-  {
-    "id": "BUDGET_",
-    "name": "Monthly Budget",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BUDGET_",
-    "sol_path": "Solutions/Monthly_Budget.cpp",
-    "filename": "Monthly_Budget.cpp"
-  },
-  {
-    "id": "TRUESCORE",
-    "name": "Is the Score Consistent",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
-    "sol_path": "Solutions/Is_the_Score_Consistent.cpp",
-    "filename": "Is_the_Score_Consistent.cpp"
-  },
-  {
-    "id": "POPULATION",
-    "name": "Final Population",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/POPULATION",
-    "sol_path": "Solutions/Final_Population.cpp",
-    "filename": "Final_Population.cpp"
-  },
-  {
-    "id": "WEIGHTBL",
-    "name": "Weight Balance",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/WEIGHTBL",
-    "sol_path": "Solutions/Weight_Balance.cpp",
-    "filename": "Weight_Balance.cpp"
-  },
-  {
-    "id": "CREDCOINS",
-    "name": "CRED Coins",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS",
-    "sol_path": "Solutions/CRED_Coins.cpp",
-    "filename": "CRED_Coins.cpp"
-  },
-  {
-    "id": "CS2023_GIFT",
-    "name": "The Gift",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CS2023_GIFT",
-    "sol_path": "Solutions/The_Gift.cpp",
-    "filename": "The_Gift.cpp"
-  },
-  {
-    "id": "SEPX",
-    "name": "Separation",
-    "q_link": "https://www.codechef.com/START213C/problems/SEPX",
-    "sol_path": "Solutions/Separation.cpp",
-    "filename": "Separation.cpp"
+    "id": "CABS",
+    "name": "The Cheaper Cab",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CABS",
+    "sol_path": "Solutions/The_Cheaper_Cab.cpp",
+    "filename": "The_Cheaper_Cab.cpp"
   },
   {
     "id": "REACHFAST",
@@ -896,347 +140,46 @@
     "filename": "TCS_Examination.cpp"
   },
   {
-    "id": "CWIREFRAME",
-    "name": "Chef and Wire Frames",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWIREFRAME",
-    "sol_path": "Solutions/Chef_and_Wire_Frames.cpp",
-    "filename": "Chef_and_Wire_Frames.cpp"
+    "id": "PROBCAT",
+    "name": "Problem Category",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/PROBCAT",
+    "sol_path": "Solutions/Problem_Category.cpp",
+    "filename": "Problem_Category.cpp"
   },
   {
-    "id": "MYSERVE",
-    "name": "It is My Serve",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MYSERVE",
-    "sol_path": "Solutions/It_is_My_Serve.cpp",
-    "filename": "It_is_My_Serve.cpp"
+    "id": "ERROR404",
+    "name": "404 Not Found",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ERROR404",
+    "sol_path": "Solutions/404_Not_Found.cpp",
+    "filename": "404_Not_Found.cpp"
   },
   {
-    "id": "TFPAPER",
-    "name": "True and False Paper",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TFPAPER",
-    "sol_path": "Solutions/True_and_False_Paper.cpp",
-    "filename": "True_and_False_Paper.cpp"
+    "id": "BUDGET_",
+    "name": "Monthly Budget",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BUDGET_",
+    "sol_path": "Solutions/Monthly_Budget.cpp",
+    "filename": "Monthly_Budget.cpp"
   },
   {
-    "id": "LUDO",
-    "name": "Chef Plays Ludo",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUDO",
-    "sol_path": "Solutions/Chef_Plays_Ludo.cpp",
-    "filename": "Chef_Plays_Ludo.cpp"
+    "id": "PARLIAMENT",
+    "name": "Parliament",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARLIAMENT",
+    "sol_path": "Solutions/Parliament.cpp",
+    "filename": "Parliament.cpp"
   },
   {
-    "id": "MONOPOLY",
-    "name": "Monopoly in Chefland",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MONOPOLY",
-    "sol_path": "Solutions/Monopoly_in_Chefland.cpp",
-    "filename": "Monopoly_in_Chefland.cpp"
+    "id": "PROFIT",
+    "name": "Profits",
+    "q_link": "https://www.codechef.com/START210C/problems/PROFIT",
+    "sol_path": "Solutions/Profits.cpp",
+    "filename": "Profits.cpp"
   },
   {
-    "id": "CYCLICQD",
-    "name": "Cyclic Quadrilateral",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CYCLICQD",
-    "sol_path": "Solutions/Cyclic_Quadrilateral.cpp",
-    "filename": "Cyclic_Quadrilateral.cpp"
-  },
-  {
-    "id": "VOLCONTROL",
-    "name": "Volume Control",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/VOLCONTROL",
-    "sol_path": "Solutions/Volume_Control.cpp",
-    "filename": "Volume_Control.cpp"
-  },
-  {
-    "id": "BNE_APT",
-    "name": "Bone Appetit",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BNE_APT",
-    "sol_path": "Solutions/Bone_Appetit.cpp",
-    "filename": "Bone_Appetit.cpp"
-  },
-  {
-    "id": "PARTY2",
-    "name": "Chef gives Party",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARTY2",
-    "sol_path": "Solutions/Chef_gives_Party.cpp",
-    "filename": "Chef_gives_Party.cpp"
-  },
-  {
-    "id": "HAPPYSTR",
-    "name": "Chef and Happy String",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR",
-    "sol_path": "Solutions/Chef_and_Happy_String.cpp",
-    "filename": "Chef_and_Happy_String.cpp"
-  },
-  {
-    "id": "TOP10",
-    "name": "Masterchef finals",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TOP10",
-    "sol_path": "Solutions/Masterchef_finals.cpp",
-    "filename": "Masterchef_finals.cpp"
-  },
-  {
-    "id": "FLOW002",
-    "name": "Find Remainder",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW002",
-    "sol_path": "Solutions/Find_Remainder.cpp",
-    "filename": "Find_Remainder.cpp"
-  },
-  {
-    "id": "LTIME",
-    "name": "Lunchtime",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME",
-    "sol_path": "Solutions/Lunchtime.cpp",
-    "filename": "Lunchtime.cpp"
-  },
-  {
-    "id": "CABS",
-    "name": "The Cheaper Cab",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CABS",
-    "sol_path": "Solutions/The_Cheaper_Cab.cpp",
-    "filename": "The_Cheaper_Cab.cpp"
-  },
-  {
-    "id": "AORB",
-    "name": "A or B",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB",
-    "sol_path": "Solutions/A_or_B.cpp",
-    "filename": "A_or_B.cpp"
-  },
-  {
-    "id": "AVGPROBLEM",
-    "name": "Greater Average",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM",
-    "sol_path": "Solutions/Greater_Average.cpp",
-    "filename": "Greater_Average.cpp"
-  },
-  {
-    "id": "BALLOONS",
-    "name": "Coloured Balloons",
-    "q_link": "https://www.codechef.com/problems/BALLOONS",
-    "sol_path": "Solutions/Coloured_Balloons.cpp",
-    "filename": "Coloured_Balloons.cpp"
-  },
-  {
-    "id": "FINE",
-    "name": "Overspeeding Fine",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FINE",
-    "sol_path": "Solutions/Overspeeding_Fine.cpp",
-    "filename": "Overspeeding_Fine.cpp"
-  },
-  {
-    "id": "ONEMORE",
-    "name": "Just One More Episode",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ONEMORE",
-    "sol_path": "Solutions/Just_One_More_Episode.cpp",
-    "filename": "Just_One_More_Episode.cpp"
-  },
-  {
-    "id": "PAR2",
-    "name": "Parity",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PAR2",
-    "sol_path": "Solutions/Parity.cpp",
-    "filename": "Parity.cpp"
-  },
-  {
-    "id": "OFFBY1",
-    "name": "Off By One",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OFFBY1",
-    "sol_path": "Solutions/Off_By_One.cpp",
-    "filename": "Off_By_One.cpp"
-  },
-  {
-    "id": "FEVER",
-    "name": "Fever",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FEVER",
-    "sol_path": "Solutions/Fever.cpp",
-    "filename": "Fever.cpp"
-  },
-  {
-    "id": "JERRYCHASE",
-    "name": "Tom and Jerry Chase",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/JERRYCHASE",
-    "sol_path": "Solutions/Tom_and_Jerry_Chase.cpp",
-    "filename": "Tom_and_Jerry_Chase.cpp"
-  },
-  {
-    "id": "BUILDINGRACE",
-    "name": "Building Race",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BUILDINGRACE",
-    "sol_path": "Solutions/Building_Race.cpp",
-    "filename": "Building_Race.cpp"
-  },
-  {
-    "id": "AMR15A",
-    "name": "Mahasena",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A",
-    "sol_path": "Solutions/Mahasena.cpp",
-    "filename": "Mahasena.cpp"
-  },
-  {
-    "id": "CHEFCHOCO",
-    "name": "Chef and Chocolates",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEFCHOCO",
-    "sol_path": "Solutions/Chef_and_Chocolates.cpp",
-    "filename": "Chef_and_Chocolates.cpp"
-  },
-  {
-    "id": "PRB01",
-    "name": "Primality Test",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01",
-    "sol_path": "Solutions/Primality_Test.cpp",
-    "filename": "Primality_Test.cpp"
-  },
-  {
-    "id": "KITCHENCOST",
-    "name": "Cost of Groceries",
-    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/KITCHENCOST",
-    "sol_path": "Solutions/Cost_of_Groceries.cpp",
-    "filename": "Cost_of_Groceries.cpp"
-  },
-  {
-    "id": "CFRTEST",
-    "name": "Devu and friendship testing",
-    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST",
-    "sol_path": "Solutions/Devu_and_friendship_testing.cpp",
-    "filename": "Devu_and_friendship_testing.cpp"
-  },
-  {
-    "id": "FLOORS",
-    "name": "Too many Floors",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS",
-    "sol_path": "Solutions/Too_many_Floors.cpp",
-    "filename": "Too_many_Floors.cpp"
-  },
-  {
-    "id": "SMOL",
-    "name": "Smallest Possible Whole Number",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/SMOL",
-    "sol_path": "Solutions/Smallest_Possible_Whole_Number.cpp",
-    "filename": "Smallest_Possible_Whole_Number.cpp"
-  },
-  {
-    "id": "TYRE",
-    "name": "Tyre problem",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TYRE",
-    "sol_path": "Solutions/Tyre_problem.cpp",
-    "filename": "Tyre_problem.cpp"
-  },
-  {
-    "id": "COUGAME",
-    "name": "Couple Game",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COUGAME",
-    "sol_path": "Solutions/Couple_Game.cpp",
-    "filename": "Couple_Game.cpp"
-  },
-  {
-    "id": "OCTATHON",
-    "name": "October Marathon",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OCTATHON",
-    "sol_path": "Solutions/October_Marathon.cpp",
-    "filename": "October_Marathon.cpp"
-  },
-  {
-    "id": "NUGGET",
-    "name": "Moneymaking",
-    "q_link": "https://www.codechef.com/problems/NUGGET",
-    "sol_path": "Solutions/Moneymaking.cpp",
-    "filename": "Moneymaking.cpp"
-  },
-  {
-    "id": "TWOPLG",
-    "name": "Two Pile Game",
-    "q_link": "https://www.codechef.com/START220D/problems/TWOPLG",
-    "sol_path": "Solutions/Two_Pile_Game.cpp",
-    "filename": "Two_Pile_Game.cpp"
-  },
-  {
-    "id": "MXEVNSUB",
-    "name": "Maximum Length Even Subarray",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MXEVNSUB",
-    "sol_path": "Solutions/Maximum_Length_Even_Subarray.cpp",
-    "filename": "Maximum_Length_Even_Subarray.cpp"
-  },
-  {
-    "id": "CANDIVIDE",
-    "name": "Candy Division",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CANDIVIDE",
-    "sol_path": "Solutions/Candy_Division.cpp",
-    "filename": "Candy_Division.cpp"
-  },
-  {
-    "id": "RCTGLD",
-    "name": "Rectangled",
-    "q_link": "https://www.codechef.com/problems/RCTGLD",
-    "sol_path": "Solutions/Rectangled.cpp",
-    "filename": "Rectangled.cpp"
-  },
-  {
-    "id": "COMPLEXITY",
-    "name": "Time Complexity",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COMPLEXITY",
-    "sol_path": "Solutions/Time_Complexity.cpp",
-    "filename": "Time_Complexity.cpp"
-  },
-  {
-    "id": "DISCUS",
-    "name": "Discus Throw",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
-    "sol_path": "Solutions/Discus_Throw.cpp",
-    "filename": "Discus_Throw.cpp"
-  },
-  {
-    "id": "ASSIGNMNT",
-    "name": "Pending Assignments",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ASSIGNMNT",
-    "sol_path": "Solutions/Pending_Assignments.cpp",
-    "filename": "Pending_Assignments.cpp"
-  },
-  {
-    "id": "KTTABLE",
-    "name": "Kitchen Timetable",
-    "q_link": "https://www.codechef.com/problems/KTTABLE",
-    "sol_path": "Solutions/Kitchen_Timetable.cpp",
-    "filename": "Kitchen_Timetable.cpp"
-  },
-  {
-    "id": "SINGLENUM",
-    "name": "Single number in multiple numbers",
-    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SINGLENUM",
-    "sol_path": "Solutions/Single_number_in_multiple_numbers.cpp",
-    "filename": "Single_number_in_multiple_numbers.cpp"
-  },
-  {
-    "id": "CHEFBOTTLE",
-    "name": "Chef and Water Bottles",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE",
-    "sol_path": "Solutions/Chef_and_Water_Bottles.cpp",
-    "filename": "Chef_and_Water_Bottles.cpp"
-  },
-  {
-    "id": "FLOW006",
-    "name": "Sum of Digits",
-    "q_link": "https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/FLOW006",
-    "sol_path": "Solutions/Sum_of_Digits.cpp",
-    "filename": "Sum_of_Digits.cpp"
-  },
-  {
-    "id": "SPECIALITY",
-    "name": "Speciality",
-    "q_link": "https://www.codechef.com/problems/SPECIALITY",
-    "sol_path": "Solutions/Speciality.cpp",
-    "filename": "Speciality.cpp"
-  },
-  {
-    "id": "SEMCOURSES",
-    "name": "Chef and Chapters",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SEMCOURSES",
-    "sol_path": "Solutions/Chef_and_Chapters.cpp",
-    "filename": "Chef_and_Chapters.cpp"
-  },
-  {
-    "id": "PASSORFAIL",
-    "name": "Pass or Fail",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PASSORFAIL",
-    "sol_path": "Solutions/Pass_or_Fail.cpp",
-    "filename": "Pass_or_Fail.cpp"
+    "id": "HEIGHTRATION",
+    "name": "Height of Rationals",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HEIGHTRATION",
+    "sol_path": "Solutions/Height_of_Rationals.cpp",
+    "filename": "Height_of_Rationals.cpp"
   },
   {
     "id": "CHEFCAND",
@@ -1246,319 +189,25 @@
     "filename": "Chef_and_Candies.cpp"
   },
   {
-    "id": "CGYM",
-    "name": "Chef and Gym",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CGYM",
-    "sol_path": "Solutions/Chef_and_Gym.cpp",
-    "filename": "Chef_and_Gym.cpp"
+    "id": "OFFBY1",
+    "name": "Off By One",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OFFBY1",
+    "sol_path": "Solutions/Off_By_One.cpp",
+    "filename": "Off_By_One.cpp"
   },
   {
-    "id": "VALIDSTK",
-    "name": "Valid Stack Operations",
-    "q_link": "https://www.codechef.com/practice/course/icpc/ICPCTR23/problems/VALIDSTK",
-    "sol_path": "Solutions/Valid_Stack_Operations.cpp",
-    "filename": "Valid_Stack_Operations.cpp"
+    "id": "CREDCOINS",
+    "name": "CRED Coins",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS",
+    "sol_path": "Solutions/CRED_Coins.cpp",
+    "filename": "CRED_Coins.cpp"
   },
   {
-    "id": "F1RULE",
-    "name": "Miami GP",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/F1RULE",
-    "sol_path": "Solutions/Miami_GP.cpp",
-    "filename": "Miami_GP.cpp"
-  },
-  {
-    "id": "INCRIQ",
-    "name": "Increase IQ",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INCRIQ",
-    "sol_path": "Solutions/Increase_IQ.cpp",
-    "filename": "Increase_IQ.cpp"
-  },
-  {
-    "id": "CHEFAPPS",
-    "name": "Chef and his Apps",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS",
-    "sol_path": "Solutions/Chef_and_his_Apps.cpp",
-    "filename": "Chef_and_his_Apps.cpp"
-  },
-  {
-    "id": "MINFLIPS",
-    "name": "Minimum number of Flips",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINFLIPS",
-    "sol_path": "Solutions/Minimum_number_of_Flips.cpp",
-    "filename": "Minimum_number_of_Flips.cpp"
-  },
-  {
-    "id": "BESTSEATS",
-    "name": "Best Seats",
-    "q_link": "https://www.codechef.com/START216D/problems/BESTSEATS",
-    "sol_path": "Solutions/Best_Seats.cpp",
-    "filename": "Best_Seats.cpp"
-  },
-  {
-    "id": "MINCOINS",
-    "name": "Minimum number of coins",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS",
-    "sol_path": "Solutions/Minimum_number_of_coins.cpp",
-    "filename": "Minimum_number_of_coins.cpp"
-  },
-  {
-    "id": "MINPIZZA",
-    "name": "Minimum Pizzas",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINPIZZA",
-    "sol_path": "Solutions/Minimum_Pizzas.cpp",
-    "filename": "Minimum_Pizzas.cpp"
-  },
-  {
-    "id": "DETSCORE",
-    "name": "Determine the Score",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DETSCORE",
-    "sol_path": "Solutions/Determine_the_Score.cpp",
-    "filename": "Determine_the_Score.cpp"
-  },
-  {
-    "id": "CHEFRACES",
-    "name": "Chef and Races",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFRACES",
-    "sol_path": "Solutions/Chef_and_Races.cpp",
-    "filename": "Chef_and_Races.cpp"
-  },
-  {
-    "id": "CWC23QUALIF",
-    "name": "Cricket World Cup Qualifier",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF",
-    "sol_path": "Solutions/Cricket_World_Cup_Qualifier.cpp",
-    "filename": "Cricket_World_Cup_Qualifier.cpp"
-  },
-  {
-    "id": "INSURANCE",
-    "name": "Insurance",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSURANCE",
-    "sol_path": "Solutions/Insurance.cpp",
-    "filename": "Insurance.cpp"
-  },
-  {
-    "id": "SEARCHINARR",
-    "name": "Search an element in an array",
-    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SEARCHINARR",
-    "sol_path": "Solutions/Search_an_element_in_an_array.cpp",
-    "filename": "Search_an_element_in_an_array.cpp"
-  },
-  {
-    "id": "CSTOCK",
-    "name": "Chef and Stock Prices",
-    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CSTOCK",
-    "sol_path": "Solutions/Chef_and_Stock_Prices.cpp",
-    "filename": "Chef_and_Stock_Prices.cpp"
-  },
-  {
-    "id": "XJUMP",
-    "name": "X Jumps",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/XJUMP",
-    "sol_path": "Solutions/X_Jumps.cpp",
-    "filename": "X_Jumps.cpp"
-  },
-  {
-    "id": "HS08TEST",
-    "name": "ATM",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST",
-    "sol_path": "Solutions/ATM.cpp",
-    "filename": "ATM.cpp"
-  },
-  {
-    "id": "CANDYDIST",
-    "name": "Candy Distribution",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CANDYDIST",
-    "sol_path": "Solutions/Candy_Distribution.cpp",
-    "filename": "Candy_Distribution.cpp"
-  },
-  {
-    "id": "FIFTYPE",
-    "name": "Chef and Battery",
-    "q_link": "https://www.codechef.com/problems/FIFTYPE",
-    "sol_path": "Solutions/Chef_and_Battery.cpp",
-    "filename": "Chef_and_Battery.cpp"
-  },
-  {
-    "id": "CHOPRT",
-    "name": "Chef And Operators",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHOPRT",
-    "sol_path": "Solutions/Chef_And_Operators.cpp",
-    "filename": "Chef_And_Operators.cpp"
-  },
-  {
-    "id": "FLOW018",
-    "name": "Small Factorial",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018",
-    "sol_path": "Solutions/Small_Factorial.cpp",
-    "filename": "Small_Factorial.cpp"
-  },
-  {
-    "id": "BESTOFTWO",
-    "name": "Best of Two",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BESTOFTWO",
-    "sol_path": "Solutions/Best_of_Two.cpp",
-    "filename": "Best_of_Two.cpp"
-  },
-  {
-    "id": "FAIRPASS",
-    "name": "Passes for Fair",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FAIRPASS",
-    "sol_path": "Solutions/Passes_for_Fair.cpp",
-    "filename": "Passes_for_Fair.cpp"
-  },
-  {
-    "id": "DISCOUNTT",
-    "name": "Take discount or Not",
-    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT",
-    "sol_path": "Solutions/Take_discount_or_Not.cpp",
-    "filename": "Take_discount_or_Not.cpp"
-  },
-  {
-    "id": "FLIPCARDS",
-    "name": "Flip the cards",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS",
-    "sol_path": "Solutions/Flip_the_cards.cpp",
-    "filename": "Flip_the_cards.cpp"
-  },
-  {
-    "id": "KITCHENSPICE",
-    "name": "Spice Level",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENSPICE",
-    "sol_path": "Solutions/Spice_Level.cpp",
-    "filename": "Spice_Level.cpp"
-  },
-  {
-    "id": "CPPDEBUG07",
-    "name": "Roller Coaster",
-    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG07",
-    "sol_path": "Solutions/Roller_Coaster.cpp",
-    "filename": "Roller_Coaster.cpp"
-  },
-  {
-    "id": "PROC18A",
-    "name": "The Great Run",
-    "q_link": "https://www.codechef.com/problems/PROC18A",
-    "sol_path": "Solutions/The_Great_Run.cpp",
-    "filename": "The_Great_Run.cpp"
-  },
-  {
-    "id": "CHAIRS_",
-    "name": "Chairs Requirement",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHAIRS_",
-    "sol_path": "Solutions/Chairs_Requirement.cpp",
-    "filename": "Chairs_Requirement.cpp"
-  },
-  {
-    "id": "MANIPULATE",
-    "name": "Ezio and Guards",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANIPULATE",
-    "sol_path": "Solutions/Ezio_and_Guards.cpp",
-    "filename": "Ezio_and_Guards.cpp"
-  },
-  {
-    "id": "XMASTREE",
-    "name": "Christmas Trees",
-    "q_link": "https://www.codechef.com/problems/XMASTREE",
-    "sol_path": "Solutions/Christmas_Trees.cpp",
-    "filename": "Christmas_Trees.cpp"
-  },
-  {
-    "id": "FLOW011",
-    "name": "Gross Salary",
-    "q_link": "https://www.codechef.com/problems/FLOW011",
-    "sol_path": "Solutions/Gross_Salary.cpp",
-    "filename": "Gross_Salary.cpp"
-  },
-  {
-    "id": "SUBSCRIBE_",
-    "name": "Subscriptions",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_",
-    "sol_path": "Solutions/Subscriptions.cpp",
-    "filename": "Subscriptions.cpp"
-  },
-  {
-    "id": "MINCOINSREQ",
-    "name": "Minimum Coins",
-    "q_link": "https://www.codechef.com/problems/MINCOINSREQ",
-    "sol_path": "Solutions/Minimum_Coins.cpp",
-    "filename": "Minimum_Coins.cpp"
-  },
-  {
-    "id": "RECENTCONT",
-    "name": "Recent contest problems",
-    "q_link": "https://www.codechef.com/problems/RECENTCONT",
-    "sol_path": "Solutions/Recent_contest_problems.cpp",
-    "filename": "Recent_contest_problems.cpp"
-  },
-  {
-    "id": "TIMELY",
-    "name": "Reach on Time",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TIMELY",
-    "sol_path": "Solutions/Reach_on_Time.cpp",
-    "filename": "Reach_on_Time.cpp"
-  },
-  {
-    "id": "WATERREQ",
-    "name": "Water Requirement",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERREQ",
-    "sol_path": "Solutions/Water_Requirement.cpp",
-    "filename": "Water_Requirement.cpp"
-  },
-  {
-    "id": "START01",
-    "name": "Number Mirror",
-    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP01/problems/START01",
-    "sol_path": "Solutions/Number_Mirror.cpp",
-    "filename": "Number_Mirror.cpp"
-  },
-  {
-    "id": "JASSIGNMENTS",
-    "name": "Janmansh and Assignments",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS",
-    "sol_path": "Solutions/Janmansh_and_Assignments.cpp",
-    "filename": "Janmansh_and_Assignments.cpp"
-  },
-  {
-    "id": "CHEFEREN",
-    "name": "Chef Eren",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
-    "sol_path": "Solutions/Chef_Eren.cpp",
-    "filename": "Chef_Eren.cpp"
-  },
-  {
-    "id": "WAITTIME",
-    "name": "Waiting Time",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WAITTIME",
-    "sol_path": "Solutions/Waiting_Time.cpp",
-    "filename": "Waiting_Time.cpp"
-  },
-  {
-    "id": "MVR",
-    "name": "Messi vs Ronaldo",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MVR",
-    "sol_path": "Solutions/Messi_vs_Ronaldo.cpp",
-    "filename": "Messi_vs_Ronaldo.cpp"
-  },
-  {
-    "id": "REACH_HOME",
-    "name": "Reach Home",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACH_HOME",
-    "sol_path": "Solutions/Reach_Home.cpp",
-    "filename": "Reach_Home.cpp"
-  },
-  {
-    "id": "COMP4",
-    "name": "Competition of 4",
-    "q_link": "https://www.codechef.com/problems/COMP4",
-    "sol_path": "Solutions/Competition_of_4.cpp",
-    "filename": "Competition_of_4.cpp"
-  },
-  {
-    "id": "LASTLEVELS",
-    "name": "The Last Levels",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS",
-    "sol_path": "Solutions/The_Last_Levels.cpp",
-    "filename": "The_Last_Levels.cpp"
+    "id": "BATTERYLOW",
+    "name": "Battery Low",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BATTERYLOW",
+    "sol_path": "Solutions/Battery_Low.cpp",
+    "filename": "Battery_Low.cpp"
   },
   {
     "id": "LMP2",
@@ -1568,11 +217,32 @@
     "filename": "Odd_String.cpp"
   },
   {
-    "id": "ENTERTAIN",
-    "name": "Entertainments",
-    "q_link": "https://www.codechef.com/START216D/problems/ENTERTAIN",
-    "sol_path": "Solutions/Entertainments.cpp",
-    "filename": "Entertainments.cpp"
+    "id": "MINPIZZA",
+    "name": "Minimum Pizzas",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINPIZZA",
+    "sol_path": "Solutions/Minimum_Pizzas.cpp",
+    "filename": "Minimum_Pizzas.cpp"
+  },
+  {
+    "id": "BULLBEAR",
+    "name": "Bull or Bear",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BULLBEAR",
+    "sol_path": "Solutions/Bull_or_Bear.cpp",
+    "filename": "Bull_or_Bear.cpp"
+  },
+  {
+    "id": "MANIPULATE",
+    "name": "Ezio and Guards",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANIPULATE",
+    "sol_path": "Solutions/Ezio_and_Guards.cpp",
+    "filename": "Ezio_and_Guards.cpp"
+  },
+  {
+    "id": "SONGS",
+    "name": "Playlist",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SONGS",
+    "sol_path": "Solutions/Playlist.cpp",
+    "filename": "Playlist.cpp"
   },
   {
     "id": "SALE",
@@ -1582,18 +252,333 @@
     "filename": "Get_Lowest_Free.cpp"
   },
   {
-    "id": "WATERFLOW",
-    "name": "Bucket and Water Flow",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERFLOW",
-    "sol_path": "Solutions/Bucket_and_Water_Flow.cpp",
-    "filename": "Bucket_and_Water_Flow.cpp"
+    "id": "XJUMP",
+    "name": "X Jumps",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/XJUMP",
+    "sol_path": "Solutions/X_Jumps.cpp",
+    "filename": "X_Jumps.cpp"
   },
   {
-    "id": "MOZZ",
-    "name": "Endless Appetizers",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ",
-    "sol_path": "Solutions/Endless_Appetizers.cpp",
-    "filename": "Endless_Appetizers.cpp"
+    "id": "COUGAME",
+    "name": "Couple Game",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COUGAME",
+    "sol_path": "Solutions/Couple_Game.cpp",
+    "filename": "Couple_Game.cpp"
+  },
+  {
+    "id": "LUDO",
+    "name": "Chef Plays Ludo",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUDO",
+    "sol_path": "Solutions/Chef_Plays_Ludo.cpp",
+    "filename": "Chef_Plays_Ludo.cpp"
+  },
+  {
+    "id": "SLEEP",
+    "name": "Sleep deprivation",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SLEEP",
+    "sol_path": "Solutions/Sleep_deprivation.cpp",
+    "filename": "Sleep_deprivation.cpp"
+  },
+  {
+    "id": "MISSP",
+    "name": "Chef and Dolls",
+    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/MISSP",
+    "sol_path": "Solutions/Chef_and_Dolls.cpp",
+    "filename": "Chef_and_Dolls.cpp"
+  },
+  {
+    "id": "PRACTICEPERF",
+    "name": "Practice makes us perfect",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACTICEPERF",
+    "sol_path": "Solutions/Practice_makes_us_perfect.cpp",
+    "filename": "Practice_makes_us_perfect.cpp"
+  },
+  {
+    "id": "PRACLIST",
+    "name": "How many unattempted problems",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACLIST",
+    "sol_path": "Solutions/How_many_unattempted_problems.cpp",
+    "filename": "How_many_unattempted_problems.cpp"
+  },
+  {
+    "id": "DPOLY",
+    "name": "Degree of Polynomial",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY",
+    "sol_path": "Solutions/Degree_of_Polynomial.cpp",
+    "filename": "Degree_of_Polynomial.cpp"
+  },
+  {
+    "id": "BULLET",
+    "name": "Mario and Bullet",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BULLET",
+    "sol_path": "Solutions/Mario_and_Bullet.cpp",
+    "filename": "Mario_and_Bullet.cpp"
+  },
+  {
+    "id": "DISCOUNTT",
+    "name": "Take discount or Not",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DISCOUNTT",
+    "sol_path": "Solutions/Take_discount_or_Not.cpp",
+    "filename": "Take_discount_or_Not.cpp"
+  },
+  {
+    "id": "PALINDRCHECK",
+    "name": "Reverse Words in a String",
+    "q_link": "http://codechef.com/practice/course/strings/STRINGS/problems/PALINDRCHECK",
+    "sol_path": "Solutions/Reverse_Words_in_a_String.cpp",
+    "filename": "Reverse_Words_in_a_String.cpp"
+  },
+  {
+    "id": "DOMINANT",
+    "name": "Dominant Army",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOMINANT",
+    "sol_path": "Solutions/Dominant_Army.cpp",
+    "filename": "Dominant_Army.cpp"
+  },
+  {
+    "id": "DISCNT",
+    "name": "Discount",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DISCNT",
+    "sol_path": "Solutions/Discount.cpp",
+    "filename": "Discount.cpp"
+  },
+  {
+    "id": "INSTAGRAM",
+    "name": "Instagram",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSTAGRAM",
+    "sol_path": "Solutions/Instagram.cpp",
+    "filename": "Instagram.cpp"
+  },
+  {
+    "id": "NOTECNT",
+    "name": "Notebook Counting",
+    "q_link": "https://www.codechef.com/START210D/problems/NOTECNT",
+    "sol_path": "Solutions/Notebook_Counting.cpp",
+    "filename": "Notebook_Counting.cpp"
+  },
+  {
+    "id": "EQUALELE",
+    "name": "Equal Elements",
+    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE",
+    "sol_path": "Solutions/Equal_Elements.cpp",
+    "filename": "Equal_Elements.cpp"
+  },
+  {
+    "id": "WATERFILLING",
+    "name": "Water Filling",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING",
+    "sol_path": "Solutions/Water_Filling.cpp",
+    "filename": "Water_Filling.cpp"
+  },
+  {
+    "id": "VALENTINE",
+    "name": "Valentine is Coming",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/VALENTINE",
+    "sol_path": "Solutions/Valentine_is_Coming.cpp",
+    "filename": "Valentine_is_Coming.cpp"
+  },
+  {
+    "id": "SEATNUMBER",
+    "name": "Bus Seat Numbering",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
+    "sol_path": "Solutions/Bus_Seat_Numbering.cpp",
+    "filename": "Bus_Seat_Numbering.cpp"
+  },
+  {
+    "id": "MAKESUB",
+    "name": "Make Subarray",
+    "q_link": "https://www.codechef.com/START207D/problems/MAKESUB",
+    "sol_path": "Solutions/Make_Subarray.cpp",
+    "filename": "Make_Subarray.cpp"
+  },
+  {
+    "id": "SUBSCRIBE_",
+    "name": "Subscriptions",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_",
+    "sol_path": "Solutions/Subscriptions.cpp",
+    "filename": "Subscriptions.cpp"
+  },
+  {
+    "id": "SEMCOURSES",
+    "name": "Chef and Chapters",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SEMCOURSES",
+    "sol_path": "Solutions/Chef_and_Chapters.cpp",
+    "filename": "Chef_and_Chapters.cpp"
+  },
+  {
+    "id": "HOTCOLD",
+    "name": "Is it hot or cold",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HOTCOLD",
+    "sol_path": "Solutions/Is_it_hot_or_cold.cpp",
+    "filename": "Is_it_hot_or_cold.cpp"
+  },
+  {
+    "id": "VOLCONTROL",
+    "name": "Volume Control",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/VOLCONTROL",
+    "sol_path": "Solutions/Volume_Control.cpp",
+    "filename": "Volume_Control.cpp"
+  },
+  {
+    "id": "AMR15A",
+    "name": "Mahasena",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A",
+    "sol_path": "Solutions/Mahasena.cpp",
+    "filename": "Mahasena.cpp"
+  },
+  {
+    "id": "RIGHTTHERE",
+    "name": "Right There",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIGHTTHERE",
+    "sol_path": "Solutions/Right_There.cpp",
+    "filename": "Right_There.cpp"
+  },
+  {
+    "id": "FILLCANDIES",
+    "name": "Fill Candies",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES",
+    "sol_path": "Solutions/Fill_Candies.cpp",
+    "filename": "Fill_Candies.cpp"
+  },
+  {
+    "id": "MVR",
+    "name": "Messi vs Ronaldo",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MVR",
+    "sol_path": "Solutions/Messi_vs_Ronaldo.cpp",
+    "filename": "Messi_vs_Ronaldo.cpp"
+  },
+  {
+    "id": "DECINC",
+    "name": "Decrement OR Increment",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DECINC",
+    "sol_path": "Solutions/Decrement_OR_Increment.cpp",
+    "filename": "Decrement_OR_Increment.cpp"
+  },
+  {
+    "id": "ASSIGNMNT",
+    "name": "Pending Assignments",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ASSIGNMNT",
+    "sol_path": "Solutions/Pending_Assignments.cpp",
+    "filename": "Pending_Assignments.cpp"
+  },
+  {
+    "id": "CHEFGAMES",
+    "name": "Chefland Games",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES",
+    "sol_path": "Solutions/Chefland_Games.cpp",
+    "filename": "Chefland_Games.cpp"
+  },
+  {
+    "id": "POLYBAGS",
+    "name": "Too many items",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS",
+    "sol_path": "Solutions/Too_many_items.cpp",
+    "filename": "Too_many_items.cpp"
+  },
+  {
+    "id": "STOPCOUNT",
+    "name": "Stop The Count",
+    "q_link": "https://www.codechef.com/problems/STOPCOUNT",
+    "sol_path": "Solutions/Stop_The_Count.cpp",
+    "filename": "Stop_The_Count.cpp"
+  },
+  {
+    "id": "PASSORFAIL",
+    "name": "Pass or Fail",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PASSORFAIL",
+    "sol_path": "Solutions/Pass_or_Fail.cpp",
+    "filename": "Pass_or_Fail.cpp"
+  },
+  {
+    "id": "CYCLICQD",
+    "name": "Cyclic Quadrilateral",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CYCLICQD",
+    "sol_path": "Solutions/Cyclic_Quadrilateral.cpp",
+    "filename": "Cyclic_Quadrilateral.cpp"
+  },
+  {
+    "id": "Monopoly",
+    "name": "Monopoly",
+    "q_link": "https://www.codechef.com/problems/Monopoly",
+    "sol_path": "Solutions/Monopoly.cpp",
+    "filename": "Monopoly.cpp"
+  },
+  {
+    "id": "DISCUS",
+    "name": "Discus Throw",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS",
+    "sol_path": "Solutions/Discus_Throw.cpp",
+    "filename": "Discus_Throw.cpp"
+  },
+  {
+    "id": "MINFLIPS",
+    "name": "Minimum number of Flips",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINFLIPS",
+    "sol_path": "Solutions/Minimum_number_of_Flips.cpp",
+    "filename": "Minimum_number_of_Flips.cpp"
+  },
+  {
+    "id": "COMPLEXITY",
+    "name": "Time Complexity",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COMPLEXITY",
+    "sol_path": "Solutions/Time_Complexity.cpp",
+    "filename": "Time_Complexity.cpp"
+  },
+  {
+    "id": "AGEING",
+    "name": "Ageing",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING",
+    "sol_path": "Solutions/Ageing.cpp",
+    "filename": "Ageing.cpp"
+  },
+  {
+    "id": "LASTLEVELS",
+    "name": "The Last Levels",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/LASTLEVELS",
+    "sol_path": "Solutions/The_Last_Levels.cpp",
+    "filename": "The_Last_Levels.cpp"
+  },
+  {
+    "id": "TIMELY",
+    "name": "Reach on Time",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TIMELY",
+    "sol_path": "Solutions/Reach_on_Time.cpp",
+    "filename": "Reach_on_Time.cpp"
+  },
+  {
+    "id": "LMP2E",
+    "name": "Winter is Coming",
+    "q_link": "https://www.codechef.com/START221C/problems/LMP2E",
+    "sol_path": "Solutions/Winter_is_Coming.cpp",
+    "filename": "Winter_is_Coming.cpp"
+  },
+  {
+    "id": "CUREX",
+    "name": "Currency Exchange",
+    "q_link": "https://www.codechef.com/problems/CUREX",
+    "sol_path": "Solutions/Currency_Exchange.cpp",
+    "filename": "Currency_Exchange.cpp"
+  },
+  {
+    "id": "INVESTMENT",
+    "name": "Good Investment or Not",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INVESTMENT",
+    "sol_path": "Solutions/Good_Investment_or_Not.cpp",
+    "filename": "Good_Investment_or_Not.cpp"
+  },
+  {
+    "id": "FBC",
+    "name": "Fill the Bucket",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FBC",
+    "sol_path": "Solutions/Fill_the_Bucket.cpp",
+    "filename": "Fill_the_Bucket.cpp"
+  },
+  {
+    "id": "FCTRL2",
+    "name": "Small factorials",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FCTRL2",
+    "sol_path": "Solutions/Small_factorials.cpp",
+    "filename": "Small_factorials.cpp"
   },
   {
     "id": "EXPERT",
@@ -1610,172 +595,81 @@
     "filename": "Four_Tickets.cpp"
   },
   {
-    "id": "MISSP",
-    "name": "Chef and Dolls",
-    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/MISSP",
-    "sol_path": "Solutions/Chef_and_Dolls.cpp",
-    "filename": "Chef_and_Dolls.cpp"
+    "id": "MINCOINS",
+    "name": "Minimum number of coins",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCOINS",
+    "sol_path": "Solutions/Minimum_number_of_coins.cpp",
+    "filename": "Minimum_number_of_coins.cpp"
   },
   {
-    "id": "SEATNUMBER",
-    "name": "Bus Seat Numbering",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SEATNUMBER",
-    "sol_path": "Solutions/Bus_Seat_Numbering.cpp",
-    "filename": "Bus_Seat_Numbering.cpp"
+    "id": "CPPDEBUG07",
+    "name": "Roller Coaster",
+    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG07",
+    "sol_path": "Solutions/Roller_Coaster.cpp",
+    "filename": "Roller_Coaster.cpp"
   },
   {
-    "id": "SPCP2",
-    "name": "Airlines",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2",
-    "sol_path": "Solutions/Airlines.cpp",
-    "filename": "Airlines.cpp"
+    "id": "F1RULE",
+    "name": "Miami GP",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/F1RULE",
+    "sol_path": "Solutions/Miami_GP.cpp",
+    "filename": "Miami_GP.cpp"
   },
   {
-    "id": "CHEAPFOOD",
-    "name": "Best Coupon",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD",
-    "sol_path": "Solutions/Best_Coupon.cpp",
-    "filename": "Best_Coupon.cpp"
+    "id": "INCRIQ",
+    "name": "Increase IQ",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INCRIQ",
+    "sol_path": "Solutions/Increase_IQ.cpp",
+    "filename": "Increase_IQ.cpp"
   },
   {
-    "id": "MAXIMUMSUBS",
-    "name": "Maximum Submissions",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MAXIMUMSUBS",
-    "sol_path": "Solutions/Maximum_Submissions.cpp",
-    "filename": "Maximum_Submissions.cpp"
+    "id": "CHEAT",
+    "name": "Dracula Eats",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEAT",
+    "sol_path": "Solutions/Dracula_Eats.cpp",
+    "filename": "Dracula_Eats.cpp"
   },
   {
-    "id": "DOREWARD",
-    "name": "Donation Rewards",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOREWARD",
-    "sol_path": "Solutions/Donation_Rewards.cpp",
-    "filename": "Donation_Rewards.cpp"
+    "id": "RCTGLD",
+    "name": "Rectangled",
+    "q_link": "https://www.codechef.com/problems/RCTGLD",
+    "sol_path": "Solutions/Rectangled.cpp",
+    "filename": "Rectangled.cpp"
   },
   {
-    "id": "PARLIAMENT",
-    "name": "Parliament",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARLIAMENT",
-    "sol_path": "Solutions/Parliament.cpp",
-    "filename": "Parliament.cpp"
+    "id": "SNDMAX",
+    "name": "Second Max of Three Numbers",
+    "q_link": "https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/SNDMAX",
+    "sol_path": "Solutions/Second_Max_of_Three_Numbers.cpp",
+    "filename": "Second_Max_of_Three_Numbers.cpp"
   },
   {
-    "id": "OPMIN",
-    "name": "MIN To MAX",
-    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN",
-    "sol_path": "Solutions/MIN_To_MAX.cpp",
-    "filename": "MIN_To_MAX.cpp"
+    "id": "SCHOOLTRIP",
+    "name": "School Trip",
+    "q_link": "https://www.codechef.com/START223C/problems/SCHOOLTRIP",
+    "sol_path": "Solutions/School_Trip.cpp",
+    "filename": "School_Trip.cpp"
   },
   {
-    "id": "SONGS",
-    "name": "Playlist",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SONGS",
-    "sol_path": "Solutions/Playlist.cpp",
-    "filename": "Playlist.cpp"
+    "id": "FLIPCARDS",
+    "name": "Flip the cards",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS",
+    "sol_path": "Solutions/Flip_the_cards.cpp",
+    "filename": "Flip_the_cards.cpp"
   },
   {
-    "id": "FILLCANDIES",
-    "name": "Fill Candies",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES",
-    "sol_path": "Solutions/Fill_Candies.cpp",
-    "filename": "Fill_Candies.cpp"
+    "id": "CWIREFRAME",
+    "name": "Chef and Wire Frames",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWIREFRAME",
+    "sol_path": "Solutions/Chef_and_Wire_Frames.cpp",
+    "filename": "Chef_and_Wire_Frames.cpp"
   },
   {
-    "id": "DPOLY",
-    "name": "Degree of Polynomial",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY",
-    "sol_path": "Solutions/Degree_of_Polynomial.cpp",
-    "filename": "Degree_of_Polynomial.cpp"
-  },
-  {
-    "id": "CANDYTYPE",
-    "name": "Candy Types",
-    "q_link": "https://www.codechef.com/START222D/problems/CANDYTYPE",
-    "sol_path": "Solutions/Candy_Types.cpp",
-    "filename": "Candy_Types.cpp"
-  },
-  {
-    "id": "BROKENPHONE",
-    "name": "Broken Phone",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE",
-    "sol_path": "Solutions/Broken_Phone.cpp",
-    "filename": "Broken_Phone.cpp"
-  },
-  {
-    "id": "COURSEREG",
-    "name": "Course Registration",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COURSEREG",
-    "sol_path": "Solutions/Course_Registration.cpp",
-    "filename": "Course_Registration.cpp"
-  },
-  {
-    "id": "LAYERCAKE",
-    "name": "Layered Cake",
-    "q_link": "https://www.codechef.com/START222D/problems/LAYERCAKE",
-    "sol_path": "Solutions/Layered_Cake.cpp",
-    "filename": "Layered_Cake.cpp"
-  },
-  {
-    "id": "CHN15A",
-    "name": "Mutated Minions",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A",
-    "sol_path": "Solutions/Mutated_Minions.cpp",
-    "filename": "Mutated_Minions.cpp"
-  },
-  {
-    "id": "MANGOES",
-    "name": "The Mango Truck",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANGOES",
-    "sol_path": "Solutions/The_Mango_Truck.cpp",
-    "filename": "The_Mango_Truck.cpp"
-  },
-  {
-    "id": "INTEST",
-    "name": "Enormous Input Test",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTEST",
-    "sol_path": "Solutions/Enormous_Input_Test.cpp",
-    "filename": "Enormous_Input_Test.cpp"
-  },
-  {
-    "id": "DIFFCONSEC",
-    "name": "Different Consecutive Characters",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/DIFFCONSEC",
-    "sol_path": "Solutions/Different_Consecutive_Characters.cpp",
-    "filename": "Different_Consecutive_Characters.cpp"
-  },
-  {
-    "id": "CHOCEAT",
-    "name": "Chocolate Eating",
-    "q_link": "https://www.codechef.com/START210D/problems/CHOCEAT",
-    "sol_path": "Solutions/Chocolate_Eating.cpp",
-    "filename": "Chocolate_Eating.cpp"
-  },
-  {
-    "id": "JENGA",
-    "name": "Jenga Night",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA",
-    "sol_path": "Solutions/Jenga_Night.cpp",
-    "filename": "Jenga_Night.cpp"
-  },
-  {
-    "id": "CHEFGAMES",
-    "name": "Chefland Games",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFGAMES",
-    "sol_path": "Solutions/Chefland_Games.cpp",
-    "filename": "Chefland_Games.cpp"
-  },
-  {
-    "id": "TODOLIST",
-    "name": "Problems in your to do list",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST",
-    "sol_path": "Solutions/Problems_in_your_to_do_list.cpp",
-    "filename": "Problems_in_your_to_do_list.cpp"
-  },
-  {
-    "id": "SLEEP",
-    "name": "Sleep deprivation",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SLEEP",
-    "sol_path": "Solutions/Sleep_deprivation.cpp",
-    "filename": "Sleep_deprivation.cpp"
+    "id": "SCORING",
+    "name": "Scoring",
+    "q_link": "https://www.codechef.com/START216D/problems/SCORING",
+    "sol_path": "Solutions/Scoring.cpp",
+    "filename": "Scoring.cpp"
   },
   {
     "id": "SELFDEF",
@@ -1785,53 +679,11 @@
     "filename": "Self_Defence_Training.cpp"
   },
   {
-    "id": "CREDSCORE",
-    "name": "Credit score",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CREDSCORE",
-    "sol_path": "Solutions/Credit_score.cpp",
-    "filename": "Credit_score.cpp"
-  },
-  {
-    "id": "CHESSTIME",
-    "name": "Chess Time",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHESSTIME",
-    "sol_path": "Solutions/Chess_Time.cpp",
-    "filename": "Chess_Time.cpp"
-  },
-  {
-    "id": "TOURIST",
-    "name": "Tourist",
-    "q_link": "https://www.codechef.com/START207D/problems/TOURIST",
-    "sol_path": "Solutions/Tourist.cpp",
-    "filename": "Tourist.cpp"
-  },
-  {
-    "id": "WORDLE",
-    "name": "Wordle",
-    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE",
-    "sol_path": "Solutions/Wordle.cpp",
-    "filename": "Wordle.cpp"
-  },
-  {
-    "id": "CHESSDIST",
-    "name": "Chessboard Distance",
-    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHESSDIST",
-    "sol_path": "Solutions/Chessboard_Distance.cpp",
-    "filename": "Chessboard_Distance.cpp"
-  },
-  {
-    "id": "SIXFRIENDS",
-    "name": "Six Friends",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SIXFRIENDS",
-    "sol_path": "Solutions/Six_Friends.cpp",
-    "filename": "Six_Friends.cpp"
-  },
-  {
-    "id": "PROINC",
-    "name": "Profit Increment",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PROINC",
-    "sol_path": "Solutions/Profit_Increment.cpp",
-    "filename": "Profit_Increment.cpp"
+    "id": "CHOCEAT",
+    "name": "Chocolate Eating",
+    "q_link": "https://www.codechef.com/START210D/problems/CHOCEAT",
+    "sol_path": "Solutions/Chocolate_Eating.cpp",
+    "filename": "Chocolate_Eating.cpp"
   },
   {
     "id": "MANAPTS",
@@ -1841,74 +693,39 @@
     "filename": "Mana_Points.cpp"
   },
   {
-    "id": "FLOW004",
-    "name": "First and Last Digit",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW004",
-    "sol_path": "Solutions/First_and_Last_Digit.cpp",
-    "filename": "First_and_Last_Digit.cpp"
+    "id": "RIP2000",
+    "name": "2000",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIP2000",
+    "sol_path": "Solutions/2000.cpp",
+    "filename": "2000.cpp"
   },
   {
-    "id": "CHEFONDATE",
-    "name": "Chef On Date",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEFONDATE",
-    "sol_path": "Solutions/Chef_On_Date.cpp",
-    "filename": "Chef_On_Date.cpp"
+    "id": "SPECIALITY",
+    "name": "Speciality",
+    "q_link": "https://www.codechef.com/problems/SPECIALITY",
+    "sol_path": "Solutions/Speciality.cpp",
+    "filename": "Speciality.cpp"
   },
   {
-    "id": "Monopoly",
-    "name": "Monopoly",
-    "q_link": "https://www.codechef.com/problems/Monopoly",
-    "sol_path": "Solutions/Monopoly.cpp",
-    "filename": "Monopoly.cpp"
+    "id": "PARTY2",
+    "name": "Chef gives Party",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PARTY2",
+    "sol_path": "Solutions/Chef_gives_Party.cpp",
+    "filename": "Chef_gives_Party.cpp"
   },
   {
-    "id": "INTRDSGN",
-    "name": "Interior Design",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTRDSGN",
-    "sol_path": "Solutions/Interior_Design.cpp",
-    "filename": "Interior_Design.cpp"
+    "id": "POPULATION",
+    "name": "Final Population",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/POPULATION",
+    "sol_path": "Solutions/Final_Population.cpp",
+    "filename": "Final_Population.cpp"
   },
   {
-    "id": "EXREST",
-    "name": "Exercise and Rest",
-    "q_link": "https://www.codechef.com/problems/EXREST",
-    "sol_path": "Solutions/Exercise_and_Rest.cpp",
-    "filename": "Exercise_and_Rest.cpp"
-  },
-  {
-    "id": "CNTWRD",
-    "name": "Counting Words",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CNTWRD",
-    "sol_path": "Solutions/Counting_Words.cpp",
-    "filename": "Counting_Words.cpp"
-  },
-  {
-    "id": "BMCV210",
-    "name": "Debug this code Total prize money",
-    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210",
-    "sol_path": "Solutions/Debug_this_code_Total_prize_money.cpp",
-    "filename": "Debug_this_code_Total_prize_money.cpp"
-  },
-  {
-    "id": "READPAGES",
-    "name": "Read Pages",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/READPAGES",
-    "sol_path": "Solutions/Read_Pages.cpp",
-    "filename": "Read_Pages.cpp"
-  },
-  {
-    "id": "STOPCOUNT",
-    "name": "Stop The Count",
-    "q_link": "https://www.codechef.com/problems/STOPCOUNT",
-    "sol_path": "Solutions/Stop_The_Count.cpp",
-    "filename": "Stop_The_Count.cpp"
-  },
-  {
-    "id": "KITCHENTIME",
-    "name": "Kitchen Timings",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME",
-    "sol_path": "Solutions/Kitchen_Timings.cpp",
-    "filename": "Kitchen_Timings.cpp"
+    "id": "AIRINDEX",
+    "name": "Air Quality Index",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX",
+    "sol_path": "Solutions/Air_Quality_Index.cpp",
+    "filename": "Air_Quality_Index.cpp"
   },
   {
     "id": "AIRLINES",
@@ -1918,11 +735,165 @@
     "filename": "Codechef_Airlines.cpp"
   },
   {
-    "id": "HEIGHTRATION",
-    "name": "Height of Rationals",
-    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HEIGHTRATION",
-    "sol_path": "Solutions/Height_of_Rationals.cpp",
-    "filename": "Height_of_Rationals.cpp"
+    "id": "CHAIRS_",
+    "name": "Chairs Requirement",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHAIRS_",
+    "sol_path": "Solutions/Chairs_Requirement.cpp",
+    "filename": "Chairs_Requirement.cpp"
+  },
+  {
+    "id": "CANDIVIDE",
+    "name": "Candy Division",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CANDIVIDE",
+    "sol_path": "Solutions/Candy_Division.cpp",
+    "filename": "Candy_Division.cpp"
+  },
+  {
+    "id": "SEPX",
+    "name": "Separation",
+    "q_link": "https://www.codechef.com/START213C/problems/SEPX",
+    "sol_path": "Solutions/Separation.cpp",
+    "filename": "Separation.cpp"
+  },
+  {
+    "id": "HS08TEST",
+    "name": "ATM",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST",
+    "sol_path": "Solutions/ATM.cpp",
+    "filename": "ATM.cpp"
+  },
+  {
+    "id": "TLG",
+    "name": "The Lead Game",
+    "q_link": "https://www.codechef.com/problems/TLG",
+    "sol_path": "Solutions/The_Lead_Game.cpp",
+    "filename": "The_Lead_Game.cpp"
+  },
+  {
+    "id": "EXAMCHEF",
+    "name": "Exams",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF",
+    "sol_path": "Solutions/Exams.cpp",
+    "filename": "Exams.cpp"
+  },
+  {
+    "id": "FLOW004",
+    "name": "First and Last Digit",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW004",
+    "sol_path": "Solutions/First_and_Last_Digit.cpp",
+    "filename": "First_and_Last_Digit.cpp"
+  },
+  {
+    "id": "MAXTASTE",
+    "name": "Maximise the Tastiness",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MAXTASTE",
+    "sol_path": "Solutions/Maximise_the_Tastiness.cpp",
+    "filename": "Maximise_the_Tastiness.cpp"
+  },
+  {
+    "id": "DETSCORE",
+    "name": "Determine the Score",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DETSCORE",
+    "sol_path": "Solutions/Determine_the_Score.cpp",
+    "filename": "Determine_the_Score.cpp"
+  },
+  {
+    "id": "CNTWRD",
+    "name": "Counting Words",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CNTWRD",
+    "sol_path": "Solutions/Counting_Words.cpp",
+    "filename": "Counting_Words.cpp"
+  },
+  {
+    "id": "INCAT",
+    "name": "Make Cat",
+    "q_link": "https://www.codechef.com/problems/INCAT",
+    "sol_path": "Solutions/Make_Cat.cpp",
+    "filename": "Make_Cat.cpp"
+  },
+  {
+    "id": "FSQRT",
+    "name": "Finding Square Roots",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT",
+    "sol_path": "Solutions/Finding_Square_Roots.cpp",
+    "filename": "Finding_Square_Roots.cpp"
+  },
+  {
+    "id": "WATERFLOW",
+    "name": "Bucket and Water Flow",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERFLOW",
+    "sol_path": "Solutions/Bucket_and_Water_Flow.cpp",
+    "filename": "Bucket_and_Water_Flow.cpp"
+  },
+  {
+    "id": "CHEFSCORE",
+    "name": "Test Score",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFSCORE",
+    "sol_path": "Solutions/Test_Score.cpp",
+    "filename": "Test_Score.cpp"
+  },
+  {
+    "id": "SMOL",
+    "name": "Smallest Possible Whole Number",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/SMOL",
+    "sol_path": "Solutions/Smallest_Possible_Whole_Number.cpp",
+    "filename": "Smallest_Possible_Whole_Number.cpp"
+  },
+  {
+    "id": "WTRMIXING",
+    "name": "Water Mixing",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WTRMIXING",
+    "sol_path": "Solutions/Water_Mixing.cpp",
+    "filename": "Water_Mixing.cpp"
+  },
+  {
+    "id": "AUDIBLE",
+    "name": "Audible Range",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE",
+    "sol_path": "Solutions/Audible_Range.cpp",
+    "filename": "Audible_Range.cpp"
+  },
+  {
+    "id": "CHOPRT",
+    "name": "Chef And Operators",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHOPRT",
+    "sol_path": "Solutions/Chef_And_Operators.cpp",
+    "filename": "Chef_And_Operators.cpp"
+  },
+  {
+    "id": "EXMLF1",
+    "name": "EXML Race",
+    "q_link": "https://www.codechef.com/START213C/problems/EXMLF1",
+    "sol_path": "Solutions/EXML_Race.cpp",
+    "filename": "EXML_Race.cpp"
+  },
+  {
+    "id": "SORTPREF",
+    "name": "Sorting Prefixes",
+    "q_link": "https://www.codechef.com/START222D/problems/SORTPREF",
+    "sol_path": "Solutions/Sorting_Prefixes.cpp",
+    "filename": "Sorting_Prefixes.cpp"
+  },
+  {
+    "id": "QUALIFY",
+    "name": "Qualify the round",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/QUALIFY",
+    "sol_path": "Solutions/Qualify_the_round.cpp",
+    "filename": "Qualify_the_round.cpp"
+  },
+  {
+    "id": "MAX_DIFF",
+    "name": "The Two Dishes",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF",
+    "sol_path": "Solutions/The_Two_Dishes.cpp",
+    "filename": "The_Two_Dishes.cpp"
+  },
+  {
+    "id": "OFFICE",
+    "name": "Chef in his Office",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE",
+    "sol_path": "Solutions/Chef_in_his_Office.cpp",
+    "filename": "Chef_in_his_Office.cpp"
   },
   {
     "id": "NETFLIX",
@@ -1932,6 +903,699 @@
     "filename": "Netflix.cpp"
   },
   {
+    "id": "BOBBANK",
+    "name": "Bob at the Bank",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BOBBANK",
+    "sol_path": "Solutions/Bob_at_the_Bank.cpp",
+    "filename": "Bob_at_the_Bank.cpp"
+  },
+  {
+    "id": "READPAGES",
+    "name": "Read Pages",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/READPAGES",
+    "sol_path": "Solutions/Read_Pages.cpp",
+    "filename": "Read_Pages.cpp"
+  },
+  {
+    "id": "DNATION",
+    "name": "Chef and Donation",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DNATION",
+    "sol_path": "Solutions/Chef_and_Donation.cpp",
+    "filename": "Chef_and_Donation.cpp"
+  },
+  {
+    "id": "VALIDSTK",
+    "name": "Valid Stack Operations",
+    "q_link": "https://www.codechef.com/practice/course/icpc/ICPCTR23/problems/VALIDSTK",
+    "sol_path": "Solutions/Valid_Stack_Operations.cpp",
+    "filename": "Valid_Stack_Operations.cpp"
+  },
+  {
+    "id": "ADDONE",
+    "name": "Add One",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE",
+    "sol_path": "Solutions/Add_One.cpp",
+    "filename": "Add_One.cpp"
+  },
+  {
+    "id": "DNASTORAGE",
+    "name": "DNA Storage",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/DNASTORAGE",
+    "sol_path": "Solutions/DNA_Storage.cpp",
+    "filename": "DNA_Storage.cpp"
+  },
+  {
+    "id": "RAINFALL1",
+    "name": "Rain in Chefland",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RAINFALL1",
+    "sol_path": "Solutions/Rain_in_Chefland.cpp",
+    "filename": "Rain_in_Chefland.cpp"
+  },
+  {
+    "id": "CS2023_GIFT",
+    "name": "The Gift",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CS2023_GIFT",
+    "sol_path": "Solutions/The_Gift.cpp",
+    "filename": "The_Gift.cpp"
+  },
+  {
+    "id": "CHEFRACES",
+    "name": "Chef and Races",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFRACES",
+    "sol_path": "Solutions/Chef_and_Races.cpp",
+    "filename": "Chef_and_Races.cpp"
+  },
+  {
+    "id": "SINGLENUM",
+    "name": "Single number in multiple numbers",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SINGLENUM",
+    "sol_path": "Solutions/Single_number_in_multiple_numbers.cpp",
+    "filename": "Single_number_in_multiple_numbers.cpp"
+  },
+  {
+    "id": "INTEST",
+    "name": "Enormous Input Test",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTEST",
+    "sol_path": "Solutions/Enormous_Input_Test.cpp",
+    "filename": "Enormous_Input_Test.cpp"
+  },
+  {
+    "id": "P1HOME",
+    "name": "Dice Play",
+    "q_link": "https://www.codechef.com/problems/P1HOME",
+    "sol_path": "Solutions/Dice_Play.cpp",
+    "filename": "Dice_Play.cpp"
+  },
+  {
+    "id": "ADD1234",
+    "name": "Adding 123 to 4",
+    "q_link": "https://www.codechef.com/START223C/problems/ADD1234",
+    "sol_path": "Solutions/Adding_123_to_4.cpp",
+    "filename": "Adding_123_to_4.cpp"
+  },
+  {
+    "id": "BUILDINGRACE",
+    "name": "Building Race",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BUILDINGRACE",
+    "sol_path": "Solutions/Building_Race.cpp",
+    "filename": "Building_Race.cpp"
+  },
+  {
+    "id": "SALESEASON",
+    "name": "Sale Season",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON",
+    "sol_path": "Solutions/Sale_Season.cpp",
+    "filename": "Sale_Season.cpp"
+  },
+  {
+    "id": "DOREWARD",
+    "name": "Donation Rewards",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOREWARD",
+    "sol_path": "Solutions/Donation_Rewards.cpp",
+    "filename": "Donation_Rewards.cpp"
+  },
+  {
+    "id": "JENGA",
+    "name": "Jenga Night",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JENGA",
+    "sol_path": "Solutions/Jenga_Night.cpp",
+    "filename": "Jenga_Night.cpp"
+  },
+  {
+    "id": "MANGOES",
+    "name": "The Mango Truck",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MANGOES",
+    "sol_path": "Solutions/The_Mango_Truck.cpp",
+    "filename": "The_Mango_Truck.cpp"
+  },
+  {
+    "id": "JADEBUG11",
+    "name": "Get Subscription",
+    "q_link": "https://www.codechef.com/practice/course/company-prep/PJA11/problems/JADEBUG11",
+    "sol_path": "Solutions/Get_Subscription.cpp",
+    "filename": "Get_Subscription.cpp"
+  },
+  {
+    "id": "CHESSTIME",
+    "name": "Chess Time",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHESSTIME",
+    "sol_path": "Solutions/Chess_Time.cpp",
+    "filename": "Chess_Time.cpp"
+  },
+  {
+    "id": "POLTHIEF",
+    "name": "Police and Thief",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLTHIEF",
+    "sol_path": "Solutions/Police_and_Thief.cpp",
+    "filename": "Police_and_Thief.cpp"
+  },
+  {
+    "id": "CGYM",
+    "name": "Chef and Gym",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CGYM",
+    "sol_path": "Solutions/Chef_and_Gym.cpp",
+    "filename": "Chef_and_Gym.cpp"
+  },
+  {
+    "id": "RECENTCONT",
+    "name": "Recent contest problems",
+    "q_link": "https://www.codechef.com/problems/RECENTCONT",
+    "sol_path": "Solutions/Recent_contest_problems.cpp",
+    "filename": "Recent_contest_problems.cpp"
+  },
+  {
+    "id": "HELIUM3",
+    "name": "Chef and NextGen",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIUM3",
+    "sol_path": "Solutions/Chef_and_NextGen.cpp",
+    "filename": "Chef_and_NextGen.cpp"
+  },
+  {
+    "id": "LTIME",
+    "name": "Lunchtime",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME",
+    "sol_path": "Solutions/Lunchtime.cpp",
+    "filename": "Lunchtime.cpp"
+  },
+  {
+    "id": "DECDISC",
+    "name": "Decoration Discount",
+    "q_link": "https://www.codechef.com/problems/DECDISC",
+    "sol_path": "Solutions/Decoration_Discount.cpp",
+    "filename": "Decoration_Discount.cpp"
+  },
+  {
+    "id": "AUCTION",
+    "name": "Bidding",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUCTION",
+    "sol_path": "Solutions/Bidding.cpp",
+    "filename": "Bidding.cpp"
+  },
+  {
+    "id": "CFRTEST",
+    "name": "Devu and friendship testing",
+    "q_link": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST",
+    "sol_path": "Solutions/Devu_and_friendship_testing.cpp",
+    "filename": "Devu_and_friendship_testing.cpp"
+  },
+  {
+    "id": "CANDYDIST",
+    "name": "Candy Distribution",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CANDYDIST",
+    "sol_path": "Solutions/Candy_Distribution.cpp",
+    "filename": "Candy_Distribution.cpp"
+  },
+  {
+    "id": "SINGLEUSE",
+    "name": "Single use Attack",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SINGLEUSE",
+    "sol_path": "Solutions/Single_use_Attack.cpp",
+    "filename": "Single_use_Attack.cpp"
+  },
+  {
+    "id": "BATH",
+    "name": "Bath in Winters",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BATH",
+    "sol_path": "Solutions/Bath_in_Winters.cpp",
+    "filename": "Bath_in_Winters.cpp"
+  },
+  {
+    "id": "INTRDSGN",
+    "name": "Interior Design",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INTRDSGN",
+    "sol_path": "Solutions/Interior_Design.cpp",
+    "filename": "Interior_Design.cpp"
+  },
+  {
+    "id": "INSURANCE",
+    "name": "Insurance",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/INSURANCE",
+    "sol_path": "Solutions/Insurance.cpp",
+    "filename": "Insurance.cpp"
+  },
+  {
+    "id": "PROC18A",
+    "name": "The Great Run",
+    "q_link": "https://www.codechef.com/problems/PROC18A",
+    "sol_path": "Solutions/The_Great_Run.cpp",
+    "filename": "The_Great_Run.cpp"
+  },
+  {
+    "id": "COMP4",
+    "name": "Competition of 4",
+    "q_link": "https://www.codechef.com/problems/COMP4",
+    "sol_path": "Solutions/Competition_of_4.cpp",
+    "filename": "Competition_of_4.cpp"
+  },
+  {
+    "id": "KITCHENCOST",
+    "name": "Cost of Groceries",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/KITCHENCOST",
+    "sol_path": "Solutions/Cost_of_Groceries.cpp",
+    "filename": "Cost_of_Groceries.cpp"
+  },
+  {
+    "id": "CHEFBOTTLE",
+    "name": "Chef and Water Bottles",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE",
+    "sol_path": "Solutions/Chef_and_Water_Bottles.cpp",
+    "filename": "Chef_and_Water_Bottles.cpp"
+  },
+  {
+    "id": "SST",
+    "name": "Sasta Shark Tank",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SST",
+    "sol_path": "Solutions/Sasta_Shark_Tank.cpp",
+    "filename": "Sasta_Shark_Tank.cpp"
+  },
+  {
+    "id": "GEMBUND",
+    "name": "Gem Bundles",
+    "q_link": "https://www.codechef.com/problems/GEMBUND",
+    "sol_path": "Solutions/Gem_Bundles.cpp",
+    "filename": "Gem_Bundles.cpp"
+  },
+  {
+    "id": "LAYERCAKE",
+    "name": "Layered Cake",
+    "q_link": "https://www.codechef.com/START222D/problems/LAYERCAKE",
+    "sol_path": "Solutions/Layered_Cake.cpp",
+    "filename": "Layered_Cake.cpp"
+  },
+  {
+    "id": "MOOCHEF",
+    "name": "Moody Chef",
+    "q_link": "https://www.codechef.com/problems/MOOCHEF",
+    "sol_path": "Solutions/Moody_Chef.cpp",
+    "filename": "Moody_Chef.cpp"
+  },
+  {
+    "id": "CHEFAPPS",
+    "name": "Chef and his Apps",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFAPPS",
+    "sol_path": "Solutions/Chef_and_his_Apps.cpp",
+    "filename": "Chef_and_his_Apps.cpp"
+  },
+  {
+    "id": "BIRYANI",
+    "name": "Biryani classes",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BIRYANI",
+    "sol_path": "Solutions/Biryani_classes.cpp",
+    "filename": "Biryani_classes.cpp"
+  },
+  {
+    "id": "ELECTN",
+    "name": "Elections in Chefland",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ELECTN",
+    "sol_path": "Solutions/Elections_in_Chefland.cpp",
+    "filename": "Elections_in_Chefland.cpp"
+  },
+  {
+    "id": "WCC",
+    "name": "World Chess Championship",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/WCC",
+    "sol_path": "Solutions/World_Chess_Championship.cpp",
+    "filename": "World_Chess_Championship.cpp"
+  },
+  {
+    "id": "LUCKYSEVEN",
+    "name": "Lucky Seven",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN",
+    "sol_path": "Solutions/Lucky_Seven.cpp",
+    "filename": "Lucky_Seven.cpp"
+  },
+  {
+    "id": "BMCV201",
+    "name": "Basic math Addition and multiplication",
+    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV201",
+    "sol_path": "Solutions/Basic_math_Addition_and_multiplication.cpp",
+    "filename": "Basic_math_Addition_and_multiplication.cpp"
+  },
+  {
+    "id": "CARCHOICE",
+    "name": "Car Choice",
+    "q_link": "https://www.codechef.com/problems/CARCHOICE",
+    "sol_path": "Solutions/Car_Choice.cpp",
+    "filename": "Car_Choice.cpp"
+  },
+  {
+    "id": "CHEFCHOCO",
+    "name": "Chef and Chocolates",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEFCHOCO",
+    "sol_path": "Solutions/Chef_and_Chocolates.cpp",
+    "filename": "Chef_and_Chocolates.cpp"
+  },
+  {
+    "id": "CRICUP",
+    "name": "Cup Finals",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CRICUP",
+    "sol_path": "Solutions/Cup_Finals.cpp",
+    "filename": "Cup_Finals.cpp"
+  },
+  {
+    "id": "MONOPOLY2",
+    "name": "Multivitamin Tablets",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MONOPOLY2",
+    "sol_path": "Solutions/Multivitamin_Tablets.cpp",
+    "filename": "Multivitamin_Tablets.cpp"
+  },
+  {
+    "id": "MYSERVE",
+    "name": "It is My Serve",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MYSERVE",
+    "sol_path": "Solutions/It_is_My_Serve.cpp",
+    "filename": "It_is_My_Serve.cpp"
+  },
+  {
+    "id": "NEARESTEXIT",
+    "name": "Nearest Exit",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NEARESTEXIT",
+    "sol_path": "Solutions/Nearest_Exit.cpp",
+    "filename": "Nearest_Exit.cpp"
+  },
+  {
+    "id": "MONOPOLY",
+    "name": "Monopoly in Chefland",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/MONOPOLY",
+    "sol_path": "Solutions/Monopoly_in_Chefland.cpp",
+    "filename": "Monopoly_in_Chefland.cpp"
+  },
+  {
+    "id": "ATM2",
+    "name": "ATM Machine",
+    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/ATM2",
+    "sol_path": "Solutions/ATM_Machine.cpp",
+    "filename": "ATM_Machine.cpp"
+  },
+  {
+    "id": "CHESSDIST",
+    "name": "Chessboard Distance",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHESSDIST",
+    "sol_path": "Solutions/Chessboard_Distance.cpp",
+    "filename": "Chessboard_Distance.cpp"
+  },
+  {
+    "id": "AORB",
+    "name": "A or B",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB",
+    "sol_path": "Solutions/A_or_B.cpp",
+    "filename": "A_or_B.cpp"
+  },
+  {
+    "id": "FEVER",
+    "name": "Fever",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FEVER",
+    "sol_path": "Solutions/Fever.cpp",
+    "filename": "Fever.cpp"
+  },
+  {
+    "id": "CHFSPL",
+    "name": "Chef and Spells",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CHFSPL",
+    "sol_path": "Solutions/Chef_and_Spells.cpp",
+    "filename": "Chef_and_Spells.cpp"
+  },
+  {
+    "id": "MOZZ",
+    "name": "Endless Appetizers",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ",
+    "sol_path": "Solutions/Endless_Appetizers.cpp",
+    "filename": "Endless_Appetizers.cpp"
+  },
+  {
+    "id": "PUZHUNT",
+    "name": "Puzzle Hunt",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PUZHUNT",
+    "sol_path": "Solutions/Puzzle_Hunt.cpp",
+    "filename": "Puzzle_Hunt.cpp"
+  },
+  {
+    "id": "LMP1",
+    "name": "Protein Diet",
+    "q_link": "https://www.codechef.com/START221C/problems/LMP1",
+    "sol_path": "Solutions/Protein_Diet.cpp",
+    "filename": "Protein_Diet.cpp"
+  },
+  {
+    "id": "CHEFEREN",
+    "name": "Chef Eren",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN",
+    "sol_path": "Solutions/Chef_Eren.cpp",
+    "filename": "Chef_Eren.cpp"
+  },
+  {
+    "id": "NFS",
+    "name": "Turn It",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/NFS",
+    "sol_path": "Solutions/Turn_It.cpp",
+    "filename": "Turn_It.cpp"
+  },
+  {
+    "id": "FLOW007",
+    "name": "Reverse The Number",
+    "q_link": "https://www.codechef.com/problems/FLOW007",
+    "sol_path": "Solutions/Reverse_The_Number.cpp",
+    "filename": "Reverse_The_Number.cpp"
+  },
+  {
+    "id": "BALLOONS",
+    "name": "Coloured Balloons",
+    "q_link": "https://www.codechef.com/problems/BALLOONS",
+    "sol_path": "Solutions/Coloured_Balloons.cpp",
+    "filename": "Coloured_Balloons.cpp"
+  },
+  {
+    "id": "SUMM",
+    "name": "Sum it",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SUMM",
+    "sol_path": "Solutions/Sum_it.cpp",
+    "filename": "Sum_it.cpp"
+  },
+  {
+    "id": "WEIGHTBL",
+    "name": "Weight Balance",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/WEIGHTBL",
+    "sol_path": "Solutions/Weight_Balance.cpp",
+    "filename": "Weight_Balance.cpp"
+  },
+  {
+    "id": "FAIRSHARE",
+    "name": "Fair Share Settlement",
+    "q_link": "https://www.codechef.com/problems/FAIRSHARE",
+    "sol_path": "Solutions/Fair_Share_Settlement.cpp",
+    "filename": "Fair_Share_Settlement.cpp"
+  },
+  {
+    "id": "FLOW017",
+    "name": "Second Largest",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017",
+    "sol_path": "Solutions/Second_Largest.cpp",
+    "filename": "Second_Largest.cpp"
+  },
+  {
+    "id": "BESTSEATS",
+    "name": "Best Seats",
+    "q_link": "https://www.codechef.com/START216D/problems/BESTSEATS",
+    "sol_path": "Solutions/Best_Seats.cpp",
+    "filename": "Best_Seats.cpp"
+  },
+  {
+    "id": "KITCHENSPICE",
+    "name": "Spice Level",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENSPICE",
+    "sol_path": "Solutions/Spice_Level.cpp",
+    "filename": "Spice_Level.cpp"
+  },
+  {
+    "id": "CLEARDAY",
+    "name": "Clear Day",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CLEARDAY",
+    "sol_path": "Solutions/Clear_Day.cpp",
+    "filename": "Clear_Day.cpp"
+  },
+  {
+    "id": "COURSEREG",
+    "name": "Course Registration",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/COURSEREG",
+    "sol_path": "Solutions/Course_Registration.cpp",
+    "filename": "Course_Registration.cpp"
+  },
+  {
+    "id": "TODOLIST",
+    "name": "Problems in your to do list",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST",
+    "sol_path": "Solutions/Problems_in_your_to_do_list.cpp",
+    "filename": "Problems_in_your_to_do_list.cpp"
+  },
+  {
+    "id": "OCTATHON",
+    "name": "October Marathon",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/OCTATHON",
+    "sol_path": "Solutions/October_Marathon.cpp",
+    "filename": "October_Marathon.cpp"
+  },
+  {
+    "id": "GOODWEAT",
+    "name": "Good Weather",
+    "q_link": "https://www.codechef.com/problems/GOODWEAT",
+    "sol_path": "Solutions/Good_Weather.cpp",
+    "filename": "Good_Weather.cpp"
+  },
+  {
+    "id": "FLOW006",
+    "name": "Sum of Digits",
+    "q_link": "https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/FLOW006",
+    "sol_path": "Solutions/Sum_of_Digits.cpp",
+    "filename": "Sum_of_Digits.cpp"
+  },
+  {
+    "id": "NIBBLE",
+    "name": "Good Program",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NIBBLE",
+    "sol_path": "Solutions/Good_Program.cpp",
+    "filename": "Good_Program.cpp"
+  },
+  {
+    "id": "BMCV210",
+    "name": "Debug this code Total prize money",
+    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV210",
+    "sol_path": "Solutions/Debug_this_code_Total_prize_money.cpp",
+    "filename": "Debug_this_code_Total_prize_money.cpp"
+  },
+  {
+    "id": "NUGGET",
+    "name": "Moneymaking",
+    "q_link": "https://www.codechef.com/problems/NUGGET",
+    "sol_path": "Solutions/Moneymaking.cpp",
+    "filename": "Moneymaking.cpp"
+  },
+  {
+    "id": "NEWPIECE",
+    "name": "New Piece",
+    "q_link": "https://www.codechef.com/problems/NEWPIECE",
+    "sol_path": "Solutions/New_Piece.cpp",
+    "filename": "New_Piece.cpp"
+  },
+  {
+    "id": "PAR2",
+    "name": "Parity",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PAR2",
+    "sol_path": "Solutions/Parity.cpp",
+    "filename": "Parity.cpp"
+  },
+  {
+    "id": "IMDB",
+    "name": "Motivation",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/IMDB",
+    "sol_path": "Solutions/Motivation.cpp",
+    "filename": "Motivation.cpp"
+  },
+  {
+    "id": "CHEFONDATE",
+    "name": "Chef On Date",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEFONDATE",
+    "sol_path": "Solutions/Chef_On_Date.cpp",
+    "filename": "Chef_On_Date.cpp"
+  },
+  {
+    "id": "NOTEBOOK",
+    "name": "Count the Notebooks",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NOTEBOOK",
+    "sol_path": "Solutions/Count_the_Notebooks.cpp",
+    "filename": "Count_the_Notebooks.cpp"
+  },
+  {
+    "id": "CHEAPFOOD",
+    "name": "Best Coupon",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CHEAPFOOD",
+    "sol_path": "Solutions/Best_Coupon.cpp",
+    "filename": "Best_Coupon.cpp"
+  },
+  {
+    "id": "CSTOCK",
+    "name": "Chef and Stock Prices",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CSTOCK",
+    "sol_path": "Solutions/Chef_and_Stock_Prices.cpp",
+    "filename": "Chef_and_Stock_Prices.cpp"
+  },
+  {
+    "id": "TWOPLG",
+    "name": "Two Pile Game",
+    "q_link": "https://www.codechef.com/START220D/problems/TWOPLG",
+    "sol_path": "Solutions/Two_Pile_Game.cpp",
+    "filename": "Two_Pile_Game.cpp"
+  },
+  {
+    "id": "FLOW018",
+    "name": "Small Factorial",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW018",
+    "sol_path": "Solutions/Small_Factorial.cpp",
+    "filename": "Small_Factorial.cpp"
+  },
+  {
+    "id": "BMCV206",
+    "name": "Practice problem Fitness",
+    "q_link": "https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC05_V2/problems/BMCV206",
+    "sol_path": "Solutions/Practice_problem_Fitness.cpp",
+    "filename": "Practice_problem_Fitness.cpp"
+  },
+  {
+    "id": "MINCOINSREQ",
+    "name": "Minimum Coins",
+    "q_link": "https://www.codechef.com/problems/MINCOINSREQ",
+    "sol_path": "Solutions/Minimum_Coins.cpp",
+    "filename": "Minimum_Coins.cpp"
+  },
+  {
+    "id": "CARTRIP",
+    "name": "Car Trip",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP",
+    "sol_path": "Solutions/Car_Trip.cpp",
+    "filename": "Car_Trip.cpp"
+  },
+  {
+    "id": "SEARCHINARR",
+    "name": "Search an element in an array",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SEARCHINARR",
+    "sol_path": "Solutions/Search_an_element_in_an_array.cpp",
+    "filename": "Search_an_element_in_an_array.cpp"
+  },
+  {
+    "id": "TOP10",
+    "name": "Masterchef finals",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TOP10",
+    "sol_path": "Solutions/Masterchef_finals.cpp",
+    "filename": "Masterchef_finals.cpp"
+  },
+  {
+    "id": "EXREST",
+    "name": "Exercise and Rest",
+    "q_link": "https://www.codechef.com/problems/EXREST",
+    "sol_path": "Solutions/Exercise_and_Rest.cpp",
+    "filename": "Exercise_and_Rest.cpp"
+  },
+  {
+    "id": "EZSPEAK",
+    "name": "Easy Pronunciation",
+    "q_link": "https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/EZSPEAK",
+    "sol_path": "Solutions/Easy_Pronunciation.cpp",
+    "filename": "Easy_Pronunciation.cpp"
+  },
+  {
+    "id": "ENTERTAIN",
+    "name": "Entertainments",
+    "q_link": "https://www.codechef.com/START216D/problems/ENTERTAIN",
+    "sol_path": "Solutions/Entertainments.cpp",
+    "filename": "Entertainments.cpp"
+  },
+  {
+    "id": "DNASTRAND",
+    "name": "Complementary Strand in a DNA",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DNASTRAND",
+    "sol_path": "Solutions/Complementary_Strand_in_a_DNA.cpp",
+    "filename": "Complementary_Strand_in_a_DNA.cpp"
+  },
+  {
     "id": "M1ENROL",
     "name": "MATH1 Enrolment",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/M1ENROL",
@@ -1939,10 +1603,374 @@
     "filename": "MATH1_Enrolment.cpp"
   },
   {
+    "id": "OPMIN",
+    "name": "MIN To MAX",
+    "q_link": "https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN",
+    "sol_path": "Solutions/MIN_To_MAX.cpp",
+    "filename": "MIN_To_MAX.cpp"
+  },
+  {
+    "id": "TOURIST",
+    "name": "Tourist",
+    "q_link": "https://www.codechef.com/START207D/problems/TOURIST",
+    "sol_path": "Solutions/Tourist.cpp",
+    "filename": "Tourist.cpp"
+  },
+  {
+    "id": "PROINC",
+    "name": "Profit Increment",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PROINC",
+    "sol_path": "Solutions/Profit_Increment.cpp",
+    "filename": "Profit_Increment.cpp"
+  },
+  {
+    "id": "BROKENPHONE",
+    "name": "Broken Phone",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BROKENPHONE",
+    "sol_path": "Solutions/Broken_Phone.cpp",
+    "filename": "Broken_Phone.cpp"
+  },
+  {
+    "id": "WAITTIME",
+    "name": "Waiting Time",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WAITTIME",
+    "sol_path": "Solutions/Waiting_Time.cpp",
+    "filename": "Waiting_Time.cpp"
+  },
+  {
+    "id": "APLUSB",
+    "name": "A PLUS B Remastered",
+    "q_link": "https://www.codechef.com/problems/APLUSB",
+    "sol_path": "Solutions/A_PLUS_B_Remastered.cpp",
+    "filename": "A_PLUS_B_Remastered.cpp"
+  },
+  {
+    "id": "IPLTRSH",
+    "name": "IPL Ticket Rush",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/IPLTRSH",
+    "sol_path": "Solutions/IPL_Ticket_Rush.cpp",
+    "filename": "IPL_Ticket_Rush.cpp"
+  },
+  {
+    "id": "FLOW011",
+    "name": "Gross Salary",
+    "q_link": "https://www.codechef.com/problems/FLOW011",
+    "sol_path": "Solutions/Gross_Salary.cpp",
+    "filename": "Gross_Salary.cpp"
+  },
+  {
+    "id": "NO4S",
+    "name": "No 4 Please",
+    "q_link": "https://www.codechef.com/START213C/problems/NO4S",
+    "sol_path": "Solutions/No_4_Please.cpp",
+    "filename": "No_4_Please.cpp"
+  },
+  {
+    "id": "MANYSUMS",
+    "name": "Distinct Pair Sums",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MANYSUMS",
+    "sol_path": "Solutions/Distinct_Pair_Sums.cpp",
+    "filename": "Distinct_Pair_Sums.cpp"
+  },
+  {
+    "id": "EXPENSES",
+    "name": "Expense List",
+    "q_link": "https://www.codechef.com/problems/EXPENSES",
+    "sol_path": "Solutions/Expense_List.cpp",
+    "filename": "Expense_List.cpp"
+  },
+  {
+    "id": "BTRYHLTH",
+    "name": "Battery Health",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BTRYHLTH",
+    "sol_path": "Solutions/Battery_Health.cpp",
+    "filename": "Battery_Health.cpp"
+  },
+  {
+    "id": "CWC23QUALIF",
+    "name": "Cricket World Cup Qualifier",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF",
+    "sol_path": "Solutions/Cricket_World_Cup_Qualifier.cpp",
+    "filename": "Cricket_World_Cup_Qualifier.cpp"
+  },
+  {
+    "id": "REACH_HOME",
+    "name": "Reach Home",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACH_HOME",
+    "sol_path": "Solutions/Reach_Home.cpp",
+    "filename": "Reach_Home.cpp"
+  },
+  {
+    "id": "SPCP2",
+    "name": "Airlines",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPCP2",
+    "sol_path": "Solutions/Airlines.cpp",
+    "filename": "Airlines.cpp"
+  },
+  {
+    "id": "TANDJ1",
+    "name": "Tom And Jerry 1",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1",
+    "sol_path": "Solutions/Tom_And_Jerry_1.cpp",
+    "filename": "Tom_And_Jerry_1.cpp"
+  },
+  {
+    "id": "SIXFRIENDS",
+    "name": "Six Friends",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/SIXFRIENDS",
+    "sol_path": "Solutions/Six_Friends.cpp",
+    "filename": "Six_Friends.cpp"
+  },
+  {
+    "id": "FLOW002",
+    "name": "Find Remainder",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FLOW002",
+    "sol_path": "Solutions/Find_Remainder.cpp",
+    "filename": "Find_Remainder.cpp"
+  },
+  {
     "id": "THREETOPICS",
     "name": "The Three Topics",
     "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/THREETOPICS",
     "sol_path": "Solutions/The_Three_Topics.cpp",
     "filename": "The_Three_Topics.cpp"
+  },
+  {
+    "id": "JERRYCHASE",
+    "name": "Tom and Jerry Chase",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/JERRYCHASE",
+    "sol_path": "Solutions/Tom_and_Jerry_Chase.cpp",
+    "filename": "Tom_and_Jerry_Chase.cpp"
+  },
+  {
+    "id": "T20MCH",
+    "name": "Possible Victory",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH",
+    "sol_path": "Solutions/Possible_Victory.cpp",
+    "filename": "Possible_Victory.cpp"
+  },
+  {
+    "id": "CANDYTYPE",
+    "name": "Candy Types",
+    "q_link": "https://www.codechef.com/START222D/problems/CANDYTYPE",
+    "sol_path": "Solutions/Candy_Types.cpp",
+    "filename": "Candy_Types.cpp"
+  },
+  {
+    "id": "FIZZBUZZ2303",
+    "name": "Chef Fantasy 11",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FIZZBUZZ2303",
+    "sol_path": "Solutions/Chef_Fantasy_11.cpp",
+    "filename": "Chef_Fantasy_11.cpp"
+  },
+  {
+    "id": "MOVIE2X",
+    "name": "Watching Movies at 2x",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOVIE2X",
+    "sol_path": "Solutions/Watching_Movies_at_2x.cpp",
+    "filename": "Watching_Movies_at_2x.cpp"
+  },
+  {
+    "id": "TYRE",
+    "name": "Tyre problem",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TYRE",
+    "sol_path": "Solutions/Tyre_problem.cpp",
+    "filename": "Tyre_problem.cpp"
+  },
+  {
+    "id": "PRB01",
+    "name": "Primality Test",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01",
+    "sol_path": "Solutions/Primality_Test.cpp",
+    "filename": "Primality_Test.cpp"
+  },
+  {
+    "id": "TRAVELFAST",
+    "name": "Car or Bike",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRAVELFAST",
+    "sol_path": "Solutions/Car_or_Bike.cpp",
+    "filename": "Car_or_Bike.cpp"
+  },
+  {
+    "id": "PRIZEPOOL",
+    "name": "Total Prize Money",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRIZEPOOL",
+    "sol_path": "Solutions/Total_Prize_Money.cpp",
+    "filename": "Total_Prize_Money.cpp"
+  },
+  {
+    "id": "REACHTARGET",
+    "name": "Reach the Target",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/REACHTARGET",
+    "sol_path": "Solutions/Reach_the_Target.cpp",
+    "filename": "Reach_the_Target.cpp"
+  },
+  {
+    "id": "TAXSAVING",
+    "name": "Saving Taxes",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TAXSAVING",
+    "sol_path": "Solutions/Saving_Taxes.cpp",
+    "filename": "Saving_Taxes.cpp"
+  },
+  {
+    "id": "WATERREQ",
+    "name": "Water Requirement",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/WATERREQ",
+    "sol_path": "Solutions/Water_Requirement.cpp",
+    "filename": "Water_Requirement.cpp"
+  },
+  {
+    "id": "CREDSCORE",
+    "name": "Credit score",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CREDSCORE",
+    "sol_path": "Solutions/Credit_score.cpp",
+    "filename": "Credit_score.cpp"
+  },
+  {
+    "id": "MXEVNSUB",
+    "name": "Maximum Length Even Subarray",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MXEVNSUB",
+    "sol_path": "Solutions/Maximum_Length_Even_Subarray.cpp",
+    "filename": "Maximum_Length_Even_Subarray.cpp"
+  },
+  {
+    "id": "CMASKS",
+    "name": "Chef and Masks",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CMASKS",
+    "sol_path": "Solutions/Chef_and_Masks.cpp",
+    "filename": "Chef_and_Masks.cpp"
+  },
+  {
+    "id": "CHEFVACATION",
+    "name": "Chef on Vacation",
+    "q_link": "https://www.codechef.com/problems/CHEFVACATION",
+    "sol_path": "Solutions/Chef_on_Vacation.cpp",
+    "filename": "Chef_on_Vacation.cpp"
+  },
+  {
+    "id": "WORDLE",
+    "name": "Wordle",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/WORDLE",
+    "sol_path": "Solutions/Wordle.cpp",
+    "filename": "Wordle.cpp"
+  },
+  {
+    "id": "TITLECASE",
+    "name": "Convert String to Title Case",
+    "q_link": "https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE",
+    "sol_path": "Solutions/Convert_String_to_Title_Case.cpp",
+    "filename": "Convert_String_to_Title_Case.cpp"
+  },
+  {
+    "id": "FIFTYPE",
+    "name": "Chef and Battery",
+    "q_link": "https://www.codechef.com/problems/FIFTYPE",
+    "sol_path": "Solutions/Chef_and_Battery.cpp",
+    "filename": "Chef_and_Battery.cpp"
+  },
+  {
+    "id": "DOUBLERENT",
+    "name": "Double Rent",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DOUBLERENT",
+    "sol_path": "Solutions/Double_Rent.cpp",
+    "filename": "Double_Rent.cpp"
+  },
+  {
+    "id": "BNE_APT",
+    "name": "Bone Appetit",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BNE_APT",
+    "sol_path": "Solutions/Bone_Appetit.cpp",
+    "filename": "Bone_Appetit.cpp"
+  },
+  {
+    "id": "FINE",
+    "name": "Overspeeding Fine",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FINE",
+    "sol_path": "Solutions/Overspeeding_Fine.cpp",
+    "filename": "Overspeeding_Fine.cpp"
+  },
+  {
+    "id": "CPPDEBUG04",
+    "name": "Who is taller",
+    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG04",
+    "sol_path": "Solutions/Who_is_taller.cpp",
+    "filename": "Who_is_taller.cpp"
+  },
+  {
+    "id": "DONDRIVE",
+    "name": "Donation Drive",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/DONDRIVE",
+    "sol_path": "Solutions/Donation_Drive.cpp",
+    "filename": "Donation_Drive.cpp"
+  },
+  {
+    "id": "CHN15A",
+    "name": "Mutated Minions",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A",
+    "sol_path": "Solutions/Mutated_Minions.cpp",
+    "filename": "Mutated_Minions.cpp"
+  },
+  {
+    "id": "ONEMORE",
+    "name": "Just One More Episode",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ONEMORE",
+    "sol_path": "Solutions/Just_One_More_Episode.cpp",
+    "filename": "Just_One_More_Episode.cpp"
+  },
+  {
+    "id": "BIN_BAT",
+    "name": "Binary Battles",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT",
+    "sol_path": "Solutions/Binary_Battles.cpp",
+    "filename": "Binary_Battles.cpp"
+  },
+  {
+    "id": "START01",
+    "name": "Number Mirror",
+    "q_link": "https://www.codechef.com/practice/course/cpp/PCPP01/problems/START01",
+    "sol_path": "Solutions/Number_Mirror.cpp",
+    "filename": "Number_Mirror.cpp"
+  },
+  {
+    "id": "TWODISH",
+    "name": "Two Dishes",
+    "q_link": "https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH",
+    "sol_path": "Solutions/Two_Dishes.cpp",
+    "filename": "Two_Dishes.cpp"
+  },
+  {
+    "id": "TFPAPER",
+    "name": "True and False Paper",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TFPAPER",
+    "sol_path": "Solutions/True_and_False_Paper.cpp",
+    "filename": "True_and_False_Paper.cpp"
+  },
+  {
+    "id": "XMASTREE",
+    "name": "Christmas Trees",
+    "q_link": "https://www.codechef.com/problems/XMASTREE",
+    "sol_path": "Solutions/Christmas_Trees.cpp",
+    "filename": "Christmas_Trees.cpp"
+  },
+  {
+    "id": "TRUESCORE",
+    "name": "Is the Score Consistent",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE",
+    "sol_path": "Solutions/Is_the_Score_Consistent.cpp",
+    "filename": "Is_the_Score_Consistent.cpp"
+  },
+  {
+    "id": "SPEEDTEST",
+    "name": "Speed Limit Test",
+    "q_link": "https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST",
+    "sol_path": "Solutions/Speed_Limit_Test.cpp",
+    "filename": "Speed_Limit_Test.cpp"
+  },
+  {
+    "id": "FAIRPASS",
+    "name": "Passes for Fair",
+    "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/FAIRPASS",
+    "sol_path": "Solutions/Passes_for_Fair.cpp",
+    "filename": "Passes_for_Fair.cpp"
   }
 ]
