@@ -609,6 +609,13 @@
     "filename": "Roller_Coaster.cpp"
   },
   {
+    "id": "DSACPR49",
+    "name": "Leader of an Array",
+    "q_link": "https://www.codechef.com/DSAMONDAY009/problems/DSACPR49",
+    "sol_path": "Solutions/Leader_of_an_Array.cpp",
+    "filename": "Leader_of_an_Array.cpp"
+  },
+  {
     "id": "F1RULE",
     "name": "Miami GP",
     "q_link": "https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/F1RULE",

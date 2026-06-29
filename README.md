@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-282-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-283-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 282
+**Total Problems Solved:** 283
 
 ---
 
@@ -172,6 +172,7 @@
 | KTTABLE | Kitchen Timetable | [View](https://www.codechef.com/problems/KTTABLE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timetable.cpp) |
 | KITCHENTIME | Kitchen Timings | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/KITCHENTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Kitchen_Timings.cpp) |
 | LAYERCAKE | Layered Cake | [View](https://www.codechef.com/START222D/problems/LAYERCAKE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Layered_Cake.cpp) |
+| DSACPR49 | Leader of an Array | [View](https://www.codechef.com/DSAMONDAY009/problems/DSACPR49) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Leader_of_an_Array.cpp) |
 | LUCKYSEVEN | Lucky Seven | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LUCKYSEVEN) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lucky_Seven.cpp) |
 | LTIME | Lunchtime | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/LTIME) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Lunchtime.cpp) |
 | M1ENROL | MATH1 Enrolment | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/M1ENROL) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/MATH1_Enrolment.cpp) |
