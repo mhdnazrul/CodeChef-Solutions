@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-278-orange?style=for-the-badge&logo=codechef" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-282-orange?style=for-the-badge&logo=codechef" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 278
+**Total Problems Solved:** 282
 
 ---
 
@@ -26,10 +26,12 @@
 | :---: | :--- | :---: | :---: |
 | RIP2000 | 2000 | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/RIP2000) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/2000.cpp) |
 | ERROR404 | 404 Not Found | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/ERROR404) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/404_Not_Found.cpp) |
+| APLUSB | A PLUS B Remastered | [View](https://www.codechef.com/problems/APLUSB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_PLUS_B_Remastered.cpp) |
 | AORB | A or B | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AORB) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/A_or_B.cpp) |
 | HS08TEST | ATM | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/HS08TEST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM.cpp) |
 | ATM2 | ATM Machine | [View](https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/ATM2) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/ATM_Machine.cpp) |
 | ADDONE | Add One | [View](https://www.codechef.com/practice/course/strings/STRINGS/problems/ADDONE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Add_One.cpp) |
+| ADD1234 | Adding 123 to 4 | [View](https://www.codechef.com/START223C/problems/ADD1234) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Adding_123_to_4.cpp) |
 | AGEING | Ageing | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AGEING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Ageing.cpp) |
 | ACTEMP | Air Conditioner Temperature | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Conditioner_Temperature.cpp) |
 | AIRINDEX | Air Quality Index | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRINDEX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Air_Quality_Index.cpp) |
@@ -199,6 +201,7 @@
 | CHN15A | Mutated Minions | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Mutated_Minions.cpp) |
 | NEARESTEXIT | Nearest Exit | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/NEARESTEXIT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Nearest_Exit.cpp) |
 | NETFLIX | Netflix | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/NETFLIX) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Netflix.cpp) |
+| NEWPIECE | New Piece | [View](https://www.codechef.com/problems/NEWPIECE) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/New_Piece.cpp) |
 | NO4S | No 4 Please | [View](https://www.codechef.com/START213C/problems/NO4S) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/No_4_Please.cpp) |
 | NOTECNT | Notebook Counting | [View](https://www.codechef.com/START210D/problems/NOTECNT) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Notebook_Counting.cpp) |
 | START01 | Number Mirror | [View](https://www.codechef.com/practice/course/cpp/PCPP01/problems/START01) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Number_Mirror.cpp) |
@@ -241,6 +244,7 @@
 | SALESEASON | Sale Season | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sale_Season.cpp) |
 | SST | Sasta Shark Tank | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SST) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Sasta_Shark_Tank.cpp) |
 | TAXSAVING | Saving Taxes | [View](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/TAXSAVING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Saving_Taxes.cpp) |
+| SCHOOLTRIP | School Trip | [View](https://www.codechef.com/START223C/problems/SCHOOLTRIP) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/School_Trip.cpp) |
 | SCORING | Scoring | [View](https://www.codechef.com/START216D/problems/SCORING) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Scoring.cpp) |
 | SEARCHINARR | Search an element in an array | [View](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SEARCHINARR) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Search_an_element_in_an_array.cpp) |
 | FLOW017 | Second Largest | [View](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017) | [Code](https://github.com/mhdnazrul/CodeChef-Solutions/blob/main/Solutions/Second_Largest.cpp) |
